@@ -1,0 +1,1053 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" relatedencoding="DC" scriptencoding="iso15924">
+        <eadid countrycode="us" publicid="-//Buffalo History Museum::Research Library//TEXT(US::NBuHi::B00-10::Niagara County Records)//EN" mainagencycode="NBuHi" encodinganalog="identifier">nbuhi_tbhm_b00_10</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Finding Aid for the Niagara County
+ Records 
+ <date type="inclusive" normal="1808/1830" era="ce" calendar="gregorian" encodinganalog="date ">1808-1830</date>
+                    <date type="bulk" normal="1808/1820" era="ce" calendar="gregorian" encodinganalog="date ">(1808-1820 bulk )</date>
+                </titleproper>
+                <titleproper altrender="nodisplay" type="filing">Niagara County
+ Records</titleproper>
+                <author encodinganalog="contributor">Finding aid prepared by Patricia
+ M. Virgil.</author>
+                <sponsor encodinganalog="contributor">Funding for the initial encoding
+ was provided through the Regional Bibliographic Databases Program administered
+ by the Western New York Library Resources Council.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Buffalo History Museum. Research Library</publisher>
+                <address>
+                    <addressline>1 Museum Court</addressline>
+                    <addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: library@buffalohistory.org</addressline>
+                    <addressline>URI: http://www.buffalohistory.org</addressline>
+                </address>
+                <p>&#xA9; 
+ <date encodinganalog="date" type="publication">2010</date>. Buffalo History Museum. All rights reserved.</p>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid encoded in EAD by Kuniko Simon, March
+ 2008.</creation>
+            <langusage altrender="nodisplay">Finding aid written in
+ <language langcode="eng" encodinganalog="language">English.</language>
+            </langusage>
+            <descrules>Finding aid prepared using local best practices. </descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+        <did>
+            <head>Collection Overview</head>
+            <unittitle encodinganalog="245$a" label="Title">Niagara County Records</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" datechar="creation" normal="">1808-1830</unitdate>
+            <unitdate normal="1808/1820" type="bulk" datechar="creation" encodinganalog="245$g">1808 - 1820</unitdate>
+            <unitid encodinganalog="099" label="Collection Number" repositorycode="NBuHi" countrycode="US">Mss. B00-10</unitid>
+            <origination label="Creator">
+                <corpname encodinganalog="110" source="lcnaf" role="creator">Niagara
+ County (N.Y.)</corpname>
+            </origination>
+            <physdesc label="Extent">
+                <extent unit="box" encodinganalog="300">4
+ boxes</extent>, <extent encodinganalog="300" unit="box">1 slim
+ box</extent>,<extent encodinganalog="300" unit="box">1 oversize flat
+ box</extent>
+                <extent encodinganalog="300" unit="linear foot">(3.5 linear
+ ft.)</extent>
+            </physdesc>
+            <langmaterial label="Language of Material" encodinganalog="546">Collection material in
+ <language encodinganalog="041" langcode="eng">English</language>.</langmaterial>
+            <abstract encodinganalog="520" label="Abstract">The Niagara County
+ Records represent the accumulated archives between 1808-1830.</abstract>
+            <repository>
+                <corpname>The Buffalo History Museum</corpname>
+                <address>
+                    <addressline>1 Museum Court</addressline>
+                    <addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: library@buffalohistory.org</addressline>
+                    <addressline>URI: http://www.buffalohistory.org</addressline>
+                </address>
+            </repository>
+        </did>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <prefercite encodinganalog="524">
+                <head>Preferred Citation</head>
+                <p>[Description and dates], Box/folder number, Mss. B00-10, Niagara
+ County Records), Research Library, Buffalo History Museum.</p>
+            </prefercite>
+            <accessrestrict encodinganalog="506">
+                <head>Terms of Access</head>
+                <p>Niagara County Records, 1808-1830, are open for research.</p>
+            </accessrestrict>
+            <userestrict encodinganalog="540">
+                <head>Copyright</head>
+                <p>Copyright of papers in the collection may be held by their authors,
+ or the authors' heirs or assigns. Researchers must obtain the written
+ permission of the holder(s) of copyright and the Buffalo History Museum before publishing quotations from materials in the
+ collection.</p>
+            </userestrict>
+        </descgrp>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <acqinfo encodinganalog="541">
+                <head>Acquisition Information</head>
+                <p>Please see librarian for acquisition information.</p>
+            </acqinfo>
+            <accruals encodinganalog="584">
+                <head>Accruals and Additions</head>
+                <p>No further accruals are expected to this collection.</p>
+            </accruals>
+            <processinfo encodinganalog="583">
+                <head>Processing Information</head>
+                <p>Collection processed by Patricia M. Virgil, December 1993.</p>
+            </processinfo>
+        </descgrp>
+        <bioghist encodinganalog="545">
+            <head>Historical Note</head>
+            <p>Niagara County was formed in 1808 during a municipal reorganization of
+ the Holland Purchase. The part of Genesee County north of Cattaraugus Creek and
+ west of the line between the fourth and fifth ranges of townships became
+ Niagara County with the town of Buffalo as county seat. These boundaries held
+ until 1821 when the part north of the center of Tonawanda Creek became a
+ separate county called Niagara; the remainder was renamed Erie County. Erie
+ County retained the county seat, county records and most of the county
+ officers.</p>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope Note</head>
+            <p>Appointments of auctioneers, coroners, judges and justices, clerks,
+ inspectors, sheriffs and notaries, 1808-1821; supersedes, 1810-1821; oaths of
+ allegiance to the United States and to New York State, 1808-1823; oaths of
+ office of county clerks, justices and commissioners, military officers,
+ sheriffs, under-sheriffs, coroners and others, 1808-1820; orders of levy by
+ Jonathan Bailey, James Sheldon, Oziel Smith, Samuel Wilkeson and other
+ justices, including some receipts, 1813-1830; lists of qualified and
+ disqualified jurors from Niagara County towns, 1808-1821; and a grand jury
+ presentment, 1819.</p>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>This collection is arranged in seven series: 
+ <list>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series1">I. Appointments</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series2">II. Supersedeas</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series3">III Oaths of Allegiance</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series4">IV. Oaths of Office</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series5">V. Orders of Levy</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series6">VI. Jury Lists</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series7">VII. Grand Jury Presentment</ref>
+                    </item>
+                </list>.</p>
+        </arrangement>
+        <dsc type="combined">
+            <head>Container List </head>
+            <c level="series" id="c_5bad046f407b4">
+                <did id="c_5bad046f40867">
+                    <unitid id="Series1">I.</unitid>
+                    <unittitle id="c_5bad046f409bc">Appointments 
+ <unitdate normal="1808/1821" type="inclusive" id="c_5bad046f40a64">1808-1821</unitdate>
+                    </unittitle>
+                </did>
+                <c level="subseries" id="c_5bad046f40b0e">
+                    <did id="c_5bad046f40bb6">
+                        <unitid id="Series1a">I.A.</unitid>
+                        <unittitle id="c_5bad046f40d0f">Auctioneers, 
+ <unitdate normal="1818" type="inclusive">1818</unitdate>, 
+ <unitdate type="inclusive" normal="1821">1821</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f40db7">
+                        <did id="c_5bad046f40e5f">
+                            <container type="box-folder">1.1</container>
+                            <unittitle>1818, 1821 </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f40f08">
+                    <did id="c_5bad046f40faf">
+                        <unitid id="Series1b">I.B.</unitid>
+                        <unittitle id="c_5bad046f41100">Coroners, 
+ <unitdate normal="1829/1821" type="inclusive">1829-1821</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f411a8">
+                        <did id="c_5bad046f41250">
+                            <container type="box-folder">1.2</container>
+                            <unittitle>1809-1821</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f412f8">
+                    <did id="c_5bad046f413bd">
+                        <unitid id="Series1c">I.C.</unitid>
+                        <unittitle id="c_5bad046f4152a">Judges and justices, 
+ <unitdate normal="1808/1821" type="inclusive">1808-1821</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f415d6">
+                        <did id="c_5bad046f41680">
+                            <container type="box-folder">1.3</container>
+                            <unittitle>1808-1817</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f41728">
+                        <did id="c_5bad046f417d1">
+                            <container type="box-folder">1.4</container>
+                            <unittitle>1819-1821</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f41885">
+                    <did id="c_5bad046f4192e">
+                        <unitid id="Series1d">I.D.</unitid>
+                        <unittitle id="c_5bad046f41a81">Miscellaneous 
+ <unitdate normal="1808/1821" type="inclusive">1808-1821</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f41b28">
+                        <did id="c_5bad046f41bd0">
+                            <container type="box-folder">1.5</container>
+                            <unittitle> Clerk of Court of Common Pleas, inspector of pot and
+ pearl ashes, inspector of hope, public notary, sheriff, under sheriff and
+ jailer, 
+ <unitdate>1810-1821</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c level="series" id="c_5bad046f41c79">
+                <did id="c_5bad046f41d20">
+                    <unitid id="Series2">II.</unitid>
+                    <unittitle id="c_5bad046f41e75">Supersedes, 
+ <unitdate normal="1810/1821" type="inclusive" id="c_5bad046f41f1d">1810-1821</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad046f41fc5">
+                    <did id="c_5bad046f4206d">
+                        <container type="box-folder" id="c_5bad046f42104">1.6</container>
+                        <unittitle id="c_5bad046f421b4">1810-1821</unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad046f42260">
+                <did id="c_5bad046f42309">
+                    <unitid id="Series3">III.</unitid>
+                    <unittitle id="c_5bad046f42477">Oaths of allegiance, 
+ <unitdate normal="1808/1823" type="inclusive" id="c_5bad046f42521">1808-1823</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad046f425c9">
+                    <did id="c_5bad046f42671">
+                        <container type="box-folder" id="c_5bad046f42719">2.1</container>
+                        <unittitle id="c_5bad046f427c1">
+                            <unitdate>1808-1811</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad046f42869">
+                    <did id="c_5bad046f42911">
+                        <container type="box-folder" id="c_5bad046f429b9">2.2</container>
+                        <unittitle id="c_5bad046f42a61">
+                            <unitdate>1810-1813</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad046f42b0e">
+                    <did id="c_5bad046f42bb7">
+                        <container type="box-folder" id="c_5bad046f42c65">2.3</container>
+                        <unittitle id="c_5bad046f42d0d">
+                            <unitdate>1814</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad046f42db5">
+                    <did id="c_5bad046f42e5d">
+                        <container type="box-folder" id="c_5bad046f42f04">2.4</container>
+                        <unittitle id="c_5bad046f42fac">
+                            <unitdate>1814-1817</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad046f43054">
+                    <did id="c_5bad046f430fc">
+                        <container type="box-folder" id="c_5bad046f431a4">2.5</container>
+                        <unittitle id="c_5bad046f4324c">
+                            <unitdate>1818</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad046f432f4">
+                    <did id="c_5bad046f433a1">
+                        <container type="box-folder" id="c_5bad046f4344b">2.6</container>
+                        <unittitle id="c_5bad046f434f3">
+                            <unitdate>1819-1823</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad046f4359c">
+                <did id="c_5bad046f43647">
+                    <unitid id="Series4">IV.</unitid>
+                    <unittitle id="c_5bad046f4379d">Oaths of office, 
+ <unitdate normal="1808/1820" type="inclusive" id="c_5bad046f4384a">1808-1820</unitdate>
+                    </unittitle>
+                </did>
+                <c level="subseries" id="c_5bad046f438ff">
+                    <did id="c_5bad046f439ac">
+                        <unitid id="Series2a">II.A.</unitid>
+                        <unittitle id="c_5bad046f43b0f">County clerks 
+ <unitdate normal="1808/1815" type="inclusive">1808-1815</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f43bbb">
+                        <did id="c_5bad046f43c6a">
+                            <container type="box-folder">2.7</container>
+                            <unittitle>
+                                <unitdate>1808-1819</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f43d16">
+                    <did id="c_5bad046f43dc2">
+                        <unitid id="Series2b">II.B.</unitid>
+                        <unittitle id="c_5bad046f43f19">Justices and commissioners, 
+ <unitdate normal="1808/1820" type="inclusive">1808-1820</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f43fc5">
+                        <did id="c_5bad046f44070">
+                            <container type="box-folder">2.8</container>
+                            <unittitle>
+                                <unitdate>1808-1811</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f4411c">
+                        <did id="c_5bad046f441c8">
+                            <container type="box-folder">2.9</container>
+                            <unittitle>
+                                <unitdate>1812-1815</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f44282">
+                        <did id="c_5bad046f4433a">
+                            <container type="box-folder">2.10</container>
+                            <unittitle>
+                                <unitdate>1814</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f443e5">
+                        <did id="c_5bad046f44491">
+                            <container type="box-folder">2.11</container>
+                            <unittitle>
+                                <unitdate>1816-1818</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f4453c">
+                        <did id="c_5bad046f445e8">
+                            <container type="box-folder">2.12</container>
+                            <unittitle>
+                                <unitdate>1819</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f44696">
+                        <did id="c_5bad046f44742">
+                            <container type="box-folder">2.13</container>
+                            <unittitle>
+                                <unitdate>1820</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f447ed">
+                    <did id="c_5bad046f44898">
+                        <unitid id="Series2c">II.C.</unitid>
+                        <unittitle id="c_5bad046f449f0">Military, 
+ <unitdate normal="1808/1820" type="inclusive">1808-1819</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f44a9b">
+                        <did id="c_5bad046f44b46">
+                            <container type="box-folder">2.14</container>
+                            <unittitle>
+                                <unitdate>1808-1815</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f44bf1">
+                        <did id="c_5bad046f44c9d">
+                            <container type="box-folder">2.15</container>
+                            <unittitle>
+                                <unitdate>1816-1818</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f44d4c">
+                        <did id="c_5bad046f44df7">
+                            <container type="box-folder">2.16</container>
+                            <unittitle>
+                                <unitdate>1819</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f44ea3">
+                    <did id="c_5bad046f44f4f">
+                        <unitid id="Series2d">II.D.</unitid>
+                        <unittitle id="c_5bad046f450a6">Sheriffs, under-sheriffs, coroners, 
+ <unitdate normal="1808/1820" type="inclusive">1813-1822</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f45152">
+                        <did id="c_5bad046f451fe">
+                            <container type="box-folder">2.17</container>
+                            <unittitle>
+                                <unitdate>1813-1815</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f452aa">
+                        <did id="c_5bad046f45352">
+                            <container type="box-folder">2.18</container>
+                            <unittitle>
+                                <unitdate> 1818-1822</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f453fa">
+                    <did id="c_5bad046f454a2">
+                        <unitid id="Series2e">II.E.</unitid>
+                        <unittitle id="c_5bad046f455f6">Miscellaneous, 
+ <unitdate normal="1808/1820" type="inclusive">1813-1822</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f4569f">
+                        <did id="c_5bad046f45747">
+                            <container type="box-folder">2.19</container>
+                            <unittitle>
+                                <unitdate>1808-1813</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f457ef">
+                        <did id="c_5bad046f4589a">
+                            <container type="box-folder">2.20</container>
+                            <unittitle>
+                                <unitdate>1814-1820</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c level="series" id="c_5bad046f45942">
+                <did id="c_5bad046f459ea">
+                    <unitid id="Series5">V.</unitid>
+                    <unittitle id="c_5bad046f45b3b">Orders of Levy, 
+ <unitdate normal="1813/1830" type="inclusive" id="c_5bad046f45be3">1813-1830</unitdate>
+                    </unittitle>
+                </did>
+                <c level="subseries" id="c_5bad046f45c8b">
+                    <did id="c_5bad046f45d34">
+                        <unitid id="Series5a">V.A.</unitid>
+                        <unittitle id="c_5bad046f45e84">Jonathan N. Bailey, 
+ <unitdate normal="1819/1820" type="inclusive">1819-1820</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f45f2c">
+                        <did id="c_5bad046f45fd4">
+                            <container type="box-folder">2.21</container>
+                            <unittitle>
+                                <unitdate>1819-1820</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f4607c">
+                    <did id="c_5bad046f46124">
+                        <unitid id="Series5b">V.B.</unitid>
+                        <unittitle id="c_5bad046f4627b">James Sheldon, 
+ <unitdate normal="1817/1819" type="inclusive">1817-1819</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f46325">
+                        <did id="c_5bad046f463ce">
+                            <container type="box-folder">2.22</container>
+                            <unittitle>
+                                <unitdate>1817-June 1818</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f46479">
+                        <did id="c_5bad046f46522">
+                            <container type="box-folder">2.23</container>
+                            <unittitle>
+                                <unitdate>July 1818-1819</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f465cb">
+                    <did id="c_5bad046f46673">
+                        <unitid id="Series5c">V.C.</unitid>
+                        <unittitle id="c_5bad046f467cd">Oziel Smith, 
+ <unitdate normal="1818" type="inclusive">1818</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f46878">
+                        <did id="c_5bad046f46922">
+                            <container type="box-folder">2.24</container>
+                            <unittitle>
+                                <unitdate>1818</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f469cc">
+                    <did id="c_5bad046f46a77">
+                        <unitid id="Series5d">V.D.</unitid>
+                        <unittitle id="c_5bad046f46bdd">Samuel Wilkeson, 
+ <unitdate normal="1813/1820" type="inclusive">1813-1820</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f46c9c">
+                        <did id="c_5bad046f46d5c">
+                            <container type="box-folder">2.25</container>
+                            <unittitle>
+                                <unitdate>1813-June 1818</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f46e1d">
+                        <did id="c_5bad046f46edd">
+                            <container type="box-folder">2.26</container>
+                            <unittitle>
+                                <unitdate>July-Aug. 1818</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f46f9e">
+                        <did id="c_5bad046f47051">
+                            <container type="box-folder">2.27</container>
+                            <unittitle>
+                                <unitdate>Sept.-Oct. 1818</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f470fc">
+                        <did id="c_5bad046f471a5">
+                            <container type="box-folder">2.28</container>
+                            <unittitle>
+                                <unitdate> Nov.-Dec. 1818</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f47263">
+                        <did id="c_5bad046f47324">
+                            <container type="box-folder">3.1</container>
+                            <unittitle>
+                                <unitdate> Jan.-Feb. 1819</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f473e3">
+                        <did id="c_5bad046f47491">
+                            <container type="box-folder">3.2</container>
+                            <unittitle>
+                                <unitdate>Mar.-Apr. 1819</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f4754c">
+                        <did id="c_5bad046f4760c">
+                            <container type="box-folder">3.3</container>
+                            <unittitle>
+                                <unitdate>May-July 1819</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f476cc">
+                        <did id="c_5bad046f4777a">
+                            <container type="box-folder">3.4</container>
+                            <unittitle>
+                                <unitdate>Aug. 1819-1820</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f47836">
+                    <did id="c_5bad046f478f6">
+                        <unitid id="Series5e">V.E.</unitid>
+                        <unittitle id="c_5bad046f47a64">Miscellaneous, 
+ <unitdate normal="1817/1825" type="inclusive">1817-1825</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f47b1d">
+                        <did id="c_5bad046f47bca">
+                            <container type="box-folder">3.5</container>
+                            <unittitle>
+                                <unitdate>1817-1825</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f47c74">
+                    <did id="c_5bad046f47d1c">
+                        <unitid id="Series5f">V.F.</unitid>
+                        <unittitle id="c_5bad046f47e81">Levy Receipts, 
+ <unitdate normal="1818/1830" type="inclusive">1818-1830</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f47f40">
+                        <did id="c_5bad046f48001">
+                            <container type="box-folder">3.5</container>
+                            <unittitle>
+                                <unitdate>1818-1830</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c level="series" id="c_5bad046f480b0">
+                <did id="c_5bad046f4815a">
+                    <unitid id="Series6">VI.</unitid>
+                    <unittitle id="c_5bad046f482b7">Jury lists, 
+ <unitdate normal="1808/1921" type="inclusive" id="c_5bad046f48361">1808-1821</unitdate>
+                    </unittitle>
+                </did>
+                <c level="subseries" id="c_5bad046f4840b">
+                    <did id="c_5bad046f484b5">
+                        <unitid id="Series6a">VI.A.</unitid>
+                        <unittitle id="c_5bad046f48609">Buffalo, 
+ <unitdate normal="1810/1820" type="inclusive">1810-1820</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f486b2">
+                        <did id="c_5bad046f4875c">
+                            <container type="box-folder">3.7</container>
+                            <unittitle>
+                                <unitdate>1810-1813</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f48809">
+                        <did id="c_5bad046f488b3">
+                            <container type="box-folder">3.8</container>
+                            <unittitle>
+                                <unitdate>1814-1815</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f4895d">
+                        <did id="c_5bad046f48a07">
+                            <container type="box-folder">3.9</container>
+                            <unittitle>
+                                <unitdate>1818-1820</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f48ab1">
+                    <did id="c_5bad046f48b5b">
+                        <unitid id="Series6b">VI.B.</unitid>
+                        <unittitle id="c_5bad046f48caf">Cambria, 
+ <unitdate normal="1818/1820" type="inclusive">1818-1820</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f48d59">
+                        <did id="c_5bad046f48e03">
+                            <container type="box-folder">3.10</container>
+                            <unittitle>
+                                <unitdate>1818-1820</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f48eae">
+                    <did id="c_5bad046f48f58">
+                        <unitid id="Series6c">VI.C.</unitid>
+                        <unittitle id="c_5bad046f490ad">Chautauqua, 
+ <unitdate normal="1808/1810" type="inclusive">1808-1810</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f49157">
+                        <did id="c_5bad046f49201">
+                            <container type="box-folder">3.11</container>
+                            <unittitle>
+                                <unitdate>1808-1810</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f492ab">
+                    <did id="c_5bad046f4935a">
+                        <unitid id="Series6d">VI.D.</unitid>
+                        <unittitle id="c_5bad046f494b6">Clarence, 
+ <unitdate normal="1808/1820" type="inclusive">1808-1820</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f49562">
+                        <did id="c_5bad046f4960c">
+                            <container type="box-folder">3.12</container>
+                            <unittitle>
+                                <unitdate>1808-1811</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f496b6">
+                        <did id="c_5bad046f49760">
+                            <container type="box-folder">3.13</container>
+                            <unittitle>
+                                <unitdate>1812-1815</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f4980a">
+                        <did id="c_5bad046f498b3">
+                            <container type="box-folder">3.14</container>
+                            <unittitle>
+                                <unitdate>1816-1820</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f4995d">
+                    <did id="c_5bad046f49a07">
+                        <unitid id="Series6e">VI.E.</unitid>
+                        <unittitle id="c_5bad046f49b5b">Concord, 
+ <unitdate normal="1812/1820" type="inclusive">1812-1820</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f49c05">
+                        <did id="c_5bad046f49caf">
+                            <container type="box-folder">3.15</container>
+                            <unittitle>
+                                <unitdate>1812-1820</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f49d59">
+                    <did id="c_5bad046f49e03">
+                        <unitid id="Series6f">VI.F.</unitid>
+                        <unittitle id="c_5bad046f49f58">Eden, 
+ <unitdate normal="1812/1820" type="inclusive">1812-1820</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f4a005">
+                        <did id="c_5bad046f4a0b0">
+                            <container type="box-folder">3.16</container>
+                            <unittitle>
+                                <unitdate>1812-1814</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f4a15a">
+                        <did id="c_5bad046f4a203">
+                            <container type="box-folder">3.17</container>
+                            <unittitle>
+                                <unitdate>1816-1820</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f4a2bf">
+                    <did id="c_5bad046f4a37f">
+                        <unitid id="Series6g">VI.G.</unitid>
+                        <unittitle id="c_5bad046f4a501">Hamburg, 
+ <unitdate normal="1812/1820" type="inclusive">1812-1820</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f4a5c1">
+                        <did id="c_5bad046f4a680">
+                            <container type="box-folder">3.18</container>
+                            <unittitle>
+                                <unitdate>1812-1814</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f4a72f">
+                        <did id="c_5bad046f4a7d9">
+                            <container type="box-folder">3.19</container>
+                            <unittitle>
+                                <unitdate>1815</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f4a882">
+                        <did id="c_5bad046f4a93e">
+                            <container type="box-folder">3.20</container>
+                            <unittitle>
+                                <unitdate>1818-1820</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f4a9fe">
+                    <did id="c_5bad046f4aabe">
+                        <unitid id="Series6h">VI.H.</unitid>
+                        <unittitle id="c_5bad046f4ac45">Hartland, 
+ <unitdate normal="1812/1816" type="inclusive">1812-1816</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f4ad05">
+                        <did id="c_5bad046f4adb8">
+                            <container type="box-folder">3.21</container>
+                            <unittitle>
+                                <unitdate>1812-1816</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f4ae63">
+                    <did id="c_5bad046f4af0d">
+                        <unitid id="Series6i">VI.I.</unitid>
+                        <unittitle id="c_5bad046f4b08b">Niagara County, 
+ <unitdate normal="1813/1821" type="inclusive">1813-1821</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f4b160">
+                        <did id="c_5bad046f4b21e">
+                            <container type="box-folder">3.22</container>
+                            <unittitle>
+                                <unitdate>1813-1814</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f4b2cb">
+                        <did id="c_5bad046f4b377">
+                            <container type="box-folder">3.23</container>
+                            <unittitle>
+                                <unitdate>1815</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f4b421">
+                        <did id="c_5bad046f4b4cc">
+                            <container type="box-folder">3.24</container>
+                            <unittitle>
+                                <unitdate>1816</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f4b577">
+                        <did id="c_5bad046f4b621">
+                            <container type="box-folder">3.25</container>
+                            <unittitle>
+                                <unitdate>1817</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f4b6cb">
+                        <did id="c_5bad046f4b77b">
+                            <container type="box-folder">3.26</container>
+                            <unittitle>
+                                <unitdate>1818</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f4b838">
+                        <did id="c_5bad046f4b8f8">
+                            <container type="box-folder">3.27</container>
+                            <unittitle>
+                                <unitdate>1819-1821</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f4b9be">
+                    <did id="c_5bad046f4ba70">
+                        <unitid id="Series6j">VI.J.</unitid>
+                        <unittitle id="c_5bad046f4bbc7">Town of Niagara, 
+ <unitdate normal="1816/1820" type="inclusive">1816-1820</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f4bc71">
+                        <did id="c_5bad046f4bd1c">
+                            <container type="box-folder">4.1</container>
+                            <unittitle>
+                                <unitdate>1816-1820</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f4bdc6">
+                    <did id="c_5bad046f4be70">
+                        <unitid id="Series6k">VI.K.</unitid>
+                        <unittitle id="c_5bad046f4bfc6">Pomfret, 
+ <unitdate normal="1808/1810" type="inclusive">1808-1810</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f4c072">
+                        <did id="c_5bad046f4c11e">
+                            <container type="box-folder">4.2</container>
+                            <unittitle>
+                                <unitdate>1808-1810</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f4c1c8">
+                    <did id="c_5bad046f4c272">
+                        <unitid id="Series6l">VI.L.</unitid>
+                        <unittitle id="c_5bad046f4c3cd">Porter, 
+ <unitdate normal="1812/1814" type="inclusive">1812-1814</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f4c477">
+                        <did id="c_5bad046f4c521">
+                            <container type="box-folder">4.3</container>
+                            <unittitle>
+                                <unitdate>1812-1814</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f4c5cb">
+                    <did id="c_5bad046f4c675">
+                        <unitid id="Series6m">VI.M.</unitid>
+                        <unittitle id="c_5bad046f4c7ca">Willink, 
+ <unitdate normal="1808/1818" type="inclusive">1808-1818</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f4c874">
+                        <did id="c_5bad046f4c91e">
+                            <container type="box-folder">4.4</container>
+                            <unittitle>
+                                <unitdate>1808-1812</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f4c9c8">
+                        <did id="c_5bad046f4ca72">
+                            <container type="box-folder">4.5</container>
+                            <unittitle>
+                                <unitdate>1813-1815</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f4cb1b">
+                        <did id="c_5bad046f4cbc8">
+                            <container type="box-folder">4.6</container>
+                            <unittitle>
+                                <unitdate>1816-1818</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad046f4cc75">
+                    <did id="c_5bad046f4cd24">
+                        <unitid id="Series6n">VI.N.</unitid>
+                        <unittitle id="c_5bad046f4ce7f">Miscellaneous, 
+ <unitdate normal="1813/1820" type="inclusive">1813-1820</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad046f4cf2d">
+                        <did id="c_5bad046f4cfd8">
+                            <container type="box-folder">4.7</container>
+                            <unittitle> Amherst. Aurora, Boston, 
+ <unitdate>1817-1820 </unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f4d082">
+                        <did id="c_5bad046f4d12c">
+                            <container type="box-folder">4.8</container>
+                            <unittitle>Holland, Lewiston, 
+ <unitdate>1819-1820</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f4d1d6">
+                        <did id="c_5bad046f4d280">
+                            <container type="box-folder">4.9</container>
+                            <unittitle> Royalton, Schlosser, 
+ <unitdate>1813-1820 </unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad046f4d32a">
+                        <did id="c_5bad046f4d3d4">
+                            <container type="box-folder">4.10</container>
+                            <unittitle>Wales, Wilson, 
+ <unitdate>1819-1820</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c level="series" id="c_5bad046f4d47e">
+                <did id="c_5bad046f4d528">
+                    <unitid id="Series7">VII.</unitid>
+                    <unittitle id="c_5bad046f4d67e">Grand Jury Presentment, 
+ <unitdate normal="1819" type="inclusive" id="c_5bad046f4d729">1819</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad046f4d7d3">
+                    <did id="c_5bad046f4d882">
+                        <container type="box-folder" id="c_5bad046f4d92d">4.11</container>
+                        <unittitle id="c_5bad046f4d9db"> Presentment, 
+ <unitdate>12 February 1819</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+        <controlaccess>
+            <head>Search Terms</head>
+            <note>
+                <p>The following terms have been used to index the description of this
+ collection in the Library's online catalog.</p>
+            </note>
+            <controlaccess>
+                <head>Contributors</head>
+                <persname encodinganalog="700" source="lcnaf">Wilkeson, Samuel, 1781-1848</persname>
+                <persname encodinganalog="700" rules="aacr2">Bailey, Jonathan N.</persname>
+                <persname encodinganalog="700" source="lcnaf">Sheldon, James, 1792-1850</persname>
+                <persname encodinganalog="700" rules="aacr2">Smith, Oziel</persname>
+                <corpname source="lcnaf" encodinganalog="710">Buffalo History Museum</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Subject Terms</head>
+                <subject encodinganalog="650" source="lcsh">County officials and employees--New York (State)--Niagara County</subject>
+                <subject encodinganalog="650" source="lcsh">County government--New York (State)--Niagara County</subject>
+                <subject encodinganalog="650" source="lcsh">Grand jury--New York (State)--Niagara County </subject>
+                <subject encodinganalog="650" source="lcsh">Jury--New York (State)--Niagara County </subject>
+                <geogname encodinganalog="651" source="lcsh">Niagara County (N.Y.)--Archives</geogname>
+                <geogname encodinganalog="651" source="lcsh">Niagara County (N.Y.)--Politics and government</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Genre Terms</head>
+                <genreform source="aat" encodinganalog="655">County government records</genreform>
+                <genreform source="aat" encodinganalog="655">Legal documents</genreform>
+                <genreform source="aat" encodinganalog="655">Oaths</genreform>
+            </controlaccess>
+        </controlaccess>
+    </archdesc>
+</ead>

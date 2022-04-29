@@ -1,0 +1,1556 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" relatedencoding="DC" scriptencoding="iso15924">
+        <eadid countrycode="us" publicid="-//Buffalo History Museum::Research Library//TEXT (US::NBuHi::C77-6::W.P.A. Historical Records Survey)//EN" mainagencycode="NBuHi" encodinganalog="identifier">nbuhi_tbhm_c77_6</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Finding Aid for the Works Progress
+ Administration Historical Records Survey, 
+ <date type="inclusive" normal="1936/1942" encodinganalog="date">1936-1942</date>
+                    <date type="bulk" normal="1936/1942" encodinganalog="date ">(bulk
+ 1936-1937)</date>
+                </titleproper>
+                <titleproper altrender="nodisplay" type="filing">Works Progress
+ Administration Historical Records Survey </titleproper>
+                <author encodinganalog="contributor">Finding aid prepared by Buffalo History Museum staff.</author>
+                <sponsor encodinganalog="contributor">Funding for the initial encoding
+ was provided through the Regional Bibliographic Databases Program administered
+ by the Western New York Library Resources Council.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Buffalo History Museum. Research Library</publisher>
+                <address>
+                    <addressline>1 Museum Court</addressline>
+                    <addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: <emph render="bold">
+                            <extref actuate="onrequest" show="new" href="mail-to:library@buffalohistory.org">library@buffalohistory.org</extref>
+                        </emph>
+                    </addressline>
+                    <addressline>URI: <emph render="bold">
+                            <extref actuate="onrequest" show="new" href="http://www.buffalohistory.org">http://www.buffalohistory.org</extref>
+                        </emph>
+                    </addressline>
+                </address>
+                <p>&#xA9; 
+ <date encodinganalog="date" type="publication">2010</date>. Buffalo History Museum. All rights reserved.</p>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid encoded in EAD by Isidor Justeson, April
+ 2008.</creation>
+            <langusage altrender="nodisplay">Finding aid written in
+ <language langcode="eng" encodinganalog="language">English.</language>
+            </langusage>
+            <descrules>Finding aid prepared using local best practices. </descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+        <did>
+            <head>Collection Overview</head>
+            <unittitle encodinganalog="245$a" label="Title">Works Progress Administration Historical Records Survey</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" normal="1936/1942">1936 - 1942</unitdate>
+            <unitdate type="bulk" encodinganalog="245$g" normal="1936/1937">1936 - 1937</unitdate>
+            <unitid encodinganalog="099" label="Collection Number" repositorycode="NBuHi" countrycode="US">Mss. C77-6</unitid>
+            <origination label="Creator">
+                <corpname encodinganalog="110" source="lcnaf" role="creator">United
+ States. Works Progress Administration (N.Y.)</corpname>
+            </origination>
+            <physdesc label="Extent">
+                <extent unit="box" encodinganalog="300">37
+ manuscript boxes</extent>
+                <extent unit="linear foot" encodinganalog="300">(18.5
+ linear feet)</extent>
+            </physdesc>
+            <langmaterial label="Language of Material" encodinganalog="546">Collection material in
+ <language encodinganalog="041" langcode="eng">English</language>.</langmaterial>
+            
+            <abstract encodinganalog="520" label="Abstract">Survey forms, field
+ notes, bulletins and correspondence for a survey of state and local historical
+ records (government and church records, manuscripts, maps and photographs)
+ conducted initially by the State Historical Society but after 1935 by the Works
+ Progress Administration.</abstract>
+        <repository>
+								<corpname>The Buffalo History Museum</corpname>
+							<address>
+								<addressline>1 Museum Court</addressline>
+							<addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: library@buffalohistory.org</addressline>
+                    <addressline>URI: http://www.buffalohistory.org</addressline>
+                </address>
+            </repository>
+        </did>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <prefercite encodinganalog="524">
+                <head>Preferred Citation</head>
+                <p>[Description and dates], Box/folder number, Mss. C77-6, Works
+ Progress Administration Historical Records Survey, 1936-1942 (bulk 1936-1937),
+ Research Library, Buffalo History Museum Archives.</p>
+            </prefercite>
+            <accessrestrict encodinganalog="506">
+                <head>Terms of Access</head>
+                <p>Works Progress Administration Historical Records Survey, 1936-1942,
+ is open for research.</p>
+            </accessrestrict>
+            <userestrict encodinganalog="540">
+                <head>Copyright</head>
+                <p>Copyright of papers in the collection may be held by their authors,
+ or the authors' heirs or assigns. Researchers must obtain the written
+ permission of the holder(s) of copyright and the Buffalo History Museum before publishing quotations from materials in the
+ collection.</p>
+            </userestrict>
+        </descgrp>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <acqinfo encodinganalog="541">
+                <head>Acquisition Information</head>
+                <p>Please see librarian for acquisition information.</p>
+            </acqinfo>
+            <accruals encodinganalog="584">
+                <head>Accruals and Additions</head>
+                <p>No further accruals are expected to this collection.</p>
+            </accruals>
+            <processinfo encodinganalog="583">
+                <head>Processing Information</head>
+                <p>Collection reprocessed and retroconverted by Peter Nelson, 14 April
+ 1992.</p>
+            </processinfo>
+        </descgrp>
+        <bioghist encodinganalog="545">
+            <head>Historical Note</head>
+            <p>The Works Progress Administration of the New Deal conducted the
+ Historical Records Survey from 1935-1943. Its mission was "discovery,
+ preservation, and listing of basic materials for research in the history of the
+ United States."</p>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content Note</head>
+            <p>Survey forms, field notes, bulletins and correspondence for a survey
+ of state and local historical records (government and church records,
+ manuscripts, maps and photographs) conducted initially by the State Historical
+ Society but after 1935 by the Works Progress Administration. New York counties
+ covered are Allegany, Cattaraugus, Chautauqua, Erie, Genesee, Niagara, Orleans
+ and Wyoming. </p>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>This collection is arranged in five series: 
+ <list>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series1"> I. Survey Records by Country</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series2"> II. Maps and Photographs By County</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series3"> III. Manuscript Collections (Libraries and
+ Museums)</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series4"> IV. Church Records Inventory</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series5"> V. Works Progress Administration Administrative
+ Files.</ref>
+                    </item>
+                </list>
+            </p>
+            <p>Alphabetical arrangement by county, then by city or town.</p>
+        </arrangement>
+        <dsc type="combined">
+            <head>Container List</head>
+            <c level="series" id="c_5bad04c9082e8">
+                <did id="c_5bad04c9083a7">
+                    <unitid id="series1">I.</unitid>
+                    <unittitle id="c_5bad04c9084fd">Survey Records By County</unittitle>
+                </did>
+                <c id="series1a" level="subseries">
+                    <did id="c_5bad04c908651">
+                        <unittitle id="c_5bad04c9086f9">Allegany County</unittitle>
+                    </did>
+                    <c level="file" id="c_5bad04c9087c4">
+                        <did id="c_5bad04c90886a">
+                            <container type="box-folder">1.1</container>
+                            <unittitle>Allen, Alfred, Angelica, Cuba, Fillmore, Friendship,
+ Wellsville</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="series1b">
+                    <did id="c_5bad04c9089fa">
+                        <unittitle id="c_5bad04c908ab9">Cattaraugus County</unittitle>
+                    </did>
+                    <c level="file" id="c_5bad04c908b65">
+                        <did id="c_5bad04c908c0b">
+                            <container type="box-folder">1.2-1.3</container>
+                            <unittitle>Allegany</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c908cb2">
+                        <did id="c_5bad04c908d65">
+                            <container type="box-folder">1.4</container>
+                            <unittitle>Ashford</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c908e1b">
+                        <did id="c_5bad04c908ecd">
+                            <container type="box-folder">1.5</container>
+                            <unittitle>Carrollton</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c908f73">
+                        <did id="c_5bad04c909029">
+                            <container type="box-folder">1.6</container>
+                            <unittitle>Cattaraugus</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c9090cf">
+                        <did id="c_5bad04c909175">
+                            <container type="box-folder">1.7</container>
+                            <unittitle>Cold Spring, Conewango</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90921b">
+                        <did id="c_5bad04c9092c1">
+                            <container type="box-folder">1.8</container>
+                            <unittitle>Delevan</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c909377">
+                        <did id="c_5bad04c909431">
+                            <container type="box-folder">1.9</container>
+                            <unittitle>East Otto, East Randolph</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c9094f4">
+                        <did id="c_5bad04c9095a0">
+                            <container type="box-folder">1.10</container>
+                            <unittitle>Ellicottville</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c909647">
+                        <did id="c_5bad04c9096ee">
+                            <container type="box-folder">1.11</container>
+                            <unittitle>Farmersville</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c909795">
+                        <did id="c_5bad04c909842">
+                            <container type="box-folder">1.12</container>
+                            <unittitle>Franklinville</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c9098ee">
+                        <did id="c_5bad04c9099a9">
+                            <container type="box-folder">1.13</container>
+                            <unittitle>Freedom</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c909a53">
+                        <did id="c_5bad04c909afb">
+                            <container type="box-folder">2.1</container>
+                            <unittitle>Gowanda</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c909ba2">
+                        <did id="c_5bad04c909c51">
+                            <container type="box-folder">2.2</container>
+                            <unittitle>Great Valley, Hinsdale</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c909cf8">
+                        <did id="c_5bad04c909dbc">
+                            <container type="box-folder">2.3</container>
+                            <unittitle>Humphrey, Ischua</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c909e63">
+                        <did id="c_5bad04c909f19">
+                            <container type="box-folder">2.4</container>
+                            <unittitle>Leon, Limestone</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c909fd5">
+                        <did id="c_5bad04c90a090">
+                            <container type="box-folder">2.5</container>
+                            <unittitle>Little Valley</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90a146">
+                        <did id="c_5bad04c90a218">
+                            <container type="box-folder">2.6</container>
+                            <unittitle>Lyndon, Machias</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90a2cc">
+                        <did id="c_5bad04c90a386">
+                            <container type="box-folder">2.7</container>
+                            <unittitle>Napoli, New Albion</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90a430">
+                        <did id="c_5bad04c90a4e1">
+                            <container type="box-folder">2.8-2.9</container>
+                            <unittitle>Olean</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90a58a">
+                        <did id="c_5bad04c90a631">
+                            <container type="box-folder">3.1</container>
+                            <unittitle>Onoville, Otto</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90a6db">
+                        <did id="c_5bad04c90a784">
+                            <container type="box-folder">3.2</container>
+                            <unittitle>Perrysburg</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90a82b">
+                        <did id="c_5bad04c90a8d4">
+                            <container type="box-folder">3.3</container>
+                            <unittitle>Persia, Portville</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90a97a">
+                        <did id="c_5bad04c90aa2f">
+                            <container type="box-folder">3.4</container>
+                            <unittitle>Quaker Bridge, Randolph</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90aad6">
+                        <did id="c_5bad04c90ab7e">
+                            <container type="box-folder">3.5</container>
+                            <unittitle>Red House</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90ac25">
+                        <did id="c_5bad04c90accd">
+                            <container type="box-folder">3.6</container>
+                            <unittitle>Salamanca</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90ad7f">
+                        <did id="c_5bad04c90ae26">
+                            <container type="box-folder">3.7</container>
+                            <unittitle>South Dayton</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90aed1">
+                        <did id="c_5bad04c90af79">
+                            <container type="box-folder">3.8</container>
+                            <unittitle>South Valley, West Valley, Yorkshire</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c id="series1c" level="subseries">
+                    <did id="c_5bad04c90b0d3">
+                        <unittitle id="c_5bad04c90b17b">Chautauqua County</unittitle>
+                    </did>
+                    <c level="file" id="c_5bad04c90b223">
+                        <did id="c_5bad04c90b2cb">
+                            <container type="box-folder">4.1</container>
+                            <unittitle>Administrative material</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90b375">
+                        <did id="c_5bad04c90b41f">
+                            <container type="box-folder">4.2</container>
+                            <unittitle>History of Chautauqua County</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90b4c7">
+                        <did id="c_5bad04c90b56e">
+                            <container type="box-folder">4.3</container>
+                            <unittitle>Arkwright, Bemus Point, Brocton, Busti, Carroll,
+ Cassadaga</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90b616">
+                        <did id="c_5bad04c90b6bf">
+                            <container type="box-folder">4.4</container>
+                            <unittitle>Celoron, Charlotte, Chautauqua, Cherry Creek,
+ Clymer</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90b768">
+                        <did id="c_5bad04c90b811">
+                            <container type="box-folder">4.5</container>
+                            <unittitle>Dunkirk, Ellery, Ellicott</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90b8d9">
+                        <did id="c_5bad04c90b9a5">
+                            <container type="box-folder">4.6</container>
+                            <unittitle>Ellington, Falconer, Forestville, Fredonia, French
+ Creek, Gerry</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90ba66">
+                        <did id="c_5bad04c90bb14">
+                            <container type="box-folder">4.7</container>
+                            <unittitle>Hamlet, Hanover, Harmony</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90bbbd">
+                        <did id="c_5bad04c90bc67">
+                            <container type="box-folder">5.1</container>
+                            <unittitle>Jamestown</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90bd2a">
+                        <did id="c_5bad04c90bdfa">
+                            <container type="box-folder">5.2</container>
+                            <unittitle>Kiantone, Lakewood, Mayville, Mina, North Harmony,
+ Panama, Poland</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90bec8">
+                        <did id="c_5bad04c90bf8a">
+                            <container type="box-folder">5.3</container>
+                            <unittitle>Pomfret, Portland, Ripley, Sheridan</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90c038">
+                        <did id="c_5bad04c90c0e2">
+                            <container type="box-folder">5.4</container>
+                            <unittitle>Sherman, Silver Creek, Sinclairville,
+ Stockton</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90c197">
+                        <did id="c_5bad04c90c240">
+                            <container type="box-folder">5.5</container>
+                            <unittitle>Villanova, Westfield</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="series1d">
+                    <did id="c_5bad04c90c396">
+                        <unittitle id="c_5bad04c90c459">Erie County</unittitle>
+                    </did>
+                    <c level="file" id="c_5bad04c90c507">
+                        <did id="c_5bad04c90c5af">
+                            <container type="box-folder">6.1</container>
+                            <unittitle>Administrative material - miscellaneous</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90c657">
+                        <did id="c_5bad04c90c701">
+                            <container type="box-folder">6.2</container>
+                            <unittitle>Administrative material - Civilian Defense
+ Activities</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90c7c2">
+                        <did id="c_5bad04c90c86a">
+                            <container type="box-folder">6.3</container>
+                            <unittitle>Histories of Erie County towns, cities,
+ villages</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90c912">
+                        <did id="c_5bad04c90c9b8">
+                            <container type="box-folder">6.4-6.5</container>
+                            <unittitle>History - various chapters - rough drafts</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90ca6f">
+                        <did id="c_5bad04c90cb34">
+                            <container type="box-folder">6.6</container>
+                            <unittitle>Akron, Alden</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90cbf3">
+                        <did id="c_5bad04c90cc9c">
+                            <container type="box-folder">6.7</container>
+                            <unittitle>Angola, Blasdell, Blossom, Boston, Brant</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90cd48">
+                        <did id="c_5bad04c90cdee">
+                            <container type="box-folder">7.1</container>
+                            <unittitle>Erie County Board of Supervisors</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90cea8">
+                        <did id="c_5bad04c90cf62">
+                            <container type="box-folder">7.2</container>
+                            <unittitle>Erie County Clerk: Superior Court, Court of
+ Sessions</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90d03a">
+                        <did id="c_5bad04c90d0e0">
+                            <container type="box-folder">7.3</container>
+                            <unittitle>Erie County Clerk: Office Holding, Register, Real
+ Property</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90d186">
+                        <did id="c_5bad04c90d247">
+                            <container type="box-folder">7.4</container>
+                            <unittitle>Erie County Clerk: Licenses, Personal Property, Motor
+ Vehicle licenses, Vital statistics</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90d2f2">
+                        <did id="c_5bad04c90d39d">
+                            <container type="box-folder">7.5-7A.2</container>
+                            <unittitle>Erie County Clerk: miscellaneous</unittitle>
+                            <physdesc>[3 folders]</physdesc>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90d464">
+                        <did id="c_5bad04c90d50b">
+                            <container type="box-folder">7A.3</container>
+                            <unittitle>Supreme Court, Chancery Court, Oyer and Terminer,
+ Court of Common Pleas, Circuit Court</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90d5b1">
+                        <did id="c_5bad04c90d658">
+                            <container type="box-folder">7A.4</container>
+                            <unittitle>Commissioner of Jurors, Children's Court</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90d6ff">
+                        <did id="c_5bad04c90d7c1">
+                            <container type="box-folder">7A.5</container>
+                            <unittitle>Surrogate Court, District Attorney</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90d871">
+                        <did id="c_5bad04c90d929">
+                            <container type="box-folder">8.1</container>
+                            <unittitle>County Court, County Attorney</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90d9ec">
+                        <did id="c_5bad04c90daa7">
+                            <container type="box-folder">8.2</container>
+                            <unittitle>Board of Elections</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90db82">
+                        <did id="c_5bad04c90dc53">
+                            <container type="box-folder">8.3</container>
+                            <unittitle>County Treasurer</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90dd11">
+                        <did id="c_5bad04c90ddba">
+                            <container type="box-folder">8.4</container>
+                            <unittitle>County Auditor</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90de79">
+                        <did id="c_5bad04c90df50">
+                            <container type="box-folder">8.5</container>
+                            <unittitle>County Sheriff, County Jail</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90e01a">
+                        <did id="c_5bad04c90e0cc">
+                            <container type="box-folder">9.1</container>
+                            <unittitle>City: Department of Health, Department of Public
+ Welfare</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90e17d">
+                        <did id="c_5bad04c90e243">
+                            <container type="box-folder">9.2</container>
+                            <unittitle>County Highway Department</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90e2eb">
+                        <did id="c_5bad04c90e3a3">
+                            <container type="box-folder">9.3</container>
+                            <unittitle>County Public Health Nursing Service, County Medical
+ Examiner, County Board of Equalization, County Hall, County Purchasing
+ Department</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90e44f">
+                        <did id="c_5bad04c90e4fc">
+                            <container type="box-folder">9.4</container>
+                            <unittitle>County Probation Department, County Farm Bureau,
+ County Park Commission, County Morgue, County Veterinarian</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90e5a5">
+                        <did id="c_5bad04c90e64d">
+                            <container type="box-folder">9.5</container>
+                            <unittitle>Executive, City Clerk, City Court, Department of
+ Law</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90e6ff">
+                        <did id="c_5bad04c90e7bf">
+                            <container type="box-folder">9.6</container>
+                            <unittitle>City Treasurer, Department of Assessment,
+ Comptroller</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90e889">
+                        <did id="c_5bad04c90e946">
+                            <container type="box-folder">10.1</container>
+                            <unittitle>Department of Audit and Control</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90e9f2">
+                        <did id="c_5bad04c90eab5">
+                            <container type="box-folder">10.2</container>
+                            <unittitle>Police Department</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90eb63">
+                        <did id="c_5bad04c90ec0f">
+                            <container type="box-folder">10.3</container>
+                            <unittitle>Fire Department</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90ecd4">
+                        <did id="c_5bad04c90ed7d">
+                            <container type="box-folder">10.4</container>
+                            <unittitle>Board of Education</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90ee34">
+                        <did id="c_5bad04c90eef3">
+                            <container type="box-folder">11.1</container>
+                            <unittitle>Buffalo: Department of Public Works</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90efc2">
+                        <did id="c_5bad04c90f073">
+                            <container type="box-folder">11.2</container>
+                            <unittitle>Buffalo: Department of Charities and
+ Corrections</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90f110">
+                        <did id="c_5bad04c90f1b9">
+                            <container type="box-folder">11.3</container>
+                            <unittitle>Buffalo: Sealer of Weights and Measures, Planning
+ Board, Department of Grade Crossings and Terminals, Department of Parks, Home
+ Demonstration Bureau, Sewer Authority, Alcoholic Beverage Control
+ Board</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90f263">
+                        <did id="c_5bad04c90f316">
+                            <container type="box-folder">11.4</container>
+                            <unittitle>Cheektowaga</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90f3cf">
+                        <did id="c_5bad04c90f48b">
+                            <container type="box-folder">11.5</container>
+                            <unittitle>Clarence</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90f54b">
+                        <did id="c_5bad04c90f5f3">
+                            <container type="box-folder">11.6</container>
+                            <unittitle>Colden, Collins, Concord</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90f69f">
+                        <did id="c_5bad04c90f74e">
+                            <container type="box-folder">11.7</container>
+                            <unittitle>Crittenden, Depew, East Aurora</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90f7f7">
+                        <did id="c_5bad04c90f89e">
+                            <container type="box-folder">12.1</container>
+                            <unittitle>Ebenezer</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90f950">
+                        <did id="c_5bad04c90fa07">
+                            <container type="box-folder">12.2</container>
+                            <unittitle>Eden, Eggertsville, Elma, Evans</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90faca">
+                        <did id="c_5bad04c90fb85">
+                            <container type="box-folder">12.3</container>
+                            <unittitle>Farnham, Gowanda, Grand Island</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90fc40">
+                        <did id="c_5bad04c90fcfb">
+                            <container type="box-folder">12.4</container>
+                            <unittitle>Hamburg, Holland</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90fdb6">
+                        <did id="c_5bad04c90fe62">
+                            <container type="box-folder">12.5</container>
+                            <unittitle>Kenmore</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c90ff0a">
+                        <did id="c_5bad04c90ffb1">
+                            <container type="box-folder">13.1</container>
+                            <unittitle>Lackawanna</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c910059">
+                        <did id="c_5bad04c910100">
+                            <container type="box-folder">13.2</container>
+                            <unittitle>Lakeview, Lancaster</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c9101b9">
+                        <did id="c_5bad04c910274">
+                            <container type="box-folder">13.3</container>
+                            <unittitle>Langford, Marilla, Millgrove</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91032f">
+                        <did id="c_5bad04c91040e">
+                            <container type="box-folder">13.4</container>
+                            <unittitle>North Collins, Orchard Park</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c9104cd">
+                        <did id="c_5bad04c910591">
+                            <container type="box-folder">13.5</container>
+                            <unittitle>Patchin, Sardinia</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c910645">
+                        <did id="c_5bad04c910714">
+                            <container type="box-folder">14.1</container>
+                            <unittitle>Sloan, Springbrook, Springville</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c9107d2">
+                        <did id="c_5bad04c91088d">
+                            <container type="box-folder">14.2</container>
+                            <unittitle>Tonawanda</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c910939">
+                        <did id="c_5bad04c9109fb">
+                            <container type="box-folder">14.3</container>
+                            <unittitle>Wales, Wende</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c910ab6">
+                        <did id="c_5bad04c910b72">
+                            <container type="box-folder">14.4</container>
+                            <unittitle>Williamsville</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c910c2d">
+                        <did id="c_5bad04c910ce8">
+                            <container type="box-folder">14.5</container>
+                            <unittitle>Williamsville, Woodlawn</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c id="series1e" level="subseries">
+                    <did id="c_5bad04c910e57">
+                        <unittitle id="c_5bad04c910eff">Genesee County</unittitle>
+                    </did>
+                    <c level="file" id="c_5bad04c910fa6">
+                        <did id="c_5bad04c91104c">
+                            <container type="box-folder">15.1</container>
+                            <unittitle>Administrative materials</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c911105">
+                        <did id="c_5bad04c9111c1">
+                            <container type="box-folder">15.2</container>
+                            <unittitle>Buildings - history</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91127d">
+                        <did id="c_5bad04c911329">
+                            <container type="box-folder">15.3</container>
+                            <unittitle>Alabama, Alexander, Attica</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c9113d1">
+                        <did id="c_5bad04c91147e">
+                            <container type="box-folder">15.4-15.4A</container>
+                            <unittitle>Batavia: County Clerk</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91152c">
+                        <did id="c_5bad04c9115d5">
+                            <container type="box-folder">15.5</container>
+                            <unittitle>Batavia: Clerk of the Board of Supervisors, County
+ Treasurer</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c911681">
+                        <did id="c_5bad04c91172e">
+                            <container type="box-folder">15.6</container>
+                            <unittitle>Batavia: Surrogate's Office, County Sheriff,
+ Commissioner of Elections</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c9117d8">
+                        <did id="c_5bad04c91188d">
+                            <container type="box-folder">15.7</container>
+                            <unittitle>Batavia: Superintendent of Highways, District
+ Attorney, Justice of the Peace, Town Clerk, Holland Land Office</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c911936">
+                        <did id="c_5bad04c9119de">
+                            <container type="box-folder">16.1</container>
+                            <unittitle>Batavia: Commissioner of Public Welfare</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c911a87">
+                        <did id="c_5bad04c911b32">
+                            <container type="box-folder">16.2</container>
+                            <unittitle>Batavia: County Home, Supervisor of Old Age Relief,
+ Police Department, Fire Department, Department of Weights and Measures, County
+ Farm Bureau, County Agent of Children's Court</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c911bea">
+                        <did id="c_5bad04c911ca6">
+                            <container type="box-folder">16.3</container>
+                            <unittitle>Batavia: Coroner, City Health Officer, County Nurse,
+ County Laboratory, County Automobile Bureau, County Veterinarian, Alcoholic
+ Beverage Control Board</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c911d69">
+                        <did id="c_5bad04c911e1b">
+                            <container type="box-folder">16.4</container>
+                            <unittitle>Batavia: City Clerk's Office, City Treasurer, Police
+ Station, City Hall</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c911ed7">
+                        <did id="c_5bad04c911f8d">
+                            <container type="box-folder">16.5</container>
+                            <unittitle>Basom, Bergen</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c912036">
+                        <did id="c_5bad04c9120df">
+                            <container type="box-folder">16.6</container>
+                            <unittitle>Bethany, Byron, Corfu</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c912189">
+                        <did id="c_5bad04c912238">
+                            <container type="box-folder">16.7</container>
+                            <unittitle>Darien, Elba</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c9122e5">
+                        <did id="c_5bad04c91239c">
+                            <container type="box-folder">16.8</container>
+                            <unittitle>LeRoy</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c912457">
+                        <did id="c_5bad04c912501">
+                            <container type="box-folder">17.1</container>
+                            <unittitle>Oakfield</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c9125b1">
+                        <did id="c_5bad04c91266c">
+                            <container type="box-folder">17.2</container>
+                            <unittitle>Pembroke, Stafford</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c id="series1f" level="subseries">
+                    <did id="c_5bad04c9127d7">
+                        <unittitle id="c_5bad04c912898">Niagara County</unittitle>
+                    </did>
+                    <c level="file" id="c_5bad04c91295c">
+                        <did id="c_5bad04c912a0c">
+                            <container type="box-folder">18.1</container>
+                            <unittitle>Administrative records and church lists</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c912ab6">
+                        <did id="c_5bad04c912b5e">
+                            <container type="box-folder">18.2</container>
+                            <unittitle>Barker, Cambria</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c912c1a">
+                        <did id="c_5bad04c912cda">
+                            <container type="box-folder">18.3</container>
+                            <unittitle>Johnson's Creek, Lewiston</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c912d9a">
+                        <did id="c_5bad04c912e49">
+                            <container type="box-folder">18.4-18.5</container>
+                            <unittitle>Lockport: County Court House</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c912ef1">
+                        <did id="c_5bad04c912f9a">
+                            <container type="box-folder">18.6-18.7</container>
+                            <unittitle>Lockport: County Clerk</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c913042">
+                        <did id="c_5bad04c9130ed">
+                            <container type="box-folder">19.1</container>
+                            <unittitle>Lockport: Assessor's Office, Sheriff, Board of
+ Elections, County Welfare Department, Police Department</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c913197">
+                        <did id="c_5bad04c913263">
+                            <container type="box-folder">19.2</container>
+                            <unittitle>Lockport: Fire Department, Sealer of Weights and
+ Measures, County Sanatorium, County Veterinarian, County Nurse</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c913317">
+                        <did id="c_5bad04c9133cb">
+                            <container type="box-folder">19.3</container>
+                            <unittitle>Lockport: City Clerk</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c913476">
+                        <did id="c_5bad04c91352c">
+                            <container type="box-folder">19.4</container>
+                            <unittitle>Lockport: City Treasurer, City Engineer, Water
+ Department, Town Clerk</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c9135d6">
+                        <did id="c_5bad04c91367f">
+                            <container type="box-folder">19.5</container>
+                            <unittitle>Middleport, Newfane, Niagara</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91373b">
+                        <did id="c_5bad04c9137fb">
+                            <container type="box-folder">19.6</container>
+                            <unittitle>Wheatfield, Wilson, Youngstown</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c9138c6">
+                        <did id="c_5bad04c913970">
+                            <container type="box-folder">20.1-20.3</container>
+                            <unittitle>Niagara Falls</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c913a2f">
+                        <did id="c_5bad04c913ae8">
+                            <container type="box-folder">20.4</container>
+                            <unittitle>North Tonawanda</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c913b93">
+                        <did id="c_5bad04c913c5b">
+                            <container type="box-folder">20.5</container>
+                            <unittitle>Pendleton, Porter, Ransomville, Royalton Center,
+ Somerset</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c913d1b">
+                        <did id="c_5bad04c913ddb">
+                            <container type="box-folder">20.6</container>
+                            <unittitle>Wheatfield, Wilson, Youngstown</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c id="series1g" level="subseries">
+                    <did id="c_5bad04c913f60">
+                        <unittitle id="c_5bad04c91400b">Orleans County</unittitle>
+                    </did>
+                    <c level="file" id="c_5bad04c9140d1">
+                        <did id="c_5bad04c91417c">
+                            <container type="box-folder">21.1</container>
+                            <unittitle>County Map and Brief History</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c914237">
+                        <did id="c_5bad04c9142f4">
+                            <container type="box-folder">21.2-21.5</container>
+                            <unittitle>Albion</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91439e">
+                        <did id="c_5bad04c91445a">
+                            <container type="box-folder">21.6</container>
+                            <unittitle>Albion Town Clerk</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91451c">
+                        <did id="c_5bad04c9145ee">
+                            <container type="box-folder">21.7</container>
+                            <unittitle>Albion Village Clerk</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c9146a0">
+                        <did id="c_5bad04c914764">
+                            <container type="box-folder">21.8</container>
+                            <unittitle>Albion: Surrogate's Office, Superintendent of
+ Highways</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c914825">
+                        <did id="c_5bad04c9148e5">
+                            <container type="box-folder">22.1</container>
+                            <unittitle>Albion: County Treasurer's Office</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c9149a6">
+                        <did id="c_5bad04c914a67">
+                            <container type="box-folder">22.2-22.3</container>
+                            <unittitle>Albion</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c914b26">
+                        <did id="c_5bad04c914bd0">
+                            <container type="box-folder">22.4</container>
+                            <unittitle>Clarendon, Fancher, Holley, Hulberton,
+ Kendall</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c914c7f">
+                        <did id="c_5bad04c914d4f">
+                            <container type="box-folder">22.5</container>
+                            <unittitle>Kent, Lyndonville, Medina</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c914e0f">
+                        <did id="c_5bad04c914ed0">
+                            <container type="box-folder">22.6</container>
+                            <unittitle>Ridgeway, Shelby, Waterport</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="series1h">
+                    <did id="c_5bad04c915038">
+                        <unittitle id="c_5bad04c9150e3">Wyoming County</unittitle>
+                    </did>
+                    <c level="file" id="c_5bad04c91518d">
+                        <did id="c_5bad04c915237">
+                            <container type="box-folder">23.1</container>
+                            <unittitle>Administrative material</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c9152e5">
+                        <did id="c_5bad04c915390">
+                            <container type="box-folder">23.2</container>
+                            <unittitle>Arcade, Attica, Bennington</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91543a">
+                        <did id="c_5bad04c9154e5">
+                            <container type="box-folder">23.3</container>
+                            <unittitle>Castile, Covington, Eagle, Gainesville</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c915591">
+                        <did id="c_5bad04c91563b">
+                            <container type="box-folder">23.4</container>
+                            <unittitle>Genesee Falls, Java</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c9156e5">
+                        <did id="c_5bad04c915790">
+                            <container type="box-folder">23.5</container>
+                            <unittitle>Middlebury, Orangeville, Perry</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91583a">
+                        <did id="c_5bad04c9158e4">
+                            <container type="box-folder">24.1</container>
+                            <unittitle>Pike, Portageville, Sheldon, Silver
+ Springs</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91598e">
+                        <did id="c_5bad04c915a39">
+                            <container type="box-folder">24.2</container>
+                            <unittitle>Warsaw: Justice of the Peace, County
+ Treasurer</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c915ae4">
+                        <did id="c_5bad04c915b8f">
+                            <container type="box-folder">24.3</container>
+                            <unittitle>Warsaw: Surrogate's Office, County
+ Attorney</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c915c39">
+                        <did id="c_5bad04c915ce7">
+                            <container type="box-folder">24.4</container>
+                            <unittitle>Warsaw: Sheriff, Commissioner of Election, Board of
+ Elections</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c915d9c">
+                        <did id="c_5bad04c915e46">
+                            <container type="box-folder">24.5</container>
+                            <unittitle>Warsaw: County Highway Department, Commissioner of
+ Public Welfare, Board of Child Welfare, Chief of Police, Sealer of Weights and
+ Measures</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c915ef0">
+                        <did id="c_5bad04c915f9b">
+                            <container type="box-folder">24.6</container>
+                            <unittitle>Warsaw: Supervisor, Board of Supervisors</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c916045">
+                        <did id="c_5bad04c916101">
+                            <container type="box-folder">25.1-25.3</container>
+                            <unittitle>Warsaw: County Clerk's Office</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c9161ac">
+                        <did id="c_5bad04c916268">
+                            <container type="box-folder">25.4</container>
+                            <unittitle>Warsaw: Health Officer, County Hospital, Public Health
+ Nursing, County Laboratory, County Farm Bureau, Alcoholic Beverage Control
+ Board, Motor Vehicle Bureau</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91632a">
+                        <did id="c_5bad04c9163f9">
+                            <container type="box-folder">25.5</container>
+                            <unittitle>Warsaw: Town Clerk, Village Clerk; Wethersfield,
+ Wyoming</unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04c9164a6">
+                <did id="c_5bad04c916550">
+                    <unitid id="series2">II.</unitid>
+                    <unittitle id="c_5bad04c9166a8">Maps and Photographs, By County</unittitle>
+                </did>
+                <c level="file" id="c_5bad04c916752">
+                    <did id="c_5bad04c9167fd">
+                        <container type="box-folder" id="c_5bad04c9168b1">26.1-26.2</container>
+                        <unittitle id="c_5bad04c91695b">Cattaraugus County</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c916a06">
+                    <did id="c_5bad04c916ab0">
+                        <container type="box-folder" id="c_5bad04c916b5b">26.3-26.4</container>
+                        <unittitle id="c_5bad04c916c04">Erie County</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c916cc6">
+                    <did id="c_5bad04c916d70">
+                        <container type="box-folder" id="c_5bad04c916e1a">26.5-26.6</container>
+                        <unittitle id="c_5bad04c916ec9">Genesee County</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c916f75">
+                    <did id="c_5bad04c91701f">
+                        <container type="box-folder" id="c_5bad04c9170ca">27.1</container>
+                        <unittitle id="c_5bad04c917186">Niagara County</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c917247">
+                    <did id="c_5bad04c917308">
+                        <container type="box-folder" id="c_5bad04c9173bc">27.2-27.3</container>
+                        <unittitle id="c_5bad04c917467">Orleans County</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c917511">
+                    <did id="c_5bad04c9175bb">
+                        <container type="box-folder" id="c_5bad04c917665">27.4</container>
+                        <unittitle id="c_5bad04c917720">Wyoming County</unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04c9177cb">
+                <did id="c_5bad04c917881">
+                    <unitid id="series3">III.</unitid>
+                    <unittitle id="c_5bad04c9179f3">Manuscript Collections (Libraries and Museums)</unittitle>
+                </did>
+                <c level="file" id="c_5bad04c917ab0">
+                    <did id="c_5bad04c917b70">
+                        <container type="box-folder" id="c_5bad04c917c3d">28.1</container>
+                        <unittitle id="c_5bad04c917ce7">Miscellaneous administrative materials</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c917dad">
+                    <did id="c_5bad04c917e6e">
+                        <container type="box-folder" id="c_5bad04c917f33">28.2</container>
+                        <unittitle id="c_5bad04c917fe1">Allegany County</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c91809c">
+                    <did id="c_5bad04c918146">
+                        <container type="box-folder" id="c_5bad04c9181f0">28.3</container>
+                        <unittitle id="c_5bad04c91829a">Cattaraugus County</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c918345">
+                    <did id="c_5bad04c918402">
+                        <container type="box-folder" id="c_5bad04c9184c3">28.4</container>
+                        <unittitle id="c_5bad04c918583">Chautauqua County</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c918632">
+                    <did id="c_5bad04c9186ee">
+                        <container type="box-folder" id="c_5bad04c9187a3">28.5</container>
+                        <unittitle id="c_5bad04c91884e">Erie County: Buffalo Historical Society</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c918909">
+                    <did id="c_5bad04c9189c2">
+                        <container type="box-folder" id="c_5bad04c918a7e">28.5A</container>
+                        <unittitle id="c_5bad04c918b3e">Erie County: Buffalo Historical Society (paintings,
+ statues)</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c918c10">
+                    <did id="c_5bad04c918cb9">
+                        <container type="box-folder" id="c_5bad04c918d62">28.6</container>
+                        <unittitle id="c_5bad04c918e0c">Erie County: Buffalo Public Library</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c918eb6">
+                    <did id="c_5bad04c918f60">
+                        <container type="box-folder" id="c_5bad04c91900a">28.7</container>
+                        <unittitle id="c_5bad04c9190b4">Erie County: Grosvenor Library</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c91915f">
+                    <did id="c_5bad04c919209">
+                        <container type="box-folder" id="c_5bad04c9192b4">28.8</container>
+                        <unittitle id="c_5bad04c91935f">Erie County: Other repositories</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c91940d">
+                    <did id="c_5bad04c9194b8">
+                        <container type="box-folder" id="c_5bad04c919562">28.9</container>
+                        <unittitle id="c_5bad04c91960c">Genesee County</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c9196ba">
+                    <did id="c_5bad04c919765">
+                        <container type="box-folder" id="c_5bad04c919810">28.10</container>
+                        <unittitle id="c_5bad04c9198ba">Niagara County</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c919964">
+                    <did id="c_5bad04c919a20">
+                        <container type="box-folder" id="c_5bad04c919ae0">28.11-28.12</container>
+                        <unittitle id="c_5bad04c919bac">Olreans County</unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04c919c58">
+                <did id="c_5bad04c919d14">
+                    <unitid id="series4">IV.</unitid>
+                    <unittitle id="c_5bad04c919e99">Church Records Inventory</unittitle>
+                </did>
+                <c level="subseries" id="series4a">
+                    <did id="c_5bad04c919ffb">
+                        <unittitle id="c_5bad04c91a0a5">Allegany and Cattaraugus Counties</unittitle>
+                    </did>
+                    <c level="file" id="c_5bad04c91a150">
+                        <did id="c_5bad04c91a20d">
+                            <container type="box-folder">29.0</container>
+                            <unittitle>Checklist of Religious Bodies</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91a2ce">
+                        <did id="c_5bad04c91a393">
+                            <container type="box-folder">29.1</container>
+                            <unittitle>Allegany County - Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91a453">
+                        <did id="c_5bad04c91a514">
+                            <container type="box-folder">29.2</container>
+                            <unittitle>Allegany County - Non-Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91a5d5">
+                        <did id="c_5bad04c91a683">
+                            <container type="box-folder">29.3</container>
+                            <unittitle>Cattaraugus County - Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91a73f">
+                        <did id="c_5bad04c91a800">
+                            <container type="box-folder">29.4</container>
+                            <unittitle>Cattaraugus County - Non-Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91a8c0">
+                        <did id="c_5bad04c91a96f">
+                            <container type="box-folder">29.5</container>
+                            <unittitle>Cattaraugus County - Non-Catholic</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c id="series4b" level="subseries">
+                    <did id="c_5bad04c91aac5">
+                        <unittitle id="c_5bad04c91ab71">Cattaraugus, Chautauqua, and Erie Counties</unittitle>
+                    </did>
+                    <c level="file" id="c_5bad04c91ac1b">
+                        <did id="c_5bad04c91acd6">
+                            <container type="box-folder">30.1</container>
+                            <unittitle>Cattaraugus County - Non-Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91ad96">
+                        <did id="c_5bad04c91ae5e">
+                            <container type="box-folder">30.2</container>
+                            <unittitle>Cattaraugus County - Non-Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91af09">
+                        <did id="c_5bad04c91afb3">
+                            <container type="box-folder">30.3</container>
+                            <unittitle>Chautauqua County - Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91b05d">
+                        <did id="c_5bad04c91b108">
+                            <container type="box-folder">30.4</container>
+                            <unittitle>Chautauqua County - Non-Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91b1b2">
+                        <did id="c_5bad04c91b25c">
+                            <container type="box-folder">30.5-30.7</container>
+                            <unittitle>Erie County - - Buffalo - Baptist</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91b307">
+                        <did id="c_5bad04c91b3b1">
+                            <container type="box-folder">31.1</container>
+                            <unittitle>Erie County - Buffalo - Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91b45b">
+                        <did id="c_5bad04c91b505">
+                            <container type="box-folder">31.2</container>
+                            <unittitle>Erie County - Buffalo - Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91b5b3">
+                        <did id="c_5bad04c91b65d">
+                            <container type="box-folder">31.3</container>
+                            <unittitle>Erie County (excluding Buffalo) - Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91b712">
+                        <did id="c_5bad04c91b7bc">
+                            <container type="box-folder">31.4-31.5</container>
+                            <unittitle>Erie County - Buffalo - Non-Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91b866">
+                        <did id="c_5bad04c91b911">
+                            <container type="box-folder">32.1</container>
+                            <unittitle>Erie County (excluding Buffalo) -
+ Non-Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91b9c1">
+                        <did id="c_5bad04c91ba6b">
+                            <container type="box-folder">32.2</container>
+                            <unittitle>Genesee County - Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91bb1a">
+                        <did id="c_5bad04c91bbde">
+                            <container type="box-folder">32.3</container>
+                            <unittitle>Genesee County - Non-Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91bc88">
+                        <did id="c_5bad04c91bd44">
+                            <container type="box-folder">32.4</container>
+                            <unittitle>Niagara County - Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91be04">
+                        <did id="c_5bad04c91bec5">
+                            <container type="box-folder">32.5</container>
+                            <unittitle>Niagara County - Non-Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91bf85">
+                        <did id="c_5bad04c91c053">
+                            <container type="box-folder">33.1</container>
+                            <unittitle>Orleans County - Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91c114">
+                        <did id="c_5bad04c91c1cb">
+                            <container type="box-folder">33.2</container>
+                            <unittitle>Orleans County - Non-Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91c290">
+                        <did id="c_5bad04c91c33d">
+                            <container type="box-folder">33.3</container>
+                            <unittitle>Orleans County - Non-Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91c3e6">
+                        <did id="c_5bad04c91c4a3">
+                            <container type="box-folder">33.4</container>
+                            <unittitle>Wyoming County - Catholic</unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04c91c564">
+                        <did id="c_5bad04c91c624">
+                            <container type="box-folder">33.5-33.6</container>
+                            <unittitle>Wyoming County - Non-Catholic</unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04c91c6d3">
+                <did id="c_5bad04c91c77d">
+                    <unitid id="series5">V.</unitid>
+                    <unittitle id="c_5bad04c91c8d9">Administrative Files</unittitle>
+                </did>
+                <c level="file" id="c_5bad04c91c985">
+                    <did id="c_5bad04c91ca41">
+                        <container type="box-folder" id="c_5bad04c91cb01">34.1</container>
+                        <unittitle id="c_5bad04c91cbc8">List of countries with their cities, towns and
+ villages</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c91cc77">
+                    <did id="c_5bad04c91cd27">
+                        <container type="box-folder" id="c_5bad04c91cdd2">34.2</container>
+                        <unittitle id="c_5bad04c91ce85">Miscellaneous bulletins, letters, and
+ reports</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c91cf42">
+                    <did id="c_5bad04c91cfec">
+                        <container type="box-folder" id="c_5bad04c91d097">34.3</container>
+                        <unittitle id="c_5bad04c91d153">Miscellaneous bulletins and letters</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c91d1fe">
+                    <did id="c_5bad04c91d2a9">
+                        <container type="box-folder" id="c_5bad04c91d35c">34.4</container>
+                        <unittitle id="c_5bad04c91d40b">1942 survey: building forms, various places</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c91d4c9">
+                    <did id="c_5bad04c91d58a">
+                        <container type="box-folder" id="c_5bad04c91d659">34.5</container>
+                        <unittitle id="c_5bad04c91d703">Working papers - miscellaneous</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c91d7ae">
+                    <did id="c_5bad04c91d858">
+                        <container type="box-folder" id="c_5bad04c91d903">34.6</container>
+                        <unittitle id="c_5bad04c91d9ad">Manuscript survey bulletins</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c91da57">
+                    <did id="c_5bad04c91db01">
+                        <container type="box-folder" id="c_5bad04c91dbbc">34.7</container>
+                        <unittitle id="c_5bad04c91dc66">Manuscript survey correspondence</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c91dd23">
+                    <did id="c_5bad04c91dde4">
+                        <container type="box-folder" id="c_5bad04c91dea4">34.8</container>
+                        <unittitle id="c_5bad04c91df65">Church survey correspondence and histories</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c91e027">
+                    <did id="c_5bad04c91e0ed">
+                        <container type="box-folder" id="c_5bad04c91e19b">34.9</container>
+                        <unittitle id="c_5bad04c91e243">Histories of Episcopal Church Societies</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c91e2ed">
+                    <did id="c_5bad04c91e3a6">
+                        <container type="box-folder" id="c_5bad04c91e463">34.10</container>
+                        <unittitle id="c_5bad04c91e520">Blank survey forms</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c91e5e3">
+                    <did id="c_5bad04c91e68d">
+                        <container type="box-folder" id="c_5bad04c91e737">34.11</container>
+                        <unittitle id="c_5bad04c91e7fd">Histories of Western New York - rough drafts</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c91e8b0">
+                    <did id="c_5bad04c91e959">
+                        <container type="box-folder" id="c_5bad04c91ea06">34.12</container>
+                        <unittitle id="c_5bad04c91eaae">Miscellaneous notes and transcripts</unittitle>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+        <controlaccess>
+            <head>Search Terms</head>
+            <note>
+                <p>The following terms have been used to index the description of this
+ collection in the Library's online catalog.</p>
+            </note>
+            <controlaccess>
+                <head>Contributors</head>
+                <corpname source="lcnaf" encodinganalog="710">Buffalo History Museum</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Subject Terms</head>
+                <subject source="lcsh" encodinganalog="650">Public records--New York
+ (State)</subject>
+                <subject source="lcsh" encodinganalog="650">Archives--New York
+ (State)</subject>
+                <subject source="lcsh" encodinganalog="650">Archival surveys--New York
+ (State)</subject>
+                <subject source="lcsh" encodinganalog="650">Church archives--New York
+ (State)</subject>
+                <geogname encodinganalog="651" source="lcsh">Allegany County
+ (N.Y.)--Archives</geogname>
+                <geogname encodinganalog="651" source="lcsh">Cattaraugus County
+ (N.Y.)--Archives</geogname>
+                <geogname encodinganalog="651" source="lcsh">Chautauqua County
+ (N.Y.)--Archives</geogname>
+                <geogname encodinganalog="651" source="lcsh">Erie County
+ (N.Y.)--Archives</geogname>
+                <geogname encodinganalog="651" source="lcsh">Genesee County
+ (N.Y.)--Archives</geogname>
+                <geogname encodinganalog="651" source="lcsh">Niagara County
+ (N.Y.)--Archives</geogname>
+                <geogname encodinganalog="651" source="lcsh">Orleans County
+ (N.Y.)--Archives</geogname>
+                <geogname encodinganalog="651" source="lcsh">Wyoming County
+ (N.Y.)--Archives</geogname>
+                <corpname source="lcnaf" encodinganalog="610">Buffalo History Museum--Archives</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Genre Terms</head>
+                <genreform source="aat" encodinganalog="655">Government
+ records</genreform>
+                <genreform source="aat" encodinganalog="655">Church records</genreform>
+                <genreform source="aat" encodinganalog="655">Photographs</genreform>
+            </controlaccess>
+        </controlaccess>
+    </archdesc>
+</ead>

@@ -1,0 +1,507 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" relatedencoding="DC" scriptencoding="iso15924">
+        <eadid countrycode="us" publicid="-//Buffalo History Museum::Research Library//TEXT (US::NBuHi::B69-5::Marian De Forest Drama Papers)//EN" mainagencycode="NBuHi" encodinganalog="identifier">nbuhi_tbhm_b69_5</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title"> Finding Aid for the Marian De
+ Forest Drama Papers, 
+ <date type="inclusive" normal="1910/1961" encodinganalog="date">1910-1961</date>
+                    <date normal="1910/1935" type="bulk" encodinganalog="date">(bulk
+ 1910-1935)</date>
+                </titleproper>
+                <titleproper altrender="nodisplay" type="filing">De Forest (Marian)
+ Drama Papers</titleproper>
+                <author encodinganalog="contributor">Finding aid prepared by Peter
+ Nelson.</author>
+                <sponsor encodinganalog="contributor">Funding for the initial encoding
+ was provided through the Regional Bibliographic Databases Program administered
+ by the Western New York Library Resources Council.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Buffalo History Museum. Research Library</publisher>
+                <address>
+                    <addressline>1 Museum Court</addressline>
+                    <addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: library@buffalohistory.org</addressline>
+                    <addressline>URI: http://www.buffalohistory.org</addressline>
+                </address>
+                <p>&#xA9; 
+ <date encodinganalog="date" type="publication">2010</date>. Buffalo History Museum. All rights reserved.</p>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid encoded in EAD by Kuniko Simon, March
+ 2008.</creation>
+            <langusage altrender="nodisplay">Finding aid written in
+ <language langcode="eng" encodinganalog="language">English.</language>.
+ </langusage>
+            <descrules>Finding aid prepared using local best practices. </descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+        <did>
+            <head>Collection Overview</head>
+            <unittitle encodinganalog="245$a" label="Title">Marian De Forest Papers</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" normal="1910/1961">1910 - 1961</unitdate>
+            <unitdate type="bulk" normal="1910/1935" encodinganalog="245$g">1910 - 1935</unitdate>
+            <unitid encodinganalog="099" label="Collection Number" repositorycode="NBuHi" countrycode="US">Mss. B69-5</unitid>
+            <origination label="Creator">
+                <persname encodinganalog="100" role="creator" source="lcnaf">De Forest,
+ Marian, 1864-1935</persname>
+            </origination>
+            <physdesc label="Extent">
+                <extent unit="box" encodinganalog="300">2
+ boxes</extent>
+                <extent unit="linear foot" encodinganalog="300">(1 linear
+ foot)</extent>
+            </physdesc>
+            <langmaterial label="Language of Material" encodinganalog="546">Collection material in
+ <language encodinganalog="041" langcode="eng">English</language>.</langmaterial>
+            
+            <abstract encodinganalog="520" label="Abstract">De Forrest's drama-related personal papers.</abstract>
+        <repository>
+								<corpname>The Buffalo History Museum</corpname>
+							<address>
+								<addressline>1 Museum Court</addressline>
+							<addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: library@buffalohistory.org</addressline>
+                    <addressline>URI: http://buffalohistory.org</addressline>
+                </address>
+            </repository>
+        </did>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <prefercite encodinganalog="524">
+                <head>Preferred Citation</head>
+                <p>[Description and dates], Box/folder number, B69-5, Marian de Forest
+ Papers, 1910-1961 (bulk 1910-1935), Research Library, Buffalo History Museum.</p>
+            </prefercite>
+            <accessrestrict encodinganalog="506">
+                <head>Terms of Access</head>
+                <p>Marian De Forest Papers, 1910-1961, are open for research.</p>
+            </accessrestrict>
+            <userestrict encodinganalog="540">
+                <head>Copyright</head>
+                <p>Copyright of papers in the collection may be held by their authors,
+ or the authors' heirs or assigns. Researchers must obtain the written
+ permission of the holder(s) of copyright and the Buffalo History Museum before publishing quotations from materials in the
+ collection.</p>
+            </userestrict>
+        </descgrp>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <acqinfo encodinganalog="541">
+                <head>Acquisition Information</head>
+                <p>Witt, Clara H., Mrs.; gift; 1961/10/00; 65-74</p>
+            </acqinfo>
+            <accruals encodinganalog="584">
+                <head>Accruals and Additions</head>
+                <p>No further accruals are expected to this collection.</p>
+            </accruals>
+            <processinfo encodinganalog="583">
+                <head>Processing Information</head>
+                <p>Collection reprocessed by Peter Nelson, November 1992.</p>
+            </processinfo>
+        </descgrp>
+        <bioghist encodinganalog="545">
+            <head>Biographical Note </head>
+            <p>Marian de Forest, a "distinguished dramatist, author, civic
+ personality, music impresario, and pioneer newspaper woman," was born in
+ Buffalo in 1864 and attended Buffalo Seminary, graduating in 1884. She began a
+ career in newspapers, first with the Buffalo Evening News and then the Buffalo
+ Commercial. After the Pan-American Exposition in 1901, in which she was
+ secretary of the Board of Women Managers, she joined the staff of the 
+ <title type="journal">Buffalo Express</title>, where she was to stay for
+ 23 years. At the 
+ <title type="journal">Express</title> she was dramatic editor and editor
+ of the Women's department, in which she had a regular column entitled "As I Go
+ to the Play."</p>
+            <p>Marian de Forest earned notoriety far beyond the local scene, however,
+ in her work as a playwright and author. She is best known as the author of 
+ <title type="book">Little Women</title>, a dramatic adaptation of the
+ story of the same name by Louisa May Alcott. 
+ <title type="book">Little Women</title> was completed in 1911, had stage
+ productions in Buffalo and elsewhere, and received rave reviews on the New York
+ stage in 1912. Perhaps more significantly, the play served as the vehicle for
+ Katharine Cornell's rise to acting stardom in the London stage production in
+ 1919. With actress Jessie Bonstelle, Marian de Forest edited and published
+ letters found at the Alcott home in Massachusetts, in a book entitled Little
+ Women Letters from the House of Alcott. The de Forest papers contain a
+ published version of 
+ <title type="book">Little Women</title> only, but it also has extensive
+ court documents from de Forest's copyright infringement suit brought against
+ William A. Brady and others.</p>
+            <p>In 1919 Marian de Forest founded and became the first president of the
+ Zonta Club, an organization for women business executives, the first of its
+ kind in the country. In 1924-1925 she served as the fourth president of Zonta
+ International.</p>
+            <p>Marian de Forest left the Buffalo Express in 1924 to become executive
+ secretary and manager of the Buffalo Musical Foundation. In the winter months
+ she devoted the majority of her time to promoting its concerts, and reserved
+ the summer months for her writing. Marian de Forest died of cancer in Buffalo
+ General Hospital in 1935, shortly before her 71st birthday. </p>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content Note</head>
+            <p>Correspondence, literary contracts and clippings related to de
+ Forest's plays and stage productions of them; complaints and other court papers
+ related to de Forest's lawsuit for copyright infringement of her play 
+ <title type="book">Little Women</title>, caused by a motion picture
+ version by William A. Brady and others, 1918-1922; and scripts of many of her
+ plays, including ms. versions of 
+ <title type="book">Mister Man</title> and 
+ <title type="book">Barnabetta</title> ( 
+ <title type="book">Erstwhile Susan</title>) and a published version of 
+ <title type="book">Little Women</title>. Includes letter by Clara H. Witt
+ to Buffalo Historical Society, 1961, explaining disposition of de Forest's
+ literary estate.</p>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>Organized into three series: 
+ <list>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series1">I. Correspondence Concerning Estate, 1935-1961</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series2">II. Correspondence, Contracts, Court Papers and Clippings
+ Concerning Plays, 1910-1935</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series3">III. Scripts, circa 1914-1934.</ref>
+                    </item>
+                </list> Chronological arrangement within series. </p>
+        </arrangement>
+        <dsc type="combined">
+            <head>Container List </head>
+            <c level="series" id="c_5bad04826d51b">
+                <did id="c_5bad04826d5cf">
+                    <unitid id="series1">I. </unitid>
+                    <unittitle id="c_5bad04826d726">Correspondence Concerning the Estate of Marian de Forest, 
+  <unitdate normal="1935/1961" type="inclusive" id="c_5bad04826d7ce">1935-1961</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04826d877">
+                    <did id="c_5bad04826d91f">
+                        <container type="box-folder" id="c_5bad04826d9c7">1.1</container>
+                        <unittitle id="c_5bad04826da6f">Correspondence concerning the estate of Marian de
+ Forest, 
+ <unitdate>1935-1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04826db17">
+                <did id="c_5bad04826dbbe">
+                    <unitid id="series2">II. </unitid>
+                    <unittitle id="c_5bad04826dd19">Correspondence Contracts, Court Papers and Clippings
+ Concerning Plays, 
+ <unitdate normal="1935/1961" type="inclusive" id="c_5bad04826ddc1">1910-1935</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04826de69">
+                    <did id="c_5bad04826df11">
+                        <container type="box-folder" id="c_5bad04826dfb8">1.2</container>
+                        <unittitle id="c_5bad04826e05f">Literary contracts, 
+ <unitdate>1917-1919</unitdate>, 
+ <unitdate> 1921 </unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent id="c_5bad04826e106">
+                        <p id="c_5bad04826e1ad">Includes model contract from Author's League of America.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="c_5bad04826e255">
+                    <did id="c_5bad04826e305">
+                        <container type="box-folder" id="c_5bad04826e3ae">1.3</container>
+                        <unittitle id="c_5bad04826e456">
+                            <title type="book">Little Women</title>: correspondence and
+ contracts, 
+ <unitdate>1910-1919</unitdate>, 
+ <unitdate>1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04826e4fd">
+                    <did id="c_5bad04826e5a5">
+                        <container type="box-folder" id="c_5bad04826e64c">1.4</container>
+                        <unittitle id="c_5bad04826e6f3">Marian de Forest v. Elmwood Theatre Co., : court papers,
+ 
+ <unitdate>1919</unitdate>, 
+ <unitdate>1922</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04826e79a">
+                    <did id="c_5bad04826e841">
+                        <container type="box-folder" id="c_5bad04826e8e9">1.5</container>
+                        <unittitle id="c_5bad04826e98f">de Forest v. Elmwood (continued): correspondence, 
+ <unitdate>1918-1919 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04826ea37">
+                    <did id="c_5bad04826eade">
+                        <container type="box-folder" id="c_5bad04826eb85">1.6</container>
+                        <unittitle id="c_5bad04826ec2c">de Forest v. Elmwood et al. (continued): correspondence,
+ 
+ <unitdate> 1919 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04826ecd3">
+                    <did id="c_5bad04826ed7b">
+                        <container type="box-folder" id="c_5bad04826ee24">1.7</container>
+                        <unittitle id="c_5bad04826eecb">de Forest v. Elmwood (continued); comparisons between
+ book, play and motion picture, 
+ <unitdate>1919</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04826ef72">
+                    <did id="c_5bad04826f019">
+                        <container type="box-folder" id="c_5bad04826f0c1">1.8</container>
+                        <unittitle id="c_5bad04826f168">de Forest v. Elmwood (continued): copies of papers used
+ as evidence, 
+ <unitdate>1910-1914</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04826f217">
+                    <did id="c_5bad04826f2d9">
+                        <container type="box-folder" id="c_5bad04826f383">1.9</container>
+                        <unittitle id="c_5bad04826f42a">
+                            <title type="book">Barnabetta/Erstwhile Susan</title>: contracts,
+ correspondence, etc., 
+ <unitdate>1913-1926</unitdate>, 
+ <unitdate>1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04826f4d2">
+                    <did id="c_5bad04826f57e">
+                        <container type="box-folder" id="c_5bad04826f626">1.10</container>
+                        <unittitle id="c_5bad04826f6cd">
+                            <title type="book">Mister Man</title>: contracts, correspondence,
+ etc., 
+ <unitdate>1918-1927</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04826f775">
+                    <did id="c_5bad04826f81d">
+                        <container type="box-folder" id="c_5bad04826f8c4">1.11</container>
+                        <unittitle id="c_5bad04826f96b">
+                            <title type="book">Mister Man</title>: contracts, correspondence,
+ etc., 
+ <unitdate>1928-1931</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04826fa13">
+                    <did id="c_5bad04826fabf">
+                        <container type="box-folder" id="c_5bad04826fb67">1.12</container>
+                        <unittitle id="c_5bad04826fc0e">
+                            <title type="book">Mister Man</title>: clippings of reviews of
+ Buffalo stage production, 
+ <unitdate>July 1922</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04826fcb6">
+                    <did id="c_5bad04826fd5d">
+                        <container type="box-folder" id="c_5bad04826fe07">1.13</container>
+                        <unittitle id="c_5bad04826feae">de Forest v. Adams: correspondence, 
+ <unitdate>1922</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04826ff55">
+                    <did id="c_5bad04826fffc">
+                        <container type="box-folder" id="c_5bad0482700a4">1.14</container>
+                        <unittitle id="c_5bad04827014b">
+                            <title type="book">Mary 39</title>: correspondence, 
+ <unitdate>1921-1927</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0482701f3">
+                    <did id="c_5bad04827029e">
+                        <container type="box-folder" id="c_5bad048270349">1.15</container>
+                        <unittitle id="c_5bad0482703f3">Miscellaneous correspondence, 
+ <unitdate>1928-1935</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04827049c">
+                    <did id="c_5bad04827054a">
+                        <container type="box-folder" id="c_5bad0482705f3">1.16</container>
+                        <unittitle id="c_5bad04827069c">
+                            <title type="book">Pipes</title> (typed manuscript) 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad048270746">
+                <did id="c_5bad0482707ef">
+                    <unitid id="series3">III. </unitid>
+                    <unittitle id="c_5bad048270944">Scripts, 
+ <unitdate normal="1899/1929" type="inclusive" certainty="approximate" id="c_5bad0482709ee">circa 1914-1934</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad048270a98">
+                    <did id="c_5bad048270b42">
+                        <container type="box-folder" id="c_5bad048270beb">1.17</container>
+                        <unittitle id="c_5bad048270c94">
+                            <title type="book">Mister Man</title> - first script</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048270d3d">
+                    <did id="c_5bad048270de7">
+                        <container type="box-folder" id="c_5bad048270e90">2.1</container>
+                        <unittitle id="c_5bad048270f39">
+                            <title type="book">Mister Man</title> - version dated 
+ <unitdate>7 April 1925</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048270fe5">
+                    <did id="c_5bad04827108f">
+                        <container type="box-folder" id="c_5bad048271138">2.2</container>
+                        <unittitle id="c_5bad0482711e2">
+                            <title type="book">Mister Man</title> - Prologue, Act
+ I</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04827128c">
+                    <did id="c_5bad048271335">
+                        <container type="box-folder" id="c_5bad0482713de">2.3</container>
+                        <unittitle id="c_5bad048271487">
+                            <title type="book">Mister Man</title> - Acts II and
+ III</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048271531">
+                    <did id="c_5bad0482715dd">
+                        <container type="box-folder" id="c_5bad048271687">2.4</container>
+                        <unittitle id="c_5bad048271730">
+                            <title type="book">Mister Man</title> - (entire
+ script)</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0482717d9">
+                    <did id="c_5bad048271887">
+                        <container type="box-folder" id="c_5bad048271933">2.5</container>
+                        <unittitle id="c_5bad0482719e0">
+                            <title type="book">Barnabetta</title> - first copy, 
+ <unitdate>1914</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048271a8b">
+                    <did id="c_5bad048271b35">
+                        <container type="box-folder" id="c_5bad048271bde">2.6</container>
+                        <unittitle id="c_5bad048271c87">Published scripts of 
+ <title type="book">Little Women</title> and 
+ <title type="book">Erstwhile Susan</title>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048271d31">
+                    <did id="c_5bad048271dda">
+                        <container type="box-folder" id="c_5bad048271e83">2.7</container>
+                        <unittitle id="c_5bad048271f2c">
+                            <title type="book">The Trespasser,</title>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048271fd6">
+                    <did id="c_5bad04827207f">
+                        <container type="box-folder" id="c_5bad048272128">2.8</container>
+                        <unittitle id="c_5bad0482721d3">
+                            <title type="book">Trespassing,</title>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04827227d">
+                    <did id="c_5bad048272327">
+                        <container type="box-folder" id="c_5bad0482723d3">2.9</container>
+                        <unittitle id="c_5bad04827247c">
+                            <title type="book">Mary 39,</title>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04827252a">
+                    <did id="c_5bad0482725d5">
+                        <container type="box-folder" id="c_5bad04827267e">2.10</container>
+                        <unittitle id="c_5bad048272727">
+                            <title type="book">Lovers of Yesteryear</title> autographed and
+ dated 
+ <unitdate>18 July 1934</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0482727d0">
+                    <did id="c_5bad04827288b">
+                        <container type="box-folder" id="c_5bad04827293f">2.11</container>
+                        <unittitle id="c_5bad0482729eb">
+                            <title type="book"> The Vision of Noah</title>, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048272a96">
+                    <did id="c_5bad048272b40">
+                        <container type="box-folder" id="c_5bad048272beb">2.12</container>
+                        <unittitle id="c_5bad048272c94">
+                            <title type="book">The Zonta Zoo</title> or 
+ <title type="book">The Vision of Noah</title>, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048272d3e">
+                    <did id="c_5bad048272ded">
+                        <container type="box-folder" id="c_5bad048272e97">2.13</container>
+                        <unittitle id="c_5bad048272f40">
+                            <title type="book">Mister Man</title>-first script 
+ <title type="book">A Centennial Fantasy of Fashion </title>radio
+ broadcast script by Josephine Wilhelm Wickser, 
+ <unitdate>1932 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+        <controlaccess>
+            <head>Search Terms</head>
+            <note>
+                <p>The following terms have been used to index the description of this
+ collection in the Library's online catalog.</p>
+            </note>
+            <controlaccess>
+                <head>Contributors</head>
+                <persname source="lcnaf" encodinganalog="700">Brady, William A.,
+ 1863-1950</persname>
+                <corpname source="lcnaf" encodinganalog="710">Buffalo History Museum </corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Subject Terms</head>
+                <subject source="lcsh" encodinganalog="650">Theater--New York
+ (State)</subject>
+                <subject source="lcsh" encodinganalog="650">Dramatists, American--New
+ York (State)--Buffalo</subject>
+                <corpname source="lcnaf" encodinganalog="610" role="subject">Buffalo History Museum--Archives</corpname>
+            </controlaccess>
+        </controlaccess>
+    </archdesc>
+</ead>

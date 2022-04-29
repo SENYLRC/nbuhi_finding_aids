@@ -1,0 +1,1427 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" relatedencoding="DC" scriptencoding="iso15924">
+        <eadid countrycode="us" publicid="-//Buffalo History Museum:Research Library//TEXT (US::NBuHi::C74-2::James, Meadows &amp; Howard Records)//EN" mainagencycode="NBuHi" encodinganalog="identifier">nbuhi_tbhm_c74_2</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Finding Aid for the James, Meadows
+ &amp; Howard Records 
+ <date type="inclusive" normal="1893/1974" encodinganalog="date">1893-1974</date>
+                    <date type="bulk" normal="1951/1971" encodinganalog="date">(bulk
+ 1951-1971)</date>
+                </titleproper>
+                <titleproper altrender="nodisplay" type="filing">James, Meadows &amp;
+ Howard Records</titleproper>
+                <author encodinganalog="contributor">This finding aid was prepared by
+ Buffalo History Museum staff.</author>
+                <sponsor encodinganalog="contributor">Funding for the initial encoding
+ was provided through the Regional Bibliographic Databases Program administered
+ by the Western New York Library Resources Council.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Buffalo History Museum. Research Library</publisher>
+                <address>
+                    <addressline>1 Museum Court</addressline>
+                    <addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email:<emph render="bold">
+                            <extref actuate="onrequest" show="new" href="mail-to:library@buffalohistory.org">library@buffalohistory.org</extref>
+                        </emph>
+                    </addressline>
+                    <addressline>URI: <emph render="bold">
+                            <extref actuate="onrequest" show="new" href="http://www.buffalohistory.org">http://www.buffalohistory.org</extref>
+                        </emph>
+                    </addressline>
+                </address>
+                <p>&#xA9; 
+ <date encodinganalog="date" type="publication">2010</date>. Buffalo History Museum. All rights reserved.</p>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid encoded in EAD by Kuniko Simon, March
+ 2008.</creation>
+            <langusage altrender="nodisplay">Finding aid written in
+ <language langcode="eng" encodinganalog="language">English</language>.
+ </langusage>
+            <descrules>Finding aid prepared using local best practices. </descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+        <did>
+            <head>Collection Overview</head>
+            <unittitle encodinganalog="245$a" label="Title">James, Meadows &amp; Howard Records</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" normal="1893/1974">1893 - 1974</unitdate>
+            <unitdate normal="1951/1971" type="bulk" encodinganalog="245$g">1951 - 1971</unitdate>
+            <unitid encodinganalog="099" label="Collection Number" repositorycode="NBuHi" countrycode="US">Mss. C74-2</unitid>
+            <origination label="Creator">
+                <corpname encodinganalog="110" role="creator" rules="aacr2">James,
+ Meadows &amp; Howard</corpname>
+            </origination>
+            <physdesc label="Extent">
+                <extent unit="box" encodinganalog="300">135
+ boxes</extent>
+                <extent unit="linear foot" encodinganalog="300">(67.5 linear
+ feet)</extent>
+            </physdesc>
+            <langmaterial label="Language of Material" encodinganalog="546">Collection material in
+ <language encodinganalog="041" langcode="eng">English</language>.
+ </langmaterial>
+            
+            <abstract encodinganalog="520" label="Abstract">The records of the
+ architectural firm of James, Meadows &amp; Howard represents the accumulated
+ archives of a firm dating back ninety years.</abstract>
+        <repository>
+								<corpname>The Buffalo History Museum</corpname>
+							<address>
+								<addressline>1 Museum Court</addressline>
+							<addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: library@buffalohistory.org</addressline>
+                    <addressline>URI: http://www.buffalohistory.org</addressline>
+                </address>
+            </repository>
+        </did>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <prefercite encodinganalog="524">
+                <head>Preferred Citation</head>
+                <p>[Description and dates], Box/folder number, Mss. C74-2, James,
+ Meadows &amp; Howard Records, 1893-1974 (bulk 1951-1971), Research Library,
+ Buffalo History Museum.</p>
+            </prefercite>
+            <accessrestrict encodinganalog="506">
+                <head>Terms of Access</head>
+                <p>James, Meadows &amp; Howard Records, 1893-1974 (bulk 1951-1971), are
+ open for research.</p>
+            </accessrestrict>
+            <userestrict encodinganalog="540">
+                <head>Copyright</head>
+                <p>Copyright of papers in the collection may be held by their authors,
+ or the authors' heirs or assigns. Researchers must obtain the written
+ permission of the holder(s) of copyright and the Buffalo History Museum before publishing quotations from materials in the
+ collection.</p>
+            </userestrict>
+        </descgrp>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <acqinfo encodinganalog="541">
+                <head>Acquisition Information</head>
+                <p>James, Meadows &amp; Howard; gift; 1973/11/13; 74-3</p>
+            </acqinfo>
+            <accruals encodinganalog="584">
+                <head>Accruals and Additions</head>
+                <p>No further accruals are expected to this collection.</p>
+            </accruals>
+            <altformavail encodinganalog="530">
+                <head>Alternate Forms</head>
+                <p>Two ledgers from this collection were digitized by the LIS 567
+ Digital Libraries class of the University at Buffalo's Department of Library
+ and Information Studies. The collection is located at: 
+ <archref actuate="onrequest" href="http://www.bechs.org/Greenstone/green/index.php" role="text/html" show="new">http://www.bechs.org/Greenstone/green/index.php</archref>
+                </p>
+            </altformavail>
+            <processinfo encodinganalog="583">
+                <head>Processing Information</head>
+                <p>Collection reprocessed and retroconverted by Peter Nelson, 8 June
+ 1992.</p>
+            </processinfo>
+        </descgrp>
+        <bioghist encodinganalog="545">
+            <head>Historical Note</head>
+            <p>Buffalo architectural firm which originally began as Green &amp; Wicks
+ in 1884. It became Edward B. Green &amp; Son in 1917 and, upon the death of the
+ son in 1933, Edward B. Green. R. Maxwell James joined the firm in 1930 as a
+ designer and became a partner in Green &amp; James in 1936. Rufus W. Meadows,
+ who joined as a designer in 1936, became a partner in Green, James &amp;
+ Meadows in 1945. When Mr. Green died in 1950, the partners continued under the
+ name James &amp; Meadows. Lewis E. Howard, Jr., a former associate, rejoined
+ Green, James &amp; Meadows in 1946. In 1953 he became a partner in James,
+ Meadows &amp; Howard. The firm's designs included the Federal Reserve Bank on
+ South Elmwood Avenue, and buildings in the Buffalo General Hospital and
+ Children's Hospital complexes, Erie County Medical Center, and at the
+ University of Buffalo. Mr. Howard died in 1956. The firm was dissolved in
+ 1974.</p>
+        </bioghist>
+        <bioghist encodinganalog="545">
+            <head>Chronology </head>
+            <chronlist>
+                <chronitem>
+                    <date>1884</date>
+                    <event>Green &amp; Wicks founded.</event>
+                </chronitem>
+                <chronitem>
+                    <date>1917</date>
+                    <event>Edw. B. Green &amp; Son.</event>
+                </chronitem>
+                <chronitem>
+                    <date>1933</date>
+                    <event>Edw. B. Green - Son died.</event>
+                </chronitem>
+                <chronitem>
+                    <date>1936</date>
+                    <event>Green &amp; James.</event>
+                </chronitem>
+                <chronitem>
+                    <date>1945</date>
+                    <event>Green, James &amp; Meadows.</event>
+                </chronitem>
+                <chronitem>
+                    <date>1950</date>
+                    <event>James &amp; Meadows - Green died.</event>
+                </chronitem>
+                <chronitem>
+                    <date>1952</date>
+                    <event>James, Meadows &amp; Howard.</event>
+                </chronitem>
+            </chronlist>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content Note</head>
+            <p>The records of the architectural firm of James, Meadows &amp; Howard
+ represents the accumulated archives of a firm dating back ninety years. The
+ records include log books, construction specification books, bids, contracts,
+ plans and blueprints, correspondence, invoices, site photographs and other
+ records of an architectural firm of local importance commissioned to design a
+ wide variety of structures, including many hospitals, churches, banks and other
+ commercial buildings.</p>
+            <p>Specifications for Falconwood Club, Buffalo Historical Society
+ Building, Clifton Park Memorial, Crippled Children's Home, and Albright Art
+ Gallery Transferred from Iconography section, 1975.</p>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>This collection is arranged in four series: 
+ <list>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series1">I. Log Books</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series2">II. Construction Specifications</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series3">III. Job Files</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series4">IV. Miscellaneous Photographs, Concrete Site Reports, Cost
+ Books and Contracts</ref>.</item>
+                </list>
+            </p>
+            <p>The archival practice of maintaining the original arrangement of the
+ firm's records has been carefully observed here. Alphabetical arrangement
+ within series.</p>
+        </arrangement>
+        <dsc type="combined">
+            <head>Container List </head>
+            <c level="series" id="c_5bad04c2219bd">
+                <did id="c_5bad04c221a72">
+                    <unitid id="series1">I.</unitid>
+                    <unittitle id="c_5bad04c221bc9">Log Books, 
+ <unitdate normal="1951/1968" type="inclusive" id="c_5bad04c221c72">1951-1968</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04c221d1b">
+                    <did id="c_5bad04c221dc4">
+                        <container type="box" id="c_5bad04c221e6c"> 1</container>
+                        <container type="volume" id="c_5bad04c221f15"> 1</container>
+                        <unittitle id="c_5bad04c221fbd">American Radiator Standard Sanitary Corporation 
+ <unitdate>May 7, 1962</unitdate>; 
+ <unitdate>Aug. 2, 1962 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22206f">
+                    <did id="c_5bad04c222118">
+                        <container type="box" id="c_5bad04c2221c0"> 1</container>
+                        <container type="volume" id="c_5bad04c222267"> 2</container>
+                        <unittitle id="c_5bad04c22230f">Buffalo General Hospital, Nurses' Residence 
+ <unitdate> May 24, 1967</unitdate>; 
+ <unitdate>Feb. 27, 1968 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2223c9">
+                    <did id="c_5bad04c222474">
+                        <container type="box" id="c_5bad04c22251f"> 1</container>
+                        <container type="volume" id="c_5bad04c2225ca"> 3</container>
+                        <unittitle id="c_5bad04c222674"> Broadway Market, 
+ <unitdate>Aug. 23, 1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22271f">
+                    <did id="c_5bad04c2227c9">
+                        <container type="box" id="c_5bad04c22287a"> 1</container>
+                        <container type="volume" id="c_5bad04c222922"> 4</container>
+                        <unittitle id="c_5bad04c2229ca">Buffalo Medical Center, 
+ <unitdate>May 1951</unitdate>; 
+ <unitdate>June-Aug. 1952 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c222a72">
+                    <did id="c_5bad04c222b19">
+                        <container type="box" id="c_5bad04c222bc1"> 1</container>
+                        <container type="volume" id="c_5bad04c222c68"> 5</container>
+                        <unittitle id="c_5bad04c222d10">University Medical Building, 
+ <unitdate>May 1, 1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c222db8">
+                    <did id="c_5bad04c222e60">
+                        <container type="box" id="c_5bad04c222f07"> 1</container>
+                        <container type="volume" id="c_5bad04c222fd7"> 6</container>
+                        <unittitle id="c_5bad04c22308a">University of Buffalo, Sherman Hall, 
+ <unitdate>Oct. 24, 1957</unitdate>; Dormitories, 
+ <unitdate>1952-1959 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04c223135">
+                <did id="c_5bad04c2231de">
+                    <unitid id="series2">II.</unitid>
+                    <unittitle id="c_5bad04c223338">Construction Specifications, 
+ <unitdate normal="1893/1971" type="inclusive" id="c_5bad04c2233e3">1893-1971</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04c223490">
+                    <did id="c_5bad04c22353c">
+                        <container type="box" id="c_5bad04c2235e7"> 2</container>
+                        <unittitle id="c_5bad04c223691">Albright, Charlotte, residence, 
+ <unitdate> Apr. 20, 1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22373e">
+                    <did id="c_5bad04c2237ea">
+                        <container type="box" id="c_5bad04c223892"> 2</container>
+                        <unittitle id="c_5bad04c22393a">American Radiator and Standard Sanitary Corp., 
+ <unitdate> Mar.-Nov. 1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2239e2">
+                    <did id="c_5bad04c223a8a">
+                        <container type="box" id="c_5bad04c223b32"> 2</container>
+                        <unittitle id="c_5bad04c223bda">Bank of Buffalo (Court and Pearl Streets), 
+ <unitdate>Aug. 24, 1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c223c82">
+                    <did id="c_5bad04c223d32">
+                        <container type="box" id="c_5bad04c223ddb"> 2</container>
+                        <unittitle id="c_5bad04c223e83">Bank of Buffalo (French and Borden Roads), 
+ <unitdate>May 28, 1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c223f2b">
+                    <did id="c_5bad04c223fdc">
+                        <container type="box" id="c_5bad04c22408d"> 2</container>
+                        <unittitle id="c_5bad04c224136">Bank of Buffalo (Stuyvesant Plaza), 
+ <unitdate>May 6, 1965 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2241df">
+                    <did id="c_5bad04c224287">
+                        <container type="box" id="c_5bad04c22432f"> 2</container>
+                        <unittitle id="c_5bad04c2243d8">Boys' Club of Niagara Frontier, 
+ <unitdate>May 31, 1965 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c224480">
+                    <did id="c_5bad04c224528">
+                        <container type="box" id="c_5bad04c2245d1"> 2</container>
+                        <unittitle id="c_5bad04c224682">Broadway Market, 
+ <unitdate>Mar. 15, 1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c224733">
+                    <did id="c_5bad04c2247e4">
+                        <container type="box" id="c_5bad04c22488f"> 3</container>
+                        <unittitle id="c_5bad04c22493a"> Broadway Market (continued), 
+ <unitdate>1954-1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2249e6">
+                    <did id="c_5bad04c224a92">
+                        <container type="box" id="c_5bad04c224b43"> 3</container>
+                        <unittitle id="c_5bad04c224bef">Brooks Memorial Hospital, Dunkirk, N.Y., 
+ <unitdate>Dec. 6, 1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c224c9b">
+                    <did id="c_5bad04c224d47">
+                        <container type="box" id="c_5bad04c224df2"> 3</container>
+                        <unittitle id="c_5bad04c224e9d">Buffalo Club, 
+ <unitdate>June 20, 1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c224f4a">
+                    <did id="c_5bad04c224ff6">
+                        <container type="box" id="c_5bad04c2250a1"> 3</container>
+                        <unittitle id="c_5bad04c225150">Buffalo Columbus Hospital, East Bldg. 2nd floor, 
+ <unitdate>Jan. 19, 1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2251fb">
+                    <did id="c_5bad04c2252a8">
+                        <container type="box" id="c_5bad04c225353"> 4</container>
+                        <unittitle id="c_5bad04c2253ff">Buffalo Columbus Hospital (continued), 
+ <unitdate>1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2254aa">
+                    <did id="c_5bad04c225556">
+                        <container type="box" id="c_5bad04c225601"> 4</container>
+                        <unittitle id="c_5bad04c2256b1">Buffalo General Hospital, Nurses' Residence, 
+ <unitdate>Feb. 13, 1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c225760">
+                    <did id="c_5bad04c22580c">
+                        <container type="box" id="c_5bad04c2258b8"> 4</container>
+                        <unittitle id="c_5bad04c225963">Buffalo General Hospital, Multi-Laboratory Bldg, 
+ <unitdate>June 5, 1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c225a0f">
+                    <did id="c_5bad04c225abb">
+                        <container type="box" id="c_5bad04c225b69"> 4</container>
+                        <unittitle id="c_5bad04c225c1e">Buffalo General Hospital, South Wing, 
+ <unitdate> Dec. 12, 1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c225ccb">
+                    <did id="c_5bad04c225d77">
+                        <container type="box" id="c_5bad04c225e2b"> 4</container>
+                        <unittitle id="c_5bad04c225ed8">Buffalo Gravel Corporation, 
+ <unitdate>June 25, 1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c225f84">
+                    <did id="c_5bad04c226030">
+                        <container type="box" id="c_5bad04c2260dc"> 4</container>
+                        <unittitle id="c_5bad04c226187">Buffalo Historical Society, 
+ <unitdate>1926</unitdate>, 
+ <unitdate>1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c226232">
+                    <did id="c_5bad04c2262de">
+                        <container type="box" id="c_5bad04c226389"> 5</container>
+                        <unittitle id="c_5bad04c226434">Buffalo Medical Foundation, 
+ <unitdate>May 1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2264e0">
+                    <did id="c_5bad04c22658b">
+                        <container type="box" id="c_5bad04c226636"> 5</container>
+                        <unittitle id="c_5bad04c2266e5">Buffalo Medical Foundation, Medical Office Building, 
+ <unitdate>Aug. 9, 1968</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c226791">
+                    <did id="c_5bad04c22683c">
+                        <container type="box" id="c_5bad04c2268e7"> 6</container>
+                        <unittitle id="c_5bad04c226992">Buffalo Savings Bank (Main and Genesee Streets) 
+ <unitdate>1965</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c226a3e">
+                    <did id="c_5bad04c226ae9">
+                        <container type="box" id="c_5bad04c226b9b"> 7</container>
+                        <unittitle id="c_5bad04c226c47">Buffalo Savings Bank (Amherst office), 
+ <unitdate>1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c226cf4">
+                    <did id="c_5bad04c226da8">
+                        <container type="box" id="c_5bad04c226e54"> 7</container>
+                        <unittitle id="c_5bad04c226f00">Children's Hospital, 
+ <unitdate>Nov. 17, 1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c226fab">
+                    <did id="c_5bad04c227056">
+                        <container type="box" id="c_5bad04c227105"> 7</container>
+                        <unittitle id="c_5bad04c2271bd">Church of the Good Shepherd, 
+ <unitdate>May 6, 1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c227269">
+                    <did id="c_5bad04c227314">
+                        <container type="box" id="c_5bad04c2273bf"> 7</container>
+                        <unittitle id="c_5bad04c22746a">Columbus-McKinnon Corporation, 
+ <unitdate>Sept. 24, 1964 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c227516">
+                    <did id="c_5bad04c2275c1">
+                        <container type="box" id="c_5bad04c22766d"> 7</container>
+                        <unittitle id="c_5bad04c227718">Deaconess Hospital, 
+ <unitdate>Nov. 26, 1958</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2277c4">
+                    <did id="c_5bad04c227870">
+                        <container type="box" id="c_5bad04c22791b"> 8</container>
+                        <unittitle id="c_5bad04c2279c6">Deaconess Hospital (continued), 
+ <unitdate>1960</unitdate>, 
+ <unitdate>1963</unitdate>, 
+ <unitdate>1966</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c227a72">
+                    <did id="c_5bad04c227b24">
+                        <container type="box" id="c_5bad04c227bcf"> 8</container>
+                        <unittitle id="c_5bad04c227c7b">Episcopal Church Home, 
+ <unitdate>July 16, 1956</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c227d27">
+                    <did id="c_5bad04c227dd3">
+                        <container type="box" id="c_5bad04c227e7c"> 8</container>
+                        <unittitle id="c_5bad04c227f24">Erie County Hall, 
+ <unitdate>Jan. 1, 1937</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c227fcc">
+                    <did id="c_5bad04c228074">
+                        <container type="box" id="c_5bad04c22811c"> 8</container>
+                        <unittitle id="c_5bad04c2281c4">Erie County Jail, 
+ <unitdate>Jan. 1, 1937</unitdate>; 
+ <unitdate>Oct. 25, 1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22826c">
+                    <did id="c_5bad04c228313">
+                        <container type="box" id="c_5bad04c2283bb"> 9</container>
+                        <unittitle id="c_5bad04c228462">Erie County Jail (continued), 
+ <unitdate>1967-1968</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22850d">
+                    <did id="c_5bad04c2285b5">
+                        <container type="box" id="c_5bad04c22865d"> 9</container>
+                        <unittitle id="c_5bad04c228704">Erie County Savings Bank, 
+ <unitdate>1965</unitdate>, 
+ <unitdate>1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2287ab">
+                    <did id="c_5bad04c228853">
+                        <container type="box" id="c_5bad04c2288fb"> 9</container>
+                        <unittitle id="c_5bad04c2289a2"> Falconwood Club, Boat House, 
+ <unitdate>May 5, 1893</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c228a4a">
+                    <did id="c_5bad04c228af2">
+                        <container type="box" id="c_5bad04c228b99"> 10</container>
+                        <unittitle id="c_5bad04c228c41">Family Service Society, 
+ <unitdate>1951</unitdate>, 
+ <unitdate>1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c228cea">
+                    <did id="c_5bad04c228d97">
+                        <container type="box" id="c_5bad04c228e44"> 10</container>
+                        <unittitle id="c_5bad04c228ef2">Federal Reserve Bank of New York, 
+ <unitdate>1955-1956</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c228f9e">
+                    <did id="c_5bad04c229049">
+                        <container type="box" id="c_5bad04c2290f5"> 10</container>
+                        <unittitle id="c_5bad04c2291a0">Flat Building for Henry Schaefer's Sons, 
+ <unitdate>1898</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22924b">
+                    <did id="c_5bad04c2292f6">
+                        <container type="box" id="c_5bad04c2293a1"> 10</container>
+                        <unittitle id="c_5bad04c22944c">Foster-Milburn Company, 
+ <unitdate>Apr. 19, 1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2294f7">
+                    <did id="c_5bad04c2295a3">
+                        <container type="box" id="c_5bad04c22965d"> 10</container>
+                        <unittitle id="c_5bad04c229709">Frontier Linen Supply, 
+ <unitdate>Aug. 12, 1966</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2297b4">
+                    <did id="c_5bad04c229860">
+                        <container type="box" id="c_5bad04c22990e"> 11</container>
+                        <unittitle id="c_5bad04c2299b9">Garret Club, 
+ <unitdate>Mar. 30, 1966</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c229a70">
+                    <did id="c_5bad04c229b1c">
+                        <container type="box" id="c_5bad04c229bc7"> 11</container>
+                        <unittitle id="c_5bad04c229c72">William Hengerer Company, 
+ <unitdate>May 7, 1956</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c229d1f">
+                    <did id="c_5bad04c229dd2">
+                        <container type="box" id="c_5bad04c229e7a"> 11</container>
+                        <unittitle id="c_5bad04c229f22">Kissing Bridge Ski Corporation, 
+ <unitdate>Aug. 8, 1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c229fce">
+                    <did id="c_5bad04c22a07b">
+                        <container type="box" id="c_5bad04c22a123"> 11</container>
+                        <unittitle id="c_5bad04c22a1d6">Legislative Building (Albany South Mall), 
+ <unitdate>June 29, 1966</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22a284">
+                    <did id="c_5bad04c22a333">
+                        <container type="box" id="c_5bad04c22a3da"> 12</container>
+                        <unittitle id="c_5bad04c22a482">Liberty National Bank, 
+ <unitdate>Feb. 20, 1964</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22a52a">
+                    <did id="c_5bad04c22a5d2">
+                        <container type="box" id="c_5bad04c22a679"> 12</container>
+                        <unittitle id="c_5bad04c22a71f">Lincoln Wholesale Building, 
+ <unitdate>1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22a7c7">
+                    <did id="c_5bad04c22a881">
+                        <container type="box" id="c_5bad04c22a933"> 12</container>
+                        <unittitle id="c_5bad04c22a9dd">Lockport Memorial Hospital, 
+ <unitdate>Dec. 13, 1960</unitdate>; 
+ <unitdate>1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22aa87">
+                    <did id="c_5bad04c22ab2f">
+                        <container type="box" id="c_5bad04c22abd8"> 12</container>
+                        <unittitle id="c_5bad04c22ac80">Manufacturer's and Trader's Trust Co., 
+ <unitdate>Mar. 26, 1965</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22ad29">
+                    <did id="c_5bad04c22add7">
+                        <container type="box" id="c_5bad04c22ae85"> 13</container>
+                        <unittitle id="c_5bad04c22af31">Marine Trust Co., 
+ <unitdate> 1956-1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22afdd">
+                    <did id="c_5bad04c22b089">
+                        <container type="box" id="c_5bad04c22b134"> 13</container>
+                        <unittitle id="c_5bad04c22b1df">Merchants Mutual Insurance Co., 
+ <unitdate>1964</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22b28a">
+                    <did id="c_5bad04c22b335">
+                        <container type="box" id="c_5bad04c22b3e0"> 14</container>
+                        <unittitle id="c_5bad04c22b48b">E.J. Meyer Memorial Hospital, 
+ <unitdate>1961-1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22b537">
+                    <did id="c_5bad04c22b5e2">
+                        <container type="box" id="c_5bad04c22b68e"> 14</container>
+                        <unittitle id="c_5bad04c22b73c">Municipal Building, 
+ <unitdate>1936</unitdate>; 
+ <unitdate>1938</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22b7f0">
+                    <did id="c_5bad04c22b89b">
+                        <container type="box" id="c_5bad04c22b946"> 15</container>
+                        <unittitle id="c_5bad04c22b9f1">Municipal Auditorium (continued), 
+ <unitdate>1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22ba9d">
+                    <did id="c_5bad04c22bb48">
+                        <container type="box" id="c_5bad04c22bbf1"> 15</container>
+                        <unittitle id="c_5bad04c22bcba">Niagara Frontier Rehabilitation Center, 
+ <unitdate>1964</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22bd6c">
+                    <did id="c_5bad04c22be04">
+                        <container type="box" id="c_5bad04c22beb3"> 16</container>
+                        <unittitle id="c_5bad04c22bf5e">Niagara Mohawk, 
+ <unitdate>1961</unitdate>; 
+ <unitdate>1966-1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22c00b">
+                    <did id="c_5bad04c22c0b6">
+                        <container type="box" id="c_5bad04c22c16d"> 16</container>
+                        <unittitle id="c_5bad04c22c21a">Parking garages, 
+ <unitdate>1953-1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22c2c6">
+                    <did id="c_5bad04c22c372">
+                        <container type="box" id="c_5bad04c22c41e"> 17</container>
+                        <unittitle id="c_5bad04c22c4c2">St. Joseph Intercommunity Hospital, 
+ <unitdate>1958</unitdate>; 
+ <unitdate>1965</unitdate>; 
+ <unitdate>1968-1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22c576">
+                    <did id="c_5bad04c22c624">
+                        <container type="box" id="c_5bad04c22c6d0"> 18</container>
+                        <unittitle id="c_5bad04c22c77c">St. Mark's Church, 
+ <unitdate>1940-1941</unitdate>: 
+ <unitdate>1953</unitdate>; 
+ <unitdate>1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22c828">
+                    <did id="c_5bad04c22c8d3">
+                        <container type="box" id="c_5bad04c22c97f"> 18</container>
+                        <unittitle id="c_5bad04c22ca2a">St. Stephen Serbian Orthodox Church,, 
+ <unitdate>June 2, 1958</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22cad6">
+                    <did id="c_5bad04c22cb88">
+                        <container type="box" id="c_5bad04c22cc35"> 18</container>
+                        <unittitle id="c_5bad04c22cce0">Terminal Building, 
+ <unitdate> Aug. 7, 1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22cd8c">
+                    <did id="c_5bad04c22ce37">
+                        <container type="box" id="c_5bad04c22cee2"> 18</container>
+                        <unittitle id="c_5bad04c22cf8d">Trinity Episcopal Church, 
+ <unitdate>Apr. 23, 1958</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22d038">
+                    <did id="c_5bad04c22d0e4">
+                        <container type="box" id="c_5bad04c22d18f"> 18</container>
+                        <unittitle id="c_5bad04c22d23a">United States Post Office, 
+ <unitdate>June-Sept. 1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22d2e5">
+                    <did id="c_5bad04c22d390">
+                        <container type="box" id="c_5bad04c22d43b"> 19</container>
+                        <unittitle id="c_5bad04c22d4e6">University of Buffalo (Dormitory Authority), 
+ <unitdate>Jan. 1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22d594">
+                    <did id="c_5bad04c22d640">
+                        <container type="box" id="c_5bad04c22d6eb"> 19</container>
+                        <unittitle id="c_5bad04c22d796">University of Buffalo, Residence Hall no. 6, 
+ <unitdate>1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22d841">
+                    <did id="c_5bad04c22d8ed">
+                        <container type="box" id="c_5bad04c22d998"> 19</container>
+                        <unittitle id="c_5bad04c22da43">University of Buffalo, Dormitory no. 7, 
+ <unitdate>1962-1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22daef">
+                    <did id="c_5bad04c22db9b">
+                        <container type="box" id="c_5bad04c22dc50"> 19A</container>
+                        <unittitle id="c_5bad04c22dcfc">Albright Art Gallery, 
+ <unitdate>June 3, 1957</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22dda9">
+                    <did id="c_5bad04c22de55">
+                        <container type="box" id="c_5bad04c22df00"> 19A</container>
+                        <unittitle id="c_5bad04c22dfb2">Clifton Park Memorial, 
+ <unitdate> March 11, 1921</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22e05d">
+                    <did id="c_5bad04c22e108">
+                        <container type="box" id="c_5bad04c22e1b4"> 19A</container>
+                        <unittitle id="c_5bad04c22e261">Crippled Children's Home, 
+ <unitdate>Jan.-June 1938</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22e30c">
+                    <did id="c_5bad04c22e3b7">
+                        <container type="box" id="c_5bad04c22e462"> 19A</container>
+                        <unittitle id="c_5bad04c22e50d">Erie County Stadium, 
+ <unitdate>1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04c22e5ba">
+                <did id="c_5bad04c22e665">
+                    <unitid id="series3">III.</unitid>
+                    <unittitle id="c_5bad04c22e7c1">Job Files, circa 
+ <unitdate certainty="approximate" normal="1931/1971" type="inclusive" id="c_5bad04c22e86d">1931-1971</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04c22e919">
+                    <did id="c_5bad04c22e9c4">
+                        <container type="box" id="c_5bad04c22ea73"> 20</container>
+                        <unittitle id="c_5bad04c22eb1e">Albright, Charlotte residence, 
+ <unitdate>1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22ebdb">
+                    <did id="c_5bad04c22ec88">
+                        <container type="box" id="c_5bad04c22ed34"> 20</container>
+                        <unittitle id="c_5bad04c22eddf">Architect's Redevelopment Cooperative, 
+ <unitdate> 1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22ee8a">
+                    <did id="c_5bad04c22ef36">
+                        <container type="box" id="c_5bad04c22efe1"> 20</container>
+                        <unittitle id="c_5bad04c22f095">American Radiator and Standard Sanitary Corporation, 
+ <unitdate>1961-1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22f140">
+                    <did id="c_5bad04c22f1eb">
+                        <container type="box" id="c_5bad04c22f296"> 21</container>
+                        <unittitle id="c_5bad04c22f341">American-Standard (continued)</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22f3ec">
+                    <did id="c_5bad04c22f49a">
+                        <container type="box" id="c_5bad04c22f545"> 22</container>
+                        <unittitle id="c_5bad04c22f5f0">Bank of Buffalo, 
+ <unitdate>1960-1966</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22f69b">
+                    <did id="c_5bad04c22f746">
+                        <container type="box" id="c_5bad04c22f7f0"> 23</container>
+                        <unittitle id="c_5bad04c22f89b">Boy's Club of Buffalo, 
+ <unitdate>1965</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22f947">
+                    <did id="c_5bad04c22f9f3">
+                        <container type="box" id="c_5bad04c22fa9f"> 23</container>
+                        <unittitle id="c_5bad04c22fb4c">Broadway Market 
+ <unitdate>1958-1965</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22fbf7">
+                    <did id="c_5bad04c22fca2">
+                        <container type="box" id="c_5bad04c22fd4d"> 24</container>
+                        <unittitle id="c_5bad04c22fdf8">Brooks Memorial Hospital (Dunkirk, N.Y.), 
+ <unitdate> 1961-1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c22fea4">
+                    <did id="c_5bad04c22ff51">
+                        <container type="box" id="c_5bad04c22fffc"> 24A</container>
+                        <unittitle id="c_5bad04c2300a6">Brooks Memorial Hospital (continued)</unittitle>
+                        <unitdate id="c_5bad04c23016c">1961-1969</unitdate>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c230221">
+                    <did id="c_5bad04c2302cf">
+                        <container type="box" id="c_5bad04c230386"> 24A</container>
+                        <unittitle id="c_5bad04c230431">Buffalo Club, 
+ <unitdate>circa 1958</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2304dd">
+                    <did id="c_5bad04c230589">
+                        <container type="box" id="c_5bad04c230635"> 24A-30A</container>
+                        <unittitle id="c_5bad04c2306e0">Buffalo General Hospital, 
+ <unitdate>circa 1958-1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c23078b">
+                    <did id="c_5bad04c230835">
+                        <container type="box" id="c_5bad04c2308e1"> 31A</container>
+                        <unittitle id="c_5bad04c230992">Buffalo Gravel Corporation, 
+ <unitdate> circa 1964</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c230a3e">
+                    <did id="c_5bad04c230aed">
+                        <container type="box" id="c_5bad04c230b99"> 31</container>
+                        <unittitle id="c_5bad04c230c44">Buffalo Historical Society, 
+ <unitdate>circa 1966</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c230cef">
+                    <did id="c_5bad04c230d9b">
+                        <container type="box" id="c_5bad04c230e46"> 31</container>
+                        <unittitle id="c_5bad04c230ef1">Buffalo Medical Group Building, 
+ <unitdate>circa 1968-1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c230f9c">
+                    <did id="c_5bad04c231048">
+                        <container type="box" id="c_5bad04c2310f3"> 31A</container>
+                        <unittitle id="c_5bad04c23119d">Buffalo Medical Group (continued)</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c231249">
+                    <did id="c_5bad04c2312f4">
+                        <container type="box" id="c_5bad04c2313a3"> 32</container>
+                        <unittitle id="c_5bad04c23144f">Buffalo Medical Group (continued)</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2314fb">
+                    <did id="c_5bad04c2315a7">
+                        <container type="box" id="c_5bad04c231666"> 33-39</container>
+                        <unittitle id="c_5bad04c231733">Buffalo Savings Bank</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2317fa">
+                    <did id="c_5bad04c2318aa">
+                        <container type="box" id="c_5bad04c231967"> 39A-45</container>
+                        <unittitle id="c_5bad04c231a12">Children's Hospital, 
+ <unitdate>circa 1954-1968</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c231ad2">
+                    <did id="c_5bad04c231b7e">
+                        <container type="box" id="c_5bad04c231c35"> 46</container>
+                        <unittitle id="c_5bad04c231ce0">Civil Defense</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c231d8b">
+                    <did id="c_5bad04c231e3a">
+                        <container type="box" id="c_5bad04c231ee5"> 47-50</container>
+                        <unittitle id="c_5bad04c231f95">Columbus Hospital, 
+ <unitdate>circa 1963-1968</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c232041">
+                    <did id="c_5bad04c2320ec">
+                        <container type="box" id="c_5bad04c232197"> 51</container>
+                        <unittitle id="c_5bad04c232243">Dayton Museum, 
+ <unitdate>circa 1931</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2322ef">
+                    <did id="c_5bad04c23238d">
+                        <container type="box" id="c_5bad04c232441"> 51-60</container>
+                        <unittitle id="c_5bad04c2324f0">Deaconess Hospital, 
+ <unitdate>circa 1957-1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c23259d">
+                    <did id="c_5bad04c232649">
+                        <container type="box" id="c_5bad04c2326f5"> 60</container>
+                        <unittitle id="c_5bad04c2327a0">Degraff Memorial Hospital, 
+ <unitdate>circa 1951 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c232854">
+                    <did id="c_5bad04c232915">
+                        <container type="box" id="c_5bad04c2329dc"> 60</container>
+                        <unittitle id="c_5bad04c232a9c">Delaware Court Building Doctor's Hospital, 
+ <unitdate>circa 1968</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c232b48">
+                    <did id="c_5bad04c232bfc">
+                        <container type="box" id="c_5bad04c232cce"> 61</container>
+                        <unittitle id="c_5bad04c232d9e"> Episcopal Church Home, 
+ <unitdate>circa 1965</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c232e4c">
+                    <did id="c_5bad04c232ef8">
+                        <container type="box" id="c_5bad04c232fa5"> 61-62</container>
+                        <unittitle id="c_5bad04c233052">Erie County Savings Bank, 
+ <unitdate>circa 1966-1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c233112">
+                    <did id="c_5bad04c2331d7">
+                        <container type="box" id="c_5bad04c23329a"> 62-65</container>
+                        <unittitle id="c_5bad04c23335d">Erie County Jail, 
+ <unitdate> circa 1955-1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c233413">
+                    <did id="c_5bad04c2334c1">
+                        <container type="box" id="c_5bad04c233580"> 66</container>
+                        <unittitle id="c_5bad04c23362b">Family Service Society Building, 
+ <unitdate>circa 1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2336d8">
+                    <did id="c_5bad04c2337a6">
+                        <container type="box" id="c_5bad04c233852"> 66</container>
+                        <unittitle id="c_5bad04c2338fe">First Federal Savings and Loan Association, 
+ <unitdate>circa 1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2339ac">
+                    <did id="c_5bad04c233a57">
+                        <container type="box" id="c_5bad04c233b12"> 66-75</container>
+                        <unittitle id="c_5bad04c233bc3">Federal Reserve Bank, 
+ <unitdate>circa 1953-1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c233c72">
+                    <did id="c_5bad04c233d1d">
+                        <container type="box" id="c_5bad04c233dcd"> 76</container>
+                        <unittitle id="c_5bad04c233e78">First Methodist Church (Bradford, PA), 
+ <unitdate>circa 1924-1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c233f26">
+                    <did id="c_5bad04c233fd2">
+                        <container type="box" id="c_5bad04c23407e"> 77-79</container>
+                        <unittitle id="c_5bad04c23412a">The William Hengerer Company, 
+ <unitdate>circa 1955-1957</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2341d5">
+                    <did id="c_5bad04c234281">
+                        <container type="box" id="c_5bad04c23432c"> 80</container>
+                        <unittitle id="c_5bad04c2343dd">Hospitals and Asylums</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c23448a">
+                    <did id="c_5bad04c234536">
+                        <container type="box" id="c_5bad04c2345e2"> 80</container>
+                        <unittitle id="c_5bad04c234695">Iroquois Division (International Breweries, Inc.), 
+ <unitdate>circa 1956</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c234741">
+                    <did id="c_5bad04c2347f0">
+                        <container type="box" id="c_5bad04c23489c"> 80</container>
+                        <unittitle id="c_5bad04c234964">Junior High School # 91, 
+ <unitdate>circa 1956-1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c234a0f">
+                    <did id="c_5bad04c234ace">
+                        <container type="box" id="c_5bad04c234b91"> 80</container>
+                        <unittitle id="c_5bad04c234c60">Kissing Bridge Ski Corporation, 
+ <unitdate>circa 1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c234d0c">
+                    <did id="c_5bad04c234db6">
+                        <container type="box" id="c_5bad04c234e61"> 81</container>
+                        <unittitle id="c_5bad04c234f0c">Liberty Bank (Orchard Park), 
+ <unitdate>circa 1964</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c234fb6">
+                    <did id="c_5bad04c235062">
+                        <container type="box" id="c_5bad04c235121"> 82-83</container>
+                        <unittitle id="c_5bad04c2351e3">Lockport Hospital 
+ <unitdate>circa 1962-1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2352af">
+                    <did id="c_5bad04c23535f">
+                        <container type="box" id="c_5bad04c23541d"> 84-90</container>
+                        <unittitle id="c_5bad04c2354c8">Marine Trust Company, 
+ <unitdate>circa 1954-1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c235573">
+                    <did id="c_5bad04c23561d">
+                        <container type="box" id="c_5bad04c2356dc"> 91</container>
+                        <unittitle id="c_5bad04c23579f">Mayfair lane (photographs), 
+ <unitdate>1930</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c235850">
+                    <did id="c_5bad04c2358fd">
+                        <container type="box" id="c_5bad04c2359a7"> 91</container>
+                        <unittitle id="c_5bad04c235a65">Medical Office Building (Buffalo Medical Group), 
+ <unitdate>circa 1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c235b29">
+                    <did id="c_5bad04c235bec">
+                        <container type="box" id="c_5bad04c235cb9"> 91</container>
+                        <unittitle id="c_5bad04c235d72">Memorial Tablets</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c235e21">
+                    <did id="c_5bad04c235ecd">
+                        <container type="box" id="c_5bad04c235f79"> 91-95</container>
+                        <unittitle id="c_5bad04c236025">Merchants Mutual, 
+ <unitdate>circa 1963-1965</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2360d2">
+                    <did id="c_5bad04c236183">
+                        <container type="box" id="c_5bad04c236234"> 96</container>
+                        <unittitle id="c_5bad04c2362e0">E.J. Meyer Memorial Hospital, 
+ <unitdate>circa 1957-1964</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c23638c">
+                    <did id="c_5bad04c236437">
+                        <container type="box" id="c_5bad04c2364ea"> 97</container>
+                        <unittitle id="c_5bad04c236596">Niagara Frontier Rehabilitation Center, 
+ <unitdate>circa 1964-1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c236642">
+                    <did id="c_5bad04c2366ee">
+                        <container type="box" id="c_5bad04c23679e"> 97</container>
+                        <unittitle id="c_5bad04c23684a">Niagara Square Office Building, 
+ <unitdate>circa 1967</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2368f7">
+                    <did id="c_5bad04c2369aa">
+                        <container type="box" id="c_5bad04c236a5c"> 97</container>
+                        <unittitle id="c_5bad04c236b09">Orchard Heights Clubhouse, 
+ <unitdate> circa 1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c236bb5">
+                    <did id="c_5bad04c236c61">
+                        <container type="box" id="c_5bad04c236d0e"> 98-104</container>
+                        <unittitle id="c_5bad04c236dbf">Post Office, 
+ <unitdate>circa 1960-1964</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c236e6d">
+                    <did id="c_5bad04c236f19">
+                        <container type="box" id="c_5bad04c236fc7"> 105</container>
+                        <unittitle id="c_5bad04c23707b">St. James Evangelical Lutheran Church, 
+ <unitdate>circa 1956 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c23712a">
+                    <did id="c_5bad04c2371db">
+                        <container type="box" id="c_5bad04c237287"> 105</container>
+                        <unittitle id="c_5bad04c237331">St. Mark's Church, 
+ <unitdate>circa 1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2373dd">
+                    <did id="c_5bad04c237488">
+                        <container type="box" id="c_5bad04c237533"> 105</container>
+                        <unittitle id="c_5bad04c2375de">St. Paul's Lutheran Church </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c23768a">
+                    <did id="c_5bad04c23772e">
+                        <container type="box" id="c_5bad04c2377e0"> 105</container>
+                        <unittitle id="c_5bad04c23788d">Trinity Church Home</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c237939">
+                    <did id="c_5bad04c2379e4">
+                        <container type="box" id="c_5bad04c237a8f"> 106-110</container>
+                        <unittitle id="c_5bad04c237b3d">St. Joseph Intercommunity Hospital, 
+ <unitdate>circa 1965-1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c237bf3">
+                    <did id="c_5bad04c237c9f">
+                        <container type="box" id="c_5bad04c237d4a"> 111</container>
+                        <unittitle id="c_5bad04c237df5">Legislative Office Building (Albany, N.Y.), 
+ <unitdate>circa 1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c237ea1">
+                    <did id="c_5bad04c237f4c">
+                        <container type="box" id="c_5bad04c237ff8"> 112</container>
+                        <unittitle id="c_5bad04c23809d">University of Buffalo: Capen Hall, 
+ <unitdate>circa 1958</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c23814f">
+                    <did id="c_5bad04c2381fc">
+                        <container type="box" id="c_5bad04c2382b3"> 112</container>
+                        <unittitle id="c_5bad04c23835f">University of Buffalo: Clark Gymnasium addition, 
+ <unitdate>circa 1958</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c238414">
+                    <did id="c_5bad04c2384c0">
+                        <container type="box" id="c_5bad04c23856c"> 112</container>
+                        <unittitle id="c_5bad04c23861c">University of Buffalo: Dormitory Authority of NYS
+ </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2386c7">
+                    <did id="c_5bad04c23877c">
+                        <container type="box" id="c_5bad04c238827"> 112</container>
+                        <unittitle id="c_5bad04c2388d2">University of Buffalo: Norton Hall</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c238982">
+                    <did id="c_5bad04c238a32">
+                        <container type="box" id="c_5bad04c238adf"> 113</container>
+                        <unittitle id="c_5bad04c238b8a">University of Buffalo: Physics Building</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c238c36">
+                    <did id="c_5bad04c238ce2">
+                        <container type="box" id="c_5bad04c238d8d"> 113</container>
+                        <unittitle id="c_5bad04c238e3f">University of Buffalo: Engineering Building</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c238eeb">
+                    <did id="c_5bad04c238f96">
+                        <container type="box" id="c_5bad04c239045"> 113</container>
+                        <unittitle id="c_5bad04c2390f1">University of Buffalo: School of Dentistry addition
+ </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c23919d">
+                    <did id="c_5bad04c239248">
+                        <container type="box" id="c_5bad04c2392f3"> 113</container>
+                        <unittitle id="c_5bad04c23939e">University of Buffalo: Warehouse Building</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c239449">
+                    <did id="c_5bad04c2394f5">
+                        <container type="box" id="c_5bad04c2395a0"> 114-115</container>
+                        <unittitle id="c_5bad04c23964b">University of Buffalo: Residence Hall #4</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2396f7">
+                    <did id="c_5bad04c2397a5">
+                        <container type="box" id="c_5bad04c239850"> 116-118</container>
+                        <unittitle id="c_5bad04c2398fa">University of Buffalo: Residence Hall #6</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c2399a6">
+                    <did id="c_5bad04c239a55">
+                        <container type="box" id="c_5bad04c239b00"> 119-122</container>
+                        <unittitle id="c_5bad04c239bbc">University of Buffalo: Residence Hall #7</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c239c7b">
+                    <did id="c_5bad04c239d26">
+                        <container type="box" id="c_5bad04c239dd1"> 123</container>
+                        <unittitle id="c_5bad04c239e88">Veterans' Hospital, 
+ <unitdate>circa 1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c239f34">
+                    <did id="c_5bad04c239fdf">
+                        <container type="box" id="c_5bad04c23a088"> 123</container>
+                        <unittitle id="c_5bad04c23a146">W.C.A. Hospital, 
+ <unitdate>circa 1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c23a20a">
+                    <did id="c_5bad04c23a2ce">
+                        <container type="box" id="c_5bad04c23a37d"> 123</container>
+                        <unittitle id="c_5bad04c23a428">Woman's Christian Association, 
+ <unitdate>circa 1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04c23a4e0">
+                <did id="c_5bad04c23a58c">
+                    <unitid id="series4">IV.</unitid>
+                    <unittitle id="c_5bad04c23a6f6">Miscellaneous </unittitle>
+                </did>
+                <c level="file" id="c_5bad04c23a7a3">
+                    <did id="c_5bad04c23a84f">
+                        <container type="box" id="c_5bad04c23a8f9">124</container>
+                        <unittitle id="c_5bad04c23a9a5">Miscellaneous progress photographs, 
+ <unitdate normal="1909/1970" type="inclusive">1909-1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c23aa51">
+                    <did id="c_5bad04c23ab0f">
+                        <container type="box" id="c_5bad04c23abb9"> 125-125A</container>
+                        <unittitle id="c_5bad04c23ac64"> Concrete Site Reports</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c23ad0f">
+                    <did id="c_5bad04c23adbb">
+                        <container type="box" id="c_5bad04c23ae7a"> 126</container>
+                        <unittitle id="c_5bad04c23af3c">Cost books, 
+ <unitdate>1909-1921</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c23b017">
+                    <did id="c_5bad04c23b0d6">
+                        <container type="box" id="c_5bad04c23b182"> 126</container>
+                        <unittitle id="c_5bad04c23b238"> Contracts, 
+ <unitdate>1957-1969</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04c23b2ec">
+                    <did id="c_5bad04c23b3ae">
+                        <container type="box" id="c_5bad04c23b473"> 126</container>
+                        <unittitle id="c_5bad04c23b53e"> Miscellaneous photographs (JM &amp; H staff,
+ etc.)</unittitle>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+        <controlaccess>
+            <head>Search Terms</head>
+            <note>
+                <p>The following terms have been used to index the description of this
+ collection in the Library's online catalog.</p>
+            </note>
+            <controlaccess>
+                <head>Contributors</head>
+                <corpname encodinganalog="710" rules="aacr2">James &amp;
+ Meadows</corpname>
+                <corpname encodinganalog="710" rules="aacr2">Green &amp;
+ Wicks</corpname>
+                <corpname encodinganalog="710" rules="aacr2">Edward B. Green &amp;
+ Son</corpname>
+                <corpname encodinganalog="710" rules="aacr2">Green &amp;
+ James</corpname>
+                <corpname source="lcnaf" encodinganalog="710">Buffalo History Museum</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Subject Terms</head>
+                <subject source="lcsh" encodinganalog="650">Architecture--New York
+ (State)</subject>
+                <subject source="lcsh" encodinganalog="650">Hospitals--New York
+ (State)--Planning</subject>
+            </controlaccess>
+            <controlaccess>
+                <head>Genre Terms</head>
+                <genreform source="aat" encodinganalog="655">Photographs</genreform>
+                <genreform source="aat" encodinganalog="655">Architectural drawings
+ (visual works)</genreform>
+                <genreform source="aat" encodinganalog="655">Building plans</genreform>
+            </controlaccess>
+        </controlaccess>
+    </archdesc>
+</ead>

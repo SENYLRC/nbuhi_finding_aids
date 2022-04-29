@@ -1,0 +1,674 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" relatedencoding="DC" scriptencoding="iso15924">
+        <eadid countrycode="us" publicid="-//Buffalo History Museum::Research Library//TEXT (US::NBuHi::B79-4::Talbert Family Papers)//EN" mainagencycode="NBuHi" encodinganalog="identifier">nbuhi_tbhm_b79_4</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title"> Finding Aid for the Talbert Family
+ Papers, 
+ <date type="inclusive" normal="1872/1933" encodinganalog="date" calendar="gregorian" era="ce">1872-1933</date>
+                </titleproper>
+                <titleproper altrender="nodisplay" type="filing"> Talbert Family
+ Papers</titleproper>
+                <author encodinganalog="contributor">This finding aid was prepared by
+ Buffalo History Museum staff.</author>
+                <sponsor encodinganalog="contributor">Funding for the initial encoding
+ was provided through the Regional Bibliographic Databases Program administered
+ by the Western New York Library Resources Council.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Buffalo History Museum. Research Library</publisher>
+                <address>
+                    <addressline>1 Museum Court</addressline>
+                    <addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: library@buffalohistory.org</addressline>
+                    <addressline>URI: http://www.buffalohistory.org</addressline>
+                </address>
+                <p>&#xA9; 
+ <date encodinganalog="date" type="publication">2010</date>. Buffalo History Museum. All rights reserved.</p>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid encoded in EAD by Kuniko Simon, March
+ 2008.</creation>
+            <langusage altrender="nodisplay">Finding aid written in
+ <language langcode="eng" encodinganalog="language">English</language>.
+ </langusage>
+            <descrules>Finding aid prepared using local best practices. </descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+        <did>
+            <head>Collection Overview</head>
+            <unittitle encodinganalog="245$a" label="Title">Talbert Family Papers</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" normal="1872/1938" datechar="creation">1872 - 1938</unitdate>
+            <unitid encodinganalog="099" label="Collection Number" repositorycode="NBuHi" countrycode="US">Mss. B79-4</unitid>
+            <origination label="Creator">
+                <persname encodinganalog="100" role="creator" rules="aacr2">Talbert
+ family</persname>
+            </origination>
+            <physdesc label="Extent">
+                <extent unit="box" encodinganalog="300">2
+ boxes</extent>
+                <extent unit="linear foot" encodinganalog="300">(1 linear
+ foot)</extent>
+            </physdesc>
+            <langmaterial label="Language of Material" encodinganalog="546">Collection material in
+ <language encodinganalog="041" langcode="eng">English</language>.
+ </langmaterial>
+            
+            <abstract encodinganalog="520" label="Abstract">The records of personal
+ papers of Anna Maria Talbert and family between 1881 and 1938, and legal
+ documents of the inheritance issues between 1872 and 1927.</abstract>
+        <repository>
+								<corpname>The Buffalo History Museum</corpname>
+							<address>
+								<addressline>1 Museum Court</addressline>
+							<addressline>Buffalo, NY 14216 </addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: library@buffalohistory.org</addressline>
+                    <addressline>URI: http://www.buffalohistory.org</addressline>
+                </address>
+            </repository>
+        </did>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <prefercite encodinganalog="524">
+                <head>Preferred Citation</head>
+                <p>[Description and dates], Box/folder number, Mss. B79-4, Talbert
+ Family Papers, 1872-1933, Research Library, Buffalo History Museum.</p>
+            </prefercite>
+            <accessrestrict encodinganalog="506">
+                <head>Terms of Access</head>
+                <p>Talbert Family Papers, 1872-1933 are open for research.</p>
+            </accessrestrict>
+            <userestrict encodinganalog="540">
+                <head>Copyright</head>
+                <p>Copyright of papers in the collection may be held by their authors,
+ or the authors' heirs or assigns. Researchers must obtain the written
+ permission of the holder(s) of copyright and the Buffalo History Museum before publishing quotations from materials in the
+ collection.</p>
+            </userestrict>
+        </descgrp>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <acqinfo encodinganalog="541">
+                <head>Acquisition Information</head>
+                <p>Please see Research Library staff for information.</p>
+            </acqinfo>
+            <accruals encodinganalog="584">
+                <head>Accruals and Additions</head>
+                <p>No further accruals are expected to this collection.</p>
+            </accruals>
+            <processinfo encodinganalog="583">
+                <head>Processing Information</head>
+                <p>Collection processed by Buffalo History Museum
+ staff, 1980; reprocessed and retroconverted by Peter Nelson, 3 March 1992.</p>
+            </processinfo>
+        </descgrp>
+        <bioghist encodinganalog="545">
+            <head>Biographical Note</head>
+            <p> Mary B. Talbert (1866-1923) was an early African American leader,
+ graduate of Oberlin College and the University of Buffalo, co-founder of the
+ Niagara Movement of Colored People (later to become the N.A.A.C.P.) and
+ president of the Federated Negro Women's Clubs of the United States. </p>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content Note</head>
+            <p>Correspondence, 1923-1933, of Sarah May Talbert Keelan, concerning her
+ musical compositions and family matters; letters, 1893-1898, to William H.
+ Talbert, her father, concerning Grand Island property; letters, 1918, to Mrs.
+ [Mary?] Talbert from Frederick and Archibald Grimk&#xE9;, concerning the Frederick
+ Douglass home; ms. and printed musical scores by Sarah Talbert Keelan; and
+ legal papers concerning the estates of Robert Talbert and Anna Maria Talbert.
+ </p>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>This collection is arranged in six series: 
+ <list>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series1">I. "In the Matter of the Probate of the Will of Anna Maria
+ Talbert" -- Transcripts of Testimony</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series2">II. "In the Matter of the Judicial Settlement of the Accounts
+ of Anna Maria Talbert, as Administratrix, etc., of Robert Talbert, Deceased" --
+ Proceedings in Surrogate's Court, Erie County</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series3">III. Miscellaneous Legal Documents</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series4">IV. Family Correspondence</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series5">V. Miscellaneous Family Materials</ref>
+                    </item>
+                </list>
+            </p>
+        </arrangement>
+        <dsc type="combined">
+            <head>Container </head>
+            <c level="series" id="c_5bad04954a9ce">
+                <did id="c_5bad04954aa80">
+                    <unitid id="series1">I.</unitid>
+                    <unittitle id="c_5bad04954abeb">In the Matter of the Probate of the Will of Anna Maria
+ Talbert -- Transcripts of Testimony, 
+ <unitdate normal="1896/1897" type="bulk" id="c_5bad04954ac92">(1896-1897)</unitdate>
+                    </unittitle>
+                </did>
+                <arrangement id="c_5bad04954ad4a">
+                    <p id="c_5bad04954ae08">Arranged by chronologically, then alphabetically by person's
+ name</p>
+                </arrangement>
+                <c level="file" id="c_5bad04954aec6">
+                    <did id="c_5bad04954af71">
+                        <container type="box-folder" id="c_5bad04954b018">1.1</container>
+                        <unittitle id="c_5bad04954b0cd">Index to witnesses </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954b177">
+                    <did id="c_5bad04954b243">
+                        <container type="box-folder" id="c_5bad04954b2e9">1.2</container>
+                        <unittitle id="c_5bad04954b39f">James Gill, 
+ <unitdate>December 3, 1896 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954b45a">
+                    <did id="c_5bad04954b515">
+                        <container type="box-folder" id="c_5bad04954b5c0">1.3</container>
+                        <unittitle id="c_5bad04954b672">Mary Talbert, 
+ <unitdate>December 4, 1896 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954b71a">
+                    <did id="c_5bad04954b7d0">
+                        <container type="box-folder" id="c_5bad04954b88a">1.4</container>
+                        <unittitle id="c_5bad04954b944">Joseph E. Knauber, 
+ <unitdate> December 4, 1896</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954b9f0">
+                    <did id="c_5bad04954baa7">
+                        <container type="box-folder" id="c_5bad04954bb4c">1.5</container>
+                        <unittitle id="c_5bad04954bbf3">Mary Talbert, 
+ <unitdate>December 9-10, 1896 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954bc9b">
+                    <did id="c_5bad04954bd42">
+                        <container type="box-folder" id="c_5bad04954bdea">1.6</container>
+                        <unittitle id="c_5bad04954be91">William H.H. Talbert, 
+ <unitdate>December 10, 1896 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954bf39">
+                    <did id="c_5bad04954bfe0">
+                        <container type="box-folder" id="c_5bad04954c08f">1.7</container>
+                        <unittitle id="c_5bad04954c138">Medford A. Farrington, 
+ <unitdate>December 15, 1896</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954c208">
+                    <did id="c_5bad04954c2af">
+                        <container type="box-folder" id="c_5bad04954c359">1.8</container>
+                        <unittitle id="c_5bad04954c406">Charles M. Pierce et al., 
+ <unitdate>December 15, 1896 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954c4ae">
+                    <did id="c_5bad04954c556">
+                        <container type="box-folder" id="c_5bad04954c610">1.9</container>
+                        <unittitle id="c_5bad04954c6ba">Dr. Joseph T. Cook, 
+ <unitdate>December 24, 1896</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954c760">
+                    <did id="c_5bad04954c81f">
+                        <container type="box-folder" id="c_5bad04954c8d2">1.10</container>
+                        <unittitle id="c_5bad04954c978">Dr. Joseph T. Cook, 
+ <unitdate>February 23, 1897</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954ca1e">
+                    <did id="c_5bad04954cac5">
+                        <container type="box-folder" id="c_5bad04954cb6c">1.11</container>
+                        <unittitle id="c_5bad04954cc3c">William H. H. Talbert, Mary Talbert, Ada Jordan, 
+ <unitdate>April 12, 1897</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954cce3">
+                    <did id="c_5bad04954cd89">
+                        <container type="box-folder" id="c_5bad04954ce30">1.12</container>
+                        <unittitle id="c_5bad04954ced7">Jesse E. Nash, 
+ <unitdate>December 3, 1897 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954cfb1">
+                    <did id="c_5bad04954d078">
+                        <container type="box-folder" id="c_5bad04954d14c">1.13</container>
+                        <unittitle id="c_5bad04954d202">John U. Wayland, 
+ <unitdate>December 23, 1897 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954d2c1">
+                    <did id="c_5bad04954d383">
+                        <container type="box-folder" id="c_5bad04954d446">1.14</container>
+                        <unittitle id="c_5bad04954d4ff">Mame Aikerns, Mary Dawson, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954d5a9">
+                    <did id="c_5bad04954d653">
+                        <container type="box-folder" id="c_5bad04954d70a">1.15</container>
+                        <unittitle id="c_5bad04954d7b5">Henry Evans, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954d872">
+                    <did id="c_5bad04954d935">
+                        <container type="box-folder" id="c_5bad04954d9e0">1.16</container>
+                        <unittitle id="c_5bad04954da8b">Index to witnesses </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954db35">
+                    <did id="c_5bad04954dbf7">
+                        <container type="box-folder" id="c_5bad04954dcba">1.17</container>
+                        <unittitle id="c_5bad04954dd82">Della Ford, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954de2d">
+                    <did id="c_5bad04954ded6">
+                        <container type="box-folder" id="c_5bad04954df8f">2.1</container>
+                        <unittitle id="c_5bad04954e039"> Agnes Johnson, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954e0e3">
+                    <did id="c_5bad04954e1a3">
+                        <container type="box-folder" id="c_5bad04954e24c">2.2</container>
+                        <unittitle id="c_5bad04954e309">Flora M. Lindsay, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954e3cc">
+                    <did id="c_5bad04954e48e">
+                        <container type="box-folder" id="c_5bad04954e53c">2.3</container>
+                        <unittitle id="c_5bad04954e5e5">Mary Talbert, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954e691">
+                    <did id="c_5bad04954e73b">
+                        <container type="box-folder" id="c_5bad04954e7e5">2.4</container>
+                        <unittitle id="c_5bad04954e88f"> Mary Thompson, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04954e93a">
+                    <did id="c_5bad04954e9e4">
+                        <container type="box-folder" id="c_5bad04954ea92">2.5</container>
+                        <unittitle id="c_5bad04954eb40">Godfrey Wende, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04954ebf7">
+                <did id="c_5bad04954eca1">
+                    <unitid id="series2">II.</unitid>
+                    <unittitle id="c_5bad04954ee0d">"In the Matter of the Judicial Settlement of the Accounts
+ of Anna Maria Talbert, as Administratrix, etc., of Robert Talbert, Deceased" 
+ <unitdate normal="1894-04-17/1894-07-10" type="bulk" id="c_5bad04954eed1">April 17 -
+ July 10, 1894</unitdate>
+                    </unittitle>
+                </did>
+                <arrangement id="c_5bad04954ef92">
+                    <p id="c_5bad04954f048"> Arranged chronologically.</p>
+                </arrangement>
+                <c level="file" id="c_5bad04954f0f6">
+                    <did id="c_5bad04954f1b8">
+                        <container type="box-folder" id="c_5bad04954f27b">2.6</container>
+                        <unittitle id="c_5bad04954f33d">Proceedings in Surrogate's Court, Erie
+ County</unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04954f3ed">
+                <did id="c_5bad04954f498">
+                    <unitid id="series3">III.</unitid>
+                    <unittitle id="c_5bad04954f602">Miscellaneous Legal Documents, 
+ <unitdate normal="1872/1927" type="inclusive" id="c_5bad04954f6ab">1872-1927</unitdate>
+                    </unittitle>
+                </did>
+                <arrangement id="c_5bad04954f756">
+                    <p id="c_5bad04954f80b">Arranged chronologically.</p>
+                </arrangement>
+                <c level="file" id="c_5bad04954f8b8">
+                    <did id="c_5bad04954f961">
+                        <container type="box-folder" id="c_5bad04954fa0c">2.7</container>
+                        <unittitle id="c_5bad04954fab6">Contents</unittitle>
+                    </did>
+                    <scopecontent id="c_5bad04954fb60">
+                        <list id="c_5bad04954fc1e">
+                            <item>Mortgage: Peyton Harris to William G. Fargo, filed, 
+ <unitdate>March 13, 1872</unitdate>
+                            </item>
+                            <item>Bond: Anna M. Talbert, Robert Talbert and Martha C.
+ Phillips to Erie County Savings Bank, 
+ <unitdate>November 11, 1882</unitdate>
+                            </item>
+                            <item>Certificate of Title: Anna M. Talbert to Erie County
+ Savings Bank, 
+ <unitdate> November 11, 1882</unitdate>
+                            </item>
+                            <item>Discharge of Mortgage: Erie County Savings Bank to Anna M.
+ Talbert, Robert Talbert et al., filed, 
+ <unitdate>March 6, 1888</unitdate>
+                            </item>
+                            <item>Power of Attorney: Anna M. Talbert, Ada Jordan, Robert P.
+ Talbert and Walter Talbert, to William H. Talbert, 
+ <unitdate> February 25, 1893 </unitdate>
+                            </item>
+                            <item>Agreement (copy): William H. H. Talbert and Emeline Coy, 
+ <unitdate>June 14, 1897 </unitdate>
+                            </item>
+                            <item>Summons and Complaint (2 copies): Walter T. Talbert, Ada E.
+ T. Jordan, and Robert P. Talbert vs. William H. Talbert, individually and as
+ Executor of the Last Will and Testament of Anna M. Talbert, Deceased, Mary B.
+ Talbert, Ruth Elizabeth Jordan, Anna Jane Jordan, Edith Marion Jordan, Sarah
+ May Talbert, Emeline Coy, and Henry C. Felthousen, 
+ <unitdate>March 4, 1899</unitdate>
+                            </item>
+                            <item>Citation for Judicial Settlement: William H. H. Talbert as
+ Executor of the Will of Anna M. Talbert, 
+ <unitdate>January 29, 1912</unitdate>
+                            </item>
+                            <item>Citation (copy): In the Matter of the Estate of Anna M.
+ Talbert, Deceased, 
+ <unitdate>January 29, 1912</unitdate>
+                            </item>
+                            <item>Copy of Answer: In the Matter of the Estate of Anna M.
+ Talbert, Deceased, 
+ <unitdate>February 6, 1912</unitdate>
+                            </item>
+                            <item>Last Will and Testament: Sarah Talbert Keelan, 
+ <unitdate>June 9, 1920</unitdate>
+                            </item>
+                            <item>Deed: William T. Corner and Emma Corner, his wife, Clara
+ Isabelle Bethune, and Kate Corner to William H. H. Talbert and Mary Talbert,
+ his wife, 
+ <unitdate>May 4, 1923</unitdate>
+                            </item>
+                            <item>Sale Contract: William T. Corner and Clara Isabelle Bethune
+ no Mary B. Talbert, Purchaser, 
+ <unitdate>May 4, 1923</unitdate>
+                            </item>
+                            <item>Deed: Kate Corner no William H. H. Talbert and Mary B.
+ Talbert, his wife, 
+ <unitdate>May 29, 1923</unitdate>
+                            </item>
+                            <item>Affidavit - Surrogate's Court: In the Matter of the Real
+ Estate at and Known as 515 Michigan Avenue, 
+ <unitdate>March 28, 1927</unitdate>
+                            </item>
+                            <item>Report: Surrogate's Court, Erie County. In the Matter of
+ the Judicial Settlement of the Accounts of Anna Maria Talbert, as
+ Administratrix, etc., of Robert Talbert, Deceased, John G. Cloak, Referee, 
+ <unitdate>undated</unitdate>
+                            </item>
+                        </list>
+                    </scopecontent>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04954fcec">
+                <did id="c_5bad04954fdab">
+                    <unitid id="series4">IV.</unitid>
+                    <unittitle id="c_5bad04954ff33">Family Correspondence, 
+ <unitdate normal="1893/1933" type="inclusive" id="c_5bad04954ffde">1893-1933</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad049550089">
+                    <did id="c_5bad049550133">
+                        <container type="box-folder" id="c_5bad0495501dc">2.8</container>
+                        <unittitle id="c_5bad04955029a">Contents</unittitle>
+                    </did>
+                    <scopecontent id="c_5bad04955035d">
+                        <list id="c_5bad04955041f">
+                            <item>Autograph Letter Signed, (Aunt) Caroline Phillips to
+ William Talbert, San Francisco, 
+ <unitdate>May 17, 1893,</unitdate> 3 pages</item>
+                            <item>Autograph Letter Signed, (Cousin) James R. Phillips to
+ Cousin William [Talbert], San Francisco, 
+ <unitdate>July 22, 1894,</unitdate> 4 pages</item>
+                            <item>Autograph Letter Signed, David F. Day to Anna M. Talbert,
+ Buffalo, New York, 
+ <unitdate>August 1894,</unitdate> 2 pages</item>
+                            <item>Autograph Letter Signed, (Aunt) Caroline Phillips to
+ William H. Talbert, San Francisco, 
+ <unitdate>May 11, 1896,</unitdate> 4 pages</item>
+                            <item>Autograph Letter Signed, (Cousin) James R. Phillips to
+ (Cousin) William [ H. Talbert ], San Francisco, 
+ <unitdate>April 13, 1897, </unitdate> 3 pages</item>
+                            <item>Autograph Letter Signed, (Cousin) James R. Phillips to
+ (Cousin) William [ H. Talbert ], San Francisco, 
+ <unitdate>August 13, 1897,</unitdate> 4 pages</item>
+                            <item>Autograph Letter Signed, (Cousin) [ James R. Phillips ] to
+ (Cousin) William H. Talbert, San Francisco, 
+ <unitdate>February 23, 1898,</unitdate> (1 page,
+ incomplete)</item>
+                            <item>Autograph Letter Signed, (Cousin) Charles R. Persons to
+ (Cousin) William H. Talbert, San Francisco, 
+ <unitdate>June 19, 1898,</unitdate> 2 pages </item>
+                            <item>Typed Letter Signed, Francis J. Grimk&#xE9; to the National
+ Association of Colored Women, Washington, D.C., 
+ <unitdate>July 1, 1918, </unitdate> 3 pages</item>
+                            <item>Autograph Letter Signed, Archibald H. Grimk&#xE9; to Mary B.
+ Talbert, Washington, D.C., 
+ <unitdate>September 24, 1918,</unitdate> 1 page</item>
+                            <item>Typed Letter Signed, J.R. Salmon to Sarah T. Keelan, Court
+ of Chancery of New Jersey, Trenton, New Jersey, 
+ <unitdate>September 23, 1923,</unitdate> 1 page</item>
+                            <item>Certified copy: Final Decree of Divorce, Chancery Court of
+ New Jersey, Harry S. and Sarah T. Keelan, 
+ <unitdate>April 20, 1923,</unitdate> 2 pages </item>
+                            <item>Typed Letter, (Copy): W [illiam] [H.] [Talbert] to Sarah [
+ H. Talbert], unpaged, 
+ <unitdate>October 16, 1925,</unitdate> 1 page</item>
+                            <item>Autograph Letter Signed, Sarah [Keelan] to [William H.
+ Talbert], New York, N.Y., 
+ <unitdate>November 29, 1925,</unitdate> 4 pages, with enclosure
+ </item>
+                            <item>Typed Letter, Carl Fischer Inc. to Sarah Talbert, Chicago,
+ Illinois, 
+ <unitdate>April 4, 1927,</unitdate> 1 page </item>
+                            <item>Typed Letter, Carl Fischer Inc. to Sarah Talbert, Chicago,
+ Illinois, 
+ <unitdate>April 16, 1927,</unitdate> 1 page </item>
+                            <item>Typed Letter Signed, Theodore Presser Co. to Sarah Talbert,
+ Philadelphia, Pa., 
+ <unitdate>June 22, 1927,</unitdate> 1 page</item>
+                            <item>Autograph Letter Signed, Elizabeth [Brown Talbert] to Sarah
+ May [Talbert], Empire State Federation of Colored Women's Clubs, Brooklyn, New
+ York, 
+ <unitdate>June 29, 1927,</unitdate> 1 page </item>
+                            <item>Autograph Letter Signed, Elizabeth [Brown Talbert] to Sarah
+ [M. Talbert], Brooklyn, New York, 
+ <unitdate>July 9, 1927,</unitdate> 2 pages</item>
+                            <item>Autograph Letter Signed, Yvette Keelan to (Mother) [Sarah
+ M. Talbert], Buffalo, New York, 
+ <unitdate>July 9, 1927,</unitdate> 2 pages</item>
+                            <item>Autograph Letter Signed, Yvette Keelan to (Mother) Sarah M.
+ Talbert, Buffalo, New York, 
+ <unitdate>July 14(?), 1927,</unitdate> 2 pages </item>
+                            <item>Autograph Letter Signed, Elizabeth B. Talbert to Sarah [
+ May Talbert], Buffalo, New York, 
+ <unitdate>July 20, 1927,</unitdate> 2 pages </item>
+                            <item>Typed Letter Signed, E.C. Hartwell to Sarah Talbert,
+ Buffalo, New York, 
+ <unitdate>September 8, 1927,</unitdate> 1 page</item>
+                            <item>Typed Letter, Theodore Presser Co. to Sarah M. Talbert,
+ Philadelphia, Pa., 
+ <unitdate>May 21, 1928,</unitdate>
+                            </item>
+                            <item>Typed Letter, Theodore Presser Co. to Sarah M. Talbert,
+ Philadelphia, Pa., 
+ <unitdate>July 16, 1928,</unitdate> 1 page </item>
+                            <item>Typed Letter Signed, H.L. Brown to Sarah M. Talbert,
+ Philadelphia, Pa., 
+ <unitdate>August 10, 1928,</unitdate> 1 page </item>
+                            <item>Typed Letter, Theodore Presser Co. to Sarah M. Talbert,
+ Philadelphia, Pa., 
+ <unitdate>September 18, 1928, </unitdate> 1 page </item>
+                            <item>Typed Letter Signed, W[illiam] H. Talbert to E. Bachert,
+ [Buffalo, New York], 
+ <unitdate>Nov. 5, 1928, </unitdate> 1 page </item>
+                            <item>Typed Letter Signed, Warner W. Westervelt Jr. to Sarah M.
+ Talbert, Hackensack, New Jersey, 
+ <unitdate>October 18, 1929,</unitdate> 1 page </item>
+                            <item>Autograph Letter Signed - Same as above.</item>
+                            <item>Typed Letter Signed, Warner W. Westervelt Jr. to Sarah M.
+ Talbert, Hackensack, New Jersey, 
+ <unitdate>October 30, 1929,</unitdate> 1 page </item>
+                            <item>Typed Letter, Theodore Presser Co. to Sarah [M.] Talbert,
+ Philadelphia, Pa., 
+ <unitdate>March 20, 1931, </unitdate> 1 page </item>
+                            <item>Typed Letter Signed, W.N. DeBerry to Sarah Talbert Keelan,
+ Springfield, Mass., 
+ <unitdate>Dec. 17, 1931, </unitdate> 1 page </item>
+                            <item>Typed Letter Signed, J. Edward Nash to Sarah M. Talbert,
+ Buffalo, N.Y., 
+ <unitdate>June 19, 1933,</unitdate> 1 page with enclosure
+ </item>
+                        </list>
+                    </scopecontent>
+                </c>
+            </c>
+            <c level="series" id="c_5bad0495504e3">
+                <did id="c_5bad0495505a5">
+                    <unitid id="series5">V.</unitid>
+                    <unittitle id="c_5bad049550719">Miscellaneous Items 
+ <unitdate normal="1881/1938" type="inclusive" id="c_5bad0495507c4">1881-1938,</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04955087b">
+                    <did id="c_5bad049550941">
+                        <unittitle id="c_5bad0495509ee">Contents</unittitle>
+                    </did>
+                    <scopecontent id="c_5bad049550aad">
+                        <list id="c_5bad049550b70">
+                            <item>Program: Ceremonies at the Presentation of the Spingarn
+ Medal, 
+ <unitdate>March 22, 1931</unitdate>
+                            </item>
+                            <item>
+                                <title type="journal">Alumni Quarterly,</title> New England
+ Conservatory of Music, 
+ <unitdate> January, 1938</unitdate>, 
+ <unitdate>November, 1938</unitdate>, 
+ <unitdate>February 1939</unitdate>
+                            </item>
+                            <item>Pistol Permit: State of New York to William H. Talbert, 
+ <unitdate>October 15, 1914</unitdate>
+                            </item>
+                            <item>Program: Mary B. Talbert Memorial Service, Michigan Avenue
+ Baptist Church, Buffalo, New York, 
+ <unitdate>October 13, 1929 </unitdate>
+                            </item>
+                            <item>Biographical Sketch of Robert Talbert, 
+ <unitdate>undated</unitdate>, 1 page </item>
+                            <item>Colored Democratic Association of Erie County, typed memo,
+ 1 page</item>
+                            <item>Manuscript sheet music: "I Believe In You", Sarah Talbert,
+ 1928 (2 copies)</item>
+                            <item>Printed sheet music: "I Believe In You", Sarah Talbert,
+ 1928 (2 copies)</item>
+                            <item>Printed sheet music: "My Little Sweeties Gone", Sarah
+ Talbert Keelan, 1920</item>
+                            <item>Printed sheet music: "Pickaninny Sandman", Sarah Talbert,
+ 1927 (4 copies)</item>
+                            <item>Manuscript copies: "Pickaninny Sandman", Sarah Talbert,
+ 1927 (2 copies)</item>
+                            <item>Business Card: Sarah M. Talbert, Graduate of New England
+ Conservatory of Music </item>
+                            <item>Invitation: Dedication of the Memorial Home (Frederick
+ Douglass) 
+ <unitdate>August 12, 1922</unitdate> 2 p. </item>
+                            <item>Diary: William H. Talbert, 
+ <unitdate>1881</unitdate>
+                            </item>
+                        </list>
+                    </scopecontent>
+                </c>
+            </c>
+        </dsc>
+        <controlaccess>
+            <head>Search Terms</head>
+            <note>
+                <p>The following terms have been used to index the description of this
+ collection in the Library's online catalog.</p>
+            </note>
+            <controlaccess>
+                <head>Contributors</head>
+                <persname encodinganalog="700" rules="aacr2">Keelan, Sarah T. (Sarah
+ May Talbert)</persname>
+                <persname encodinganalog="700" source="lcnaf">Grimk&#xE9;, Frederick,
+ 1791-1863</persname>
+                <persname encodinganalog="700" source="lcnaf">Grimk&#xE9;, Archibald Henry,
+ 1849-1930</persname>
+                <corpname source="lcnaf" encodinganalog="710">Buffalo History Museum</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Subject Terms</head>
+                <persname source="lcnaf" encodinganalog="600" role="subject">Douglass,
+ Frederick, 1818-1895</persname>
+                <subject source="lcsh" encodinganalog="650">African American women--New
+ York (State)--Buffalo</subject>
+                <subject source="lcsh" encodinganalog="650">Composers--New York
+ (State)--Buffalo</subject>
+                <geogname encodinganalog="651" source="lcnaf">Grand Island (N.Y.:
+ Island)</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Genre Terms</head>
+                <genreform source="aat" encodinganalog="655">Deeds</genreform>
+                <genreform source="aat" encodinganalog="655">Scores</genreform>
+            </controlaccess>
+        </controlaccess>
+        <descgrp type="add">
+            <head>Associated Material</head>
+            <relatedmaterial encodinganalog="544 1">
+                <head>Related Resources</head>
+                <list type="simple">
+                    <item>
+                        <archref href="http://purl.org/net/findingaids/view?docId=ead/bechs/bechs_a80_14.xml" show="new" actuate="onrequest" role="text/html">Mss. A80-14, Talbert Family Papers, 1894-1930</archref>
+                    </item>
+                </list>
+            </relatedmaterial>
+        </descgrp>
+    </archdesc>
+</ead>

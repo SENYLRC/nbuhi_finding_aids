@@ -1,0 +1,1850 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" relatedencoding="DC" scriptencoding="iso15924">
+        <eadid countrycode="us" publicid="-//Buffalo History Museum::Research Library//TEXT (US::NBuHi::C64-2::A. Conger Goodyear Papers)//EN" mainagencycode="NBuHi" encodinganalog="identifier">nbuhi_tbhm_c64_02</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title"> Finding Aid for the A. Conger
+			 Goodyear Papers, 
+			 <date type="inclusive" normal="1683/1964" encodinganalog="date">1683-1964</date>
+                    <date type="bulk" normal="1885/1964" encodinganalog="date">(bulk
+				1885-1964)</date>
+                </titleproper>
+                <titleproper altrender="nodisplay" type="filing">Goodyear (A. Conger)
+			 Papers</titleproper>
+                <author encodinganalog="contributor">Finding aid prepared by Buffalo
+			 History Museum staff.</author>
+                <sponsor encodinganalog="contributor">Funding for the initial encoding
+			 was provided through the Regional Bibliographic Databases Program administered
+			 by the Western New York Library Resources Council.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Buffalo History Museum. Research
+			 Library</publisher>
+                <address>
+                    <addressline>1 Museum Court</addressline>
+                    <addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: library@buffalohistory.org</addressline>
+                    <addressline>URI: http://www.buffalohistory.org</addressline>
+                </address>
+                <p>&#xA9; 
+			 <date encodinganalog="date" type="publication">2010</date>. Buffalo
+			 History Museum. All rights reserved.</p>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid encoded in EAD by Kuniko Simon, April
+		  2008.</creation>
+            <langusage altrender="nodisplay">Finding aid written in
+		  <language langcode="eng" encodinganalog="language">English</language>
+		  .</langusage>
+            <descrules>Finding aid prepared using local best practices. </descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+        <did>
+            <head>Collection Overview</head>
+            <unittitle encodinganalog="245$a" label="Title"> A. Conger Goodyear Papers</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" normal="1683/1964">1683 - 1964</unitdate>
+            <unitdate normal="1885/1964" type="bulk" encodinganalog="245$g">1885 - 1964</unitdate>
+            <unitid encodinganalog="099" label="Collection Number" repositorycode="NBuHi" countrycode="US">Mss. C64-2</unitid>
+            <origination label="Creator">
+                <persname encodinganalog="100" source="lcnaf" role="creator">Goodyear,
+			 A. Conger (Anson Conger), 1877-1964</persname>
+            </origination>
+            <physdesc label="Extent">
+                <extent unit="linear foot" encodinganalog="300">14.5 linear feet </extent> (<extent unit="box" encodinganalog="300">24 boxes</extent>,
+		  <extent unit="volume" encodinganalog="300">6 volumes</extent>) </physdesc>
+            <langmaterial label="Language of Material" encodinganalog="546">Collection material in
+		  <language encodinganalog="041" langcode="eng">English</language>.</langmaterial>
+            
+            <abstract encodinganalog="520" label="Abstract">Collection of Anson Conger Goodyear, a buffalo local business man, major general, and patron of the fine arts and collector; includes family correspondence, diary and scrap books, his speeches and writings, business papers, and military related correspondence.</abstract>
+        <repository>
+								<corpname>The Buffalo History Museum</corpname>
+							<address>
+								<addressline>1 Museum Court</addressline>
+							<addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: library@buffalohistory.org</addressline>
+                    <addressline>URI: http://www.buffalohistory.org</addressline>
+                </address>
+            </repository>
+        </did>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <prefercite encodinganalog="524">
+                <head>Preferred Citation</head>
+                <p>[Description and dates], Box/folder number, Mss. C64-2, A. Conger
+			 Goodyear Papers, 1683-1964 (bulk 1885-1964), Research Library, Buffalo History
+			 Museum.</p>
+            </prefercite>
+            <accessrestrict encodinganalog="506">
+                <head>Terms of Access</head>
+                <p>Access restricted until further notice, as per Melissa Brown, Museum Director, May 30, 2013.</p>
+		  <!--<p>The A. Conger Goodyear Papers, 1683-1964, are open for research.</p>-->
+            </accessrestrict>
+            <userestrict encodinganalog="540">
+                <head>Copyright</head>
+                <p>Copyright of papers in the collection may be held by their authors,
+			 or the authors' heirs or assigns. Researchers must obtain the written
+			 permission of the holder(s) of copyright and the Buffalo History Museum before
+			 publishing quotations from materials in the collection.</p>
+            </userestrict>
+        </descgrp>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <acqinfo encodinganalog="541">
+                <head>Acquisition Information</head>
+                <p>Please see librarian for acquisition information.</p>
+            </acqinfo>
+            <accruals encodinganalog="584">
+                <head>Accruals and Additions</head>
+                <p>No further accruals are expected to this collection.</p>
+            </accruals>
+            <processinfo encodinganalog="583">
+                <head>Processing Information</head>
+                <p>Collection reprocessed and retroconverted by Peter Nelson, 15
+			 December 1992.</p>
+            </processinfo>
+        </descgrp>
+        <bioghist encodinganalog="545">
+            <head>Biographical Note</head>
+            <bioghist encodinganalog="545">
+                <head>A. Conger Goodyear</head>
+                <p>Anson Conger Goodyear, businessman, military officer, postwar
+			 European relief executive and humanitarian, author, founder of the Museum of
+			 Modern Art, and collector of modern paintings, rare books and historical
+			 manuscripts, was born in Buffalo to Charles W. Goodyear (1846-1911) and Ella
+			 Conger Goodyear (1853-1940). The Goodyear family in America is traced back to
+			 Stephen Goodyear, a founder of New Haven, Conn. and deputy governor of
+			 Connecticut from 1643 to 1658.</p>
+            </bioghist>
+            <bioghist encodinganalog="545">
+                <head>Parents</head>
+                <p>His father, Charles W. Goodyear, studied law in Buffalo, was
+			 admitted to the bar in 1871, and joined the law firm of Cleveland, Bissel and
+			 Sicard (later, Bissell, Sicard and Goodyear after Cleveland was elected mayor
+			 of Buffalo). He was a lifelong friend of Grover Cleveland, and the Goodyear
+			 family made many visits to the White House during Cleveland's two presidential
+			 terms. At the height of his success in the legal profession, Charles W.
+			 Goodyear quit to enter the lumber and railroading business with his brother
+			 Frank H. Goodyear. They made vast gains from their business operations', which
+			 had gotten their start in Pouter County, Pennsylvania Over the years their
+			 interests expanded to include the Buffalo and Susquehanna Railroad, Great
+			 Southern Lumber Company, Buffalo Susquehanna Coal and Coke Company, Powhattan
+			 Coal Company, and other concerns. Ella Conger Goodyear had an abiding interest
+			 and talent in music. She was graduated from the Buffalo Female Academy and
+			 later studied music in Brooklyn. She traveled extensively with the quartet of
+			 St. Paul's. After a serious illness, religion became an important part of her
+			 life: in 1907 she founded a bible class, which she continued until 1934, and in
+			 1913 she published a book, 
+		  <title type="book">The Journey of Jesus.</title>
+                </p>
+            </bioghist>
+            <bioghist encodinganalog="545">
+                <head>Early Life</head>
+                <p>A. Conger Goodyear was educated locally at the Misses Hoffman School
+			 on Virginia Street, the School of Practice (graduating in 1892), and the new
+			 Nichols School. In 1895 he enrolled at Yale, where he was a reporter for the
+			 Yale Daily News and a member of The Wolf's Head during his senior year.</p>
+                <p>After receiving his degree, Goodyear traveled abroad for a time
+			 before returning to the United States to begin work in the family's lumber and
+			 railroading business. On June 29, 1904 he was married to Mary Forman. With the
+			 death of his uncle Frank Goodyear in 1907, he became the first vice-president
+			 of the Buffalo and Susquehanna Railroad as well as second vice-president of the
+			 Great Southern Lumber Company. In 1911 he succeeded his father as a director of
+			 the Albright Art Gallery (the Buffalo Fine Arts Academy).</p>
+            </bioghist>
+            <bioghist encodinganalog="545">
+                <head>World War I</head>
+                <p>As the United States inched closer to joining the Allies in World
+			 War I, Goodyear joined in the preparedness effort by attending one of the first
+			 military training camps held at Plattsburgh, N.Y. under General Leonard Wood
+			 "in the summer of 1915. For the next two years he participated in more military
+			 training exercises, marching as Grand Marshall in the Buffalo Preparedness
+			 Parade in the summer of 1916.and becoming involved in the efforts of Theodore
+			 Roosevelt and William J. Donovan to organize a Buffalo regiment. Just as the
+			 United States declared war, Goodyear was assigned to the 307th Field Artillery
+			 as a Captain. Soon, however, he was sent to the School of Fire at Fort Sill,
+			 Oklahoma, where he was retained as an instructor. From there he went on the
+			 Field Artillery Central officers Training School at Camp Zachary Taylor near
+			 Louisville, Kentucky, and then was assigned to the 81st Field Artillery
+			 Regiment. At last, Goodyear sailed to Europe, hoping to engage in battle -- but
+			 he landed at Brest on November 9, 1918, only two days before the Armistice was
+			 declared.</p>
+                <p>Goodyear stayed in Europe as an inspector of American railroad
+			 troops. In 1919 President Hoover appointed him as president of the Coal
+			 Commission of the Supreme Economic Council for territories that included the
+			 former empire of Austria, Hungary and Poland. In August of the same year he was
+			 assigned to Upper Silesia as a Commissioner of Investigation and a Chairman of
+			 the Coal Committee.</p>
+            </bioghist>
+            <bioghist encodinganalog="545">
+                <head>Business</head>
+                <p>In the 1920's Goodyear returned to business. As vice president of
+			 the Great Southern Lumber Company he became concerned about the depletion of
+			 forest lands, and the company began to explore methods of reforestation.
+			 Goodyear's company was one of the first to experiment in these methods on a
+			 large scale. When the Bogalusa, Ala. mill shut down, it was feared that the New
+			 Orleans Great Northern Railroad would go bankrupt; therefore A.C. Goodyear
+			 bought stock in the Gulf, Mobile and Northern Railroad and a merger took place.
+			 Goodyear also served as a director of numerous other corporations, including
+			 the Gaylord Container Corporation and Paramount Pictures.</p>
+            </bioghist>
+            <bioghist encodinganalog="545">
+                <head>Art Collecting</head>
+                <p>During the 1920's Goodyear became increasingly more interested in
+			 the world of art, and in collecting in particular. He made several trips to
+			 Europe to visit galleries and artists and to acquire paintings and sculpture.
+			 In 1928 he moved to New York City, where he established the Museum of Modern
+			 Art, which he directed as President during its crucial early years until 1939,
+			 when it moved into its famous modern home on West 53rd Street. Around 1939 his
+			 reputation as the foremost patron of the modern style was enhanced further when
+			 he commissioned Edward A. Stone to build him a house on a hilltop at Old
+			 Westbury, Long Island, which was the epitome of modern design (and, for a
+			 while, the object of contempt among his wealthy traditional neighbors). </p>
+            </bioghist>
+            <bioghist encodinganalog="545">
+                <head>World War II</head>
+                <p>When World War II broke out, Goodyear once again answered the call
+			 to arms. In 1940 he received a commission as Colonel in the New York National
+			 Guard and was assigned to organize and command the 17th Regiment. In 1943 he
+			 was promoted to Brigadier General. In 1944 and 1945 he served as a
+			 representative of the American Red Cross in the Pacific Theater (an experience
+			 which Goodyear describes in his memoir 
+		  <title type="book">One Wide Expanse</title>). After that assignment
+		  Goodyear was promoted to Major General in command of the New York Guard's 1st
+		  Division. In January of 1947, Secretary of War Patterson requested his services
+		  to tour occupied Germany and evaluate the morale of American troops there.
+		  Goodyear's military activities continued even past his formal retirement when
+		  he served on the board of trustees of Norwich University, a military academy in
+		  Northfield, Vermont, throughout the 1950's.</p>
+                <p>Goodyear's first marriage ended in divorce. Children from that
+			 marriage were sons George F. and Stephen G. Goodyear, and a daughter, Mrs.
+			 Theodore Kenefick. In 1950 Goodyear was married to Zaidee Bliss.</p>
+                <p>Many of A. Conger Goodyear's writings were privately printed for
+			 distribution to friends and family members. Most of them can be found either in
+			 this collection or in the BECHS library; they include the following titles: 
+		  <title type="book">The Museum of Modern Art, the First Ten Years
+			 </title>(1943); 
+		  <title type="book">John George Milburn Jr.: A Memoir </title>(1938); 
+		  <title type="book">[Goodyear] Family History, By a Descendant</title>
+		  (194-?); 
+		  <title type="book">One Wide Expanse</title> (1946); 
+		  <title type="book">The Loq of the Yakima </title>(1903?); and 
+		  <title type="book"> Sidelights</title> (1960). The Spring 1961 issue of
+		  
+		  <title type="journal">Niagara Frontier</title> also features a sketch
+		  of his mother.</p>
+                <p>A. Conger Goodyear died on April 23, 1964.</p>
+            </bioghist>
+            <note>
+                <p>Notes prepared by Peter Nelson.</p>
+            </note>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content Note</head>
+            <p>Papers documenting family and personal history, military service in
+		  both World Wars, and Goodyear's business and cultural interests as vice-
+		  president of the Buffalo and Susquehanna Railroad, vice-president of the Great
+		  Southern Lumber Company, a director, 1911, of the Albright Art Gallery in
+		  Buffalo, and a founder and president, 1929-1939, of the Museum of Modern Art in
+		  New York City. Includes annual reports of various railroad companies and other
+		  businesses; correspondence, unpublished articles, memoirs, speeches, diaries,
+		  scrapbooks and photo albums, and materials concerning Mr. and Mrs. Grover
+		  Cleveland, including articles, notes and letters. Correspondents include
+		  William J. Donovan, Ham Andrews, James W. Wadsworth and Herbert Hoover.</p>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>This collection is arranged in twelve series: 
+		  <list>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series1">I. Early Goodyear Family History</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series2">II. Writings</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series3">III. Correspondence</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series4">IV. Military Career</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series5">V. Business Interests</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series6">VI. Fine Arts Activities</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series7">VII. Manuscript and Autograph Collecting</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series8">VIII. Norwich University</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series9">IX. Degrees and Other Honors</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series10">X. Miscellaneous</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series11">XI. Grover Cleveland Papers and Notes</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series12">XII. Albums and Scrapbooks</ref>.</item>
+                </list>
+            </p>
+            <p>III arranged alphabetically by correspondent; other series arranged
+		  chronologically.</p>
+        </arrangement>
+        <dsc type="combined">
+            <head>Container List </head>
+            <c level="series" id="c_5bad04ad44a88">
+                <did id="c_5bad04ad44b38">
+                    <unitid id="Series1">I.</unitid>
+                    <unittitle id="c_5bad04ad44c94">Early Goodyear Family History, 
+				<unitdate normal="1860/1961" type="inclusive" id="c_5bad04ad44d3c">1860-1961</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04ad44de4">
+                    <did id="c_5bad04ad44e8c">
+                        <container type="box-folder" id="c_5bad04ad44f34">1.1</container>
+                        <unittitle id="c_5bad04ad44fdb">A.G. Conger: N.Y. State Legislative manual, 
+				  <unitdate>1863</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad45083">
+                    <did id="c_5bad04ad4512e">
+                        <container type="box-folder" id="c_5bad04ad451d9">1.2</container>
+                        <unittitle id="c_5bad04ad45280">Survey maps of Central New York by Stephen Thorn
+				  (ancestor of George Goodyear's great grandmother), 
+				  <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4532a">
+                    <did id="c_5bad04ad453d3">
+                        <container type="box-folder" id="c_5bad04ad4547a">1.3</container>
+                        <unittitle id="c_5bad04ad45522">Miscellaneous correspondence of C.W. Goodyear and A.C.
+				  Goodyear, 
+				  <unitdate>1860-1940 </unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent id="c_5bad04ad455b6">
+                        <p id="c_5bad04ad4566a">Includes letters of Frances F. Cleveland Folsom</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="c_5bad04ad45715">
+                    <did id="c_5bad04ad457be">
+                        <container type="box-folder" id="c_5bad04ad45868">1.4</container>
+                        <unittitle id="c_5bad04ad45910">Charles Goodyear - diary, 
+				  <unitdate>1865</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad459b8">
+                    <did id="c_5bad04ad45a68">
+                        <container type="box-folder" id="c_5bad04ad45b10">1.5</container>
+                        <unittitle id="c_5bad04ad45bb8">E.P. Goodyear (mother of Charles W. Goodyear) - diaries,
+				  
+				  <unitdate>1885 </unitdate>, 
+				  <unitdate>1888</unitdate>, 
+				  <unitdate>1890</unitdate>, 
+				  <unitdate>1892</unitdate>, 
+				  <unitdate>1897</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad45c65">
+                    <did id="c_5bad04ad45d0e">
+                        <container type="box-folder" id="c_5bad04ad45db5">2.1</container>
+                        <unittitle id="c_5bad04ad45e5d">Report of the Buffalo and Susquehanna Railroad Company, 
+				  <unitdate>1895</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad45f05">
+                    <did id="c_5bad04ad45fad">
+                        <container type="box-folder" id="c_5bad04ad46055">2.2</container>
+                        <unittitle id="c_5bad04ad460fc"> Letters to/from/regarding Anson Conger Goodyear at Yale
+				  College, 
+				  <unitdate>1896-1899</unitdate>; 
+				  <title type="journal">The Horoscope</title>, 
+				  <unitdate>May 1898</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad461a4">
+                    <did id="c_5bad04ad46265">
+                        <container type="box-folder" id="c_5bad04ad46315">2.3</container>
+                        <unittitle id="c_5bad04ad463bd">Funeral service for William McKinley, Buffalo: program, 
+				  <unitdate>15 September 1901</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad46464">
+                    <did id="c_5bad04ad4650c">
+                        <container type="box-folder" id="c_5bad04ad465b4">2.4</container>
+                        <unittitle id="c_5bad04ad4665b">Elisha Walker, Concerning Iron Making, With Special
+				  Reference to the Buffalo and Susquehanna Iron Company, 
+				  <unitdate>1903 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad46707">
+                    <did id="c_5bad04ad467b3">
+                        <container type="box-folder" id="c_5bad04ad4685b">2.5</container>
+                        <unittitle id="c_5bad04ad46903">Commemorative booklet on the visit of the King and Queen
+				  of the Belgians to Buffalo, 
+				  <unitdate>6 October 1919</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad469aa">
+                    <did id="c_5bad04ad46a52">
+                        <container type="box-folder" id="c_5bad04ad46afa">2.6</container>
+                        <unittitle id="c_5bad04ad46ba0">
+                            <title type="journal">Railway and Locomotive Historical Society:
+					 Bulletin 49</title>, 
+				  <unitdate>May 1939</unitdate>; 
+				  <title type="book">Buffalo and Susquehanna Railway and Allied
+					 Interests </title>
+                            <unitdate>1904</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad46c51">Booklet</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad46cfb">
+                    <did id="c_5bad04ad46da4">
+                        <container type="box-folder" id="c_5bad04ad46e4c">2.7</container>
+                        <unittitle id="c_5bad04ad46ef4">Frank H. Goodyear - memorial scrapbook, 
+				  <unitdate>1907</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad46f9c">
+                    <did id="c_5bad04ad47044">
+                        <container type="box-folder" id="c_5bad04ad470ec">2.8</container>
+                        <unittitle id="c_5bad04ad47194">Charles W. Goodyear - memorial scrapbook, 
+				  <unitdate>1911</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4723d">
+                    <did id="c_5bad04ad472ec">
+                        <container type="box-folder" id="c_5bad04ad47398">2.9</container>
+                        <unittitle id="c_5bad04ad47443">
+                            <title type="book">Ellen Conger Goodyear: The Journey of
+					 Jesus</title>, 
+				  <unitdate>1928</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad474f4">Book; inscribed 1935 </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad475a7">
+                    <did id="c_5bad04ad47652">
+                        <container type="box-folder" id="c_5bad04ad476fe">2.10</container>
+                        <unittitle id="c_5bad04ad477a9">Correspondence concerning publication of Goodyear family
+				  history, 
+				  <unitdate>1939-1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad47854">
+                    <did id="c_5bad04ad478ff">
+                        <container type="box-folder" id="c_5bad04ad479ab">2.11</container>
+                        <unittitle id="c_5bad04ad47a56"> Ellen Conger Goodyear: ALS from Mrs. H.C. Albro, 
+				  <unitdate> undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04ad47b02">
+                <did id="c_5bad04ad47bad">
+                    <unitid id="Series2">II.</unitid>
+                    <unittitle id="c_5bad04ad47d08">Writing, 
+				<unitdate normal="1903/1960" certainty="approximate" type="inclusive" id="c_5bad04ad47db4">1903-circa 1960</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04ad47e60">
+                    <did id="c_5bad04ad47f0b">
+                        <container type="box-folder" id="c_5bad04ad47fb7">2.12</container>
+                        <unittitle id="c_5bad04ad48066">Miscellaneous writings and speeches of Anson Conger
+				  Goodyear, 
+				  <unitdate>circa 1918-1945</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad48111">
+                    <did id="c_5bad04ad481be">
+                        <container type="box-folder" id="c_5bad04ad48269">3.1-3.3</container>
+                        <unittitle id="c_5bad04ad4831b">
+                            <title type="book">Life</title> (autobiography, with
+				  photographs)</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad483c7">
+                    <did id="c_5bad04ad48472">
+                        <container type="box-folder" id="c_5bad04ad4851e">3.4</container>
+                        <unittitle id="c_5bad04ad485c9">
+                            <title type="book">Travel</title>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4867a">
+                    <did id="c_5bad04ad48726">
+                        <container type="box-folder" id="c_5bad04ad487d1">3.5</container>
+                        <unittitle id="c_5bad04ad4887c">
+                            <title type="book">Log of the Yakima, January 10th to March 1st,
+					 1903</title>
+                            <unitdate>undated </unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad48927">Booklet</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad489d2">
+                    <did id="c_5bad04ad48a82">
+                        <container type="box-folder" id="c_5bad04ad48b2d">3.6</container>
+                        <unittitle id="c_5bad04ad48bd8">
+                            <title type="book">Borrowed Time, 1947-1952</title>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad48c84">
+                    <did id="c_5bad04ad48d2f">
+                        <container type="box-folder" id="c_5bad04ad48ddb">3.7</container>
+                        <unittitle id="c_5bad04ad48e86">
+                            <title type="book">Silver Tip Ranch, 1922-1947,</title>
+                            <unitdate>1946-1952</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad48f31">Published booklet with correspondence</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad48fdd">
+                    <did id="c_5bad04ad49088">
+                        <container type="box-folder" id="c_5bad04ad49134">4.1</container>
+                        <unittitle id="c_5bad04ad491e0">
+                            <title type="book">Sidelights,</title> [1960]</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4928b">
+                    <did id="c_5bad04ad49336">
+                        <container type="box-folder" id="c_5bad04ad493e1">4.2</container>
+                        <unittitle id="c_5bad04ad4948f">Correspondence and photos related to 
+				  <title type="book">Sidelights,</title>
+                            <unitdate>1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4953a">
+                    <did id="c_5bad04ad495e5">
+                        <container type="box-folder" id="c_5bad04ad49691">4.3</container>
+                        <unittitle id="c_5bad04ad4973b">Miscellaneous writings, 
+				  <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad497e7">
+                    <did id="c_5bad04ad49892">
+                        <container type="box-folder" id="c_5bad04ad4993e">4.4</container>
+                        <unittitle id="c_5bad04ad499e8">Unpublished articles, papers and speeches, 
+				  <unitdate>circa 1924-1944</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad49a94">
+                    <did id="c_5bad04ad49b3f">
+                        <container type="box-folder" id="c_5bad04ad49bea">4.5-4.6</container>
+                        <unittitle id="c_5bad04ad49c95">Far East travel diary, 
+				  <unitdate>1948</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad49d41">
+                    <did id="c_5bad04ad49ded">
+                        <container type="box" id="c_5bad04ad49e9b"> 5</container>
+                        <unittitle id="c_5bad04ad49f47">
+                            <title type="journal">Veterans of the Vulcania, March-April
+					 1951</title>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad49ff7">Bound Volume</physdesc>
+                    </did>
+                    <scopecontent id="c_5bad04ad4a0a3">
+                        <p id="c_5bad04ad4a151">Travel diary</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="c_5bad04ad4a1fd">
+                    <did id="c_5bad04ad4a2a9">
+                        <container type="box-folder" id="c_5bad04ad4a354">5.1</container>
+                        <unittitle id="c_5bad04ad4a3ff">Mediterranean travel diary, 
+				  <unitdate>1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4a4ab">
+                    <did id="c_5bad04ad4a556">
+                        <container type="box-folder" id="c_5bad04ad4a602">5.2-5.3</container>
+                        <unittitle id="c_5bad04ad4a6ad">Italian travel diary, 
+				  <unitdate>1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4a76a">
+                    <did id="c_5bad04ad4a81f">
+                        <container type="box-folder" id="c_5bad04ad4a8d7">5.4</container>
+                        <unittitle id="c_5bad04ad4a987">Common Place Book, 
+				  <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4aa33">
+                    <did id="c_5bad04ad4aadf">
+                        <container type="box-folder" id="c_5bad04ad4ab8b">5.5</container>
+                        <unittitle id="c_5bad04ad4ac35">Common Place Book (2), 
+				  <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4ace2">
+                    <did id="c_5bad04ad4ad8f">
+                        <container type="box" id="c_5bad04ad4ae3b">6</container>
+                        <unittitle id="c_5bad04ad4aee6">
+                            <title type="book">John George Milburn, Jr.: A Memoir</title>, 
+				  <unitdate>1938</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad4af91">Bound volume, privately printed</physdesc>
+                    </did>
+                    <scopecontent id="c_5bad04ad4b03d">
+                        <p id="c_5bad04ad4b0ec">Includes correspondence regarding J.G. Milburn &amp; Memoir, 
+				  <unitdate>1935-1938</unitdate>
+                        </p>
+                    </scopecontent>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04ad4b196">
+                <did id="c_5bad04ad4b23d">
+                    <unitid id="Series3">III.</unitid>
+                    <unittitle id="c_5bad04ad4b396">Correspondence, 
+				<unitdate normal="1912/1962" type="inclusive" id="c_5bad04ad4b43e">1912-1962</unitdate>
+                    </unittitle>
+                </did>
+                <arrangement id="c_5bad04ad4b4e7">
+                    <p id="c_5bad04ad4b58e">Arranged alphabetically by correspondent.</p>
+                </arrangement>
+                <c level="file" id="c_5bad04ad4b637">
+                    <did id="c_5bad04ad4b6df">
+                        <container type="box-folder" id="c_5bad04ad4b786">6.1</container>
+                        <unittitle id="c_5bad04ad4b82d">Index to Arts and Letters (fragment); letters related to
+				  National Theater project, 
+				  <unitdate>1936-1943 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4b8d5">
+                    <did id="c_5bad04ad4b97d">
+                        <container type="box-folder" id="c_5bad04ad4ba24">6.2</container>
+                        <unittitle id="c_5bad04ad4bacb">Andrews, W.G. (Ham): correspondence, 
+				  <unitdate>1930-1949</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4bb73">
+                    <did id="c_5bad04ad4bc1b">
+                        <container type="box-folder" id="c_5bad04ad4bcc3">6.3</container>
+                        <unittitle id="c_5bad04ad4bd6a">A</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4be16">
+                    <did id="c_5bad04ad4bebe">
+                        <container type="box-folder" id="c_5bad04ad4bf66">6.4</container>
+                        <unittitle id="c_5bad04ad4c014">B</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4c0b5">
+                    <did id="c_5bad04ad4c162">
+                        <container type="box-folder" id="c_5bad04ad4c20c">7.1</container>
+                        <unittitle id="c_5bad04ad4c2b5">C</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4c35f">
+                    <did id="c_5bad04ad4c409">
+                        <container type="box-folder" id="c_5bad04ad4c4b2">7.2</container>
+                        <unittitle id="c_5bad04ad4c55b">D</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4c605">
+                    <did id="c_5bad04ad4c6ae">
+                        <container type="box-folder" id="c_5bad04ad4c758">7.3</container>
+                        <unittitle id="c_5bad04ad4c804">E</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4c8ae">
+                    <did id="c_5bad04ad4c957">
+                        <container type="box-folder" id="c_5bad04ad4ca03">7.4</container>
+                        <unittitle id="c_5bad04ad4cab2">F</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4cb5d">
+                    <did id="c_5bad04ad4cc06">
+                        <container type="box-folder" id="c_5bad04ad4ccb0">7.5</container>
+                        <unittitle id="c_5bad04ad4cd59">G</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4ce03">
+                    <did id="c_5bad04ad4cead">
+                        <container type="box-folder" id="c_5bad04ad4cf57">7.6</container>
+                        <unittitle id="c_5bad04ad4d015">H</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4d0d7">
+                    <did id="c_5bad04ad4d197">
+                        <container type="box-folder" id="c_5bad04ad4d24a">7.7</container>
+                        <unittitle id="c_5bad04ad4d2f3">I</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4d39d">
+                    <did id="c_5bad04ad4d447">
+                        <container type="box-folder" id="c_5bad04ad4d4f0">7.8</container>
+                        <unittitle id="c_5bad04ad4d59b">J</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4d664">
+                    <did id="c_5bad04ad4d70e">
+                        <container type="box-folder" id="c_5bad04ad4d7b7">7.9</container>
+                        <unittitle id="c_5bad04ad4d878">K, L</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4d92f">
+                    <did id="c_5bad04ad4d9d9">
+                        <container type="box-folder" id="c_5bad04ad4da82">8.1</container>
+                        <unittitle id="c_5bad04ad4db37">M</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4dbe1">
+                    <did id="c_5bad04ad4dc8e">
+                        <container type="box-folder" id="c_5bad04ad4dd38">8.2</container>
+                        <unittitle id="c_5bad04ad4dde1">N</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4dea6">
+                    <did id="c_5bad04ad4df50">
+                        <container type="box-folder" id="c_5bad04ad4dffa">8.3</container>
+                        <unittitle id="c_5bad04ad4e0af">P, Q</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4e158">
+                    <did id="c_5bad04ad4e200">
+                        <container type="box-folder" id="c_5bad04ad4e2a9">8.4</container>
+                        <unittitle id="c_5bad04ad4e353">R</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4e3fc">
+                    <did id="c_5bad04ad4e4a4">
+                        <container type="box-folder" id="c_5bad04ad4e54d">8.5</container>
+                        <unittitle id="c_5bad04ad4e5f6">S</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4e6a2">
+                    <did id="c_5bad04ad4e74c">
+                        <container type="box-folder" id="c_5bad04ad4e801">8.6</container>
+                        <unittitle id="c_5bad04ad4e8a9">T</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4e953">
+                    <did id="c_5bad04ad4ea08">
+                        <container type="box-folder" id="c_5bad04ad4eab0">8.7</container>
+                        <unittitle id="c_5bad04ad4eb5a">U, V</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4ec0e">
+                    <did id="c_5bad04ad4ecb6">
+                        <container type="box-folder" id="c_5bad04ad4ed5e">8.8</container>
+                        <unittitle id="c_5bad04ad4ee08">W</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4eeb2">
+                    <did id="c_5bad04ad4ef5e">
+                        <container type="box-folder" id="c_5bad04ad4f008">8.9</container>
+                        <unittitle id="c_5bad04ad4f0b4">X, Y, Z</unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04ad4f15e">
+                <did id="c_5bad04ad4f208">
+                    <unitid id="Series4">IV.</unitid>
+                    <unittitle id="c_5bad04ad4f35f">Military Career, 
+				<unitdate normal="1915/1952" type="inclusive" id="c_5bad04ad4f409">1915-1952</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04ad4f4b3">
+                    <did id="c_5bad04ad4f55d">
+                        <container type="box-folder" id="c_5bad04ad4f60a">9.1</container>
+                        <unittitle id="c_5bad04ad4f6b4">First Training Regiment, Plattsburgh, New York., 
+				  <unitdate>1915</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent id="c_5bad04ad4f75e">
+                        <p id="c_5bad04ad4f807">Includes roster and views</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="c_5bad04ad4f8b1">
+                    <did id="c_5bad04ad4f95b">
+                        <container type="box-folder" id="c_5bad04ad4fa04">9.2</container>
+                        <unittitle id="c_5bad04ad4faad">First Training Regiment, Plattsburgh, New York
+				  </unittitle>
+                    </did>
+                    <scopecontent id="c_5bad04ad4fb59">
+                        <p id="c_5bad04ad4fc09">Includes correspondence with Theodore Roosevelt Jr. and William
+				  Donovan regarding organizing cavalry regiment in World War I, 
+				  <unitdate>1916-1917</unitdate>
+                        </p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="c_5bad04ad4fcb4">
+                    <did id="c_5bad04ad4fd5d">
+                        <container type="box-folder" id="c_5bad04ad4fe07">9.3</container>
+                        <unittitle id="c_5bad04ad4feb1">Records and official documents related to Anson Conger
+				  Goodyear's military career, 
+				  <unitdate>1917-1920 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad4ff5b">
+                    <did id="c_5bad04ad50004">
+                        <container type="box-folder" id="c_5bad04ad500ae">9.4</container>
+                        <unittitle id="c_5bad04ad50157">Military commissions, certificates and discharges, 
+				  <unitdate>1915-1919</unitdate>, 
+				  <unitdate>1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad50201">
+                    <did id="c_5bad04ad502aa">
+                        <container type="box" id="c_5bad04ad50353">9</container>
+                        <unittitle id="c_5bad04ad503fd">History of the 307th Field Artillery, 
+				  <unitdate>1917-1919 </unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad504a6">Bound Volume, privately printed, undated </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad50553">
+                    <did id="c_5bad04ad505fc">
+                        <container type="box" id="c_5bad04ad506a6">9</container>
+                        <unittitle id="c_5bad04ad5074f">War Records of the Knickerbocker Club, 
+				  <unitdate>1914-1918</unitdate> () </unittitle>
+                        <physdesc id="c_5bad04ad507f8">Bound Volume</physdesc>
+                    </did>
+                    <scopecontent id="c_5bad04ad508a1">
+                        <p id="c_5bad04ad5094b">Privately printed for the Knickerbocker Club, New York, 
+				  <unitdate>1922</unitdate>
+                        </p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="c_5bad04ad509f4">
+                    <did id="c_5bad04ad50a9e">
+                        <container type="box-folder" id="c_5bad04ad50b47">10.1-10.2</container>
+                        <unittitle id="c_5bad04ad50bf0">Letters of Anson Conger Goodyear to M[ary] F[orman]
+				  G[oodyear], 
+				  <unitdate>1919</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad50cab">
+                    <did id="c_5bad04ad50d6c">
+                        <container type="box-folder" id="c_5bad04ad50e33">10.3</container>
+                        <unittitle id="c_5bad04ad50ee3">Correspondence with James W. Wadsworth Jr. and others
+				  concerning presidential nomination of General Leonard Wood, 
+				  <unitdate>1919-1920</unitdate>, 
+				  <unitdate>1928</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad50f9f">
+                    <did id="c_5bad04ad51052">
+                        <container type="box" id="c_5bad04ad510fb">10</container>
+                        <unittitle id="c_5bad04ad511a3">Ernst Hesterberg, 
+				  <title render="italic">Alle Mache den A.- und S.- Raeten: KamDf
+					 um Schlesien. Breslau: Wilh. </title>Gottl. Korn, 
+				  <unitdate>1932</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad5124c">Bound Volume</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad512f6">
+                    <did id="c_5bad04ad5139f">
+                        <container type="box-folder" id="c_5bad04ad51448">10.4</container>
+                        <unittitle id="c_5bad04ad514f1">Translation and correspondence concerning Ernst
+				  Hesterberg's World War I memoirs, 
+				  <unitdate>1934-1935 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5159f">
+                    <did id="c_5bad04ad51660">
+                        <container type="box-folder" id="c_5bad04ad5171f">10.5</container>
+                        <unittitle id="c_5bad04ad517dd">Herbert Hoover letters, 
+				  <unitdate>1919-1921</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent id="c_5bad04ad5188b">
+                        <p id="c_5bad04ad51935">Includes transcripts, originals, and correspondence related to publication
+				  of Anson Conger Goodyear's 
+				<title type="book">Tramping for Hoover</title>, 
+				<unitdate>1959 </unitdate>
+                        </p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="c_5bad04ad519e3">
+                    <did id="c_5bad04ad51a8d">
+                        <container type="box-folder" id="c_5bad04ad51b37">10.6</container>
+                        <unittitle id="c_5bad04ad51be0">Clippings, rosters and other materials related to
+				  military career, 
+				  <unitdate>1918-1956</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent id="c_5bad04ad51c8a">
+                        <p id="c_5bad04ad51d34">Includes Paris edition of 
+				<title type="journal">New York Herald</title>, 12 November 1918
+				</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="c_5bad04ad51dde">
+                    <did id="c_5bad04ad51e8a">
+                        <container type="box-folder" id="c_5bad04ad51f35">10.7</container>
+                        <unittitle id="c_5bad04ad51fe3">
+                            <title type="book">17th Regiment, New York National
+					 Guard</title>: book commemorating dinner in honor of Colonel Anson Conger
+				  Goodyear, 
+				  <unitdate>18 June 1941</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5208d">
+                    <did id="c_5bad04ad52137">
+                        <container type="box-folder" id="c_5bad04ad521e1">11.1</container>
+                        <unittitle id="c_5bad04ad5228a">Correspondence and photos related to travels as Red
+				  Cross liaison officer in Pacific theater, 
+				  <unitdate>1944-1945</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad52334">
+                    <did id="c_5bad04ad523e4">
+                        <container type="box-folder" id="c_5bad04ad5248e">11.2</container>
+                        <unittitle id="c_5bad04ad52537">71st Regiment, NY National Guard: souvenir news
+				  bulletin, 
+				  <unitdate>18 May 1946</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad525e1">
+                    <did id="c_5bad04ad5268b">
+                        <container type="box-folder" id="c_5bad04ad52734">11.3</container>
+                        <unittitle id="c_5bad04ad527de">Report to the Secretary of War (trip to Germany to study
+				  morale of U.S. occupying troops), 
+				  <unitdate>28 April 1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad52888">
+                    <did id="c_5bad04ad52931">
+                        <container type="box" id="c_5bad04ad529db"> 11</container>
+                        <unittitle id="c_5bad04ad52a84">
+                            <title type="book">One Wide Expanse</title>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad52b2e">Bound Volume</physdesc>
+                    </did>
+                    <scopecontent id="c_5bad04ad52bde">
+                        <p id="c_5bad04ad52c8c">Includes correspondence, clippings, maps, etc., 
+				  <unitdate>1944-1946</unitdate>
+                        </p>
+                    </scopecontent>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04ad52d38">
+                <did id="c_5bad04ad52de7">
+                    <unitid id="Series5">V.</unitid>
+                    <unittitle id="c_5bad04ad52f3b">Business Interests, 
+				<unitdate normal="1906/1954" type="inclusive" id="c_5bad04ad52fe4">1906-1954</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04ad53090">
+                    <did id="c_5bad04ad5313b">
+                        <container type="box" id="c_5bad04ad531e7">12</container>
+                        <unittitle id="c_5bad04ad53292">New Orleans Great Northern Railroad Company: Annual
+				  Reports, 
+				  <unitdate>1906-1924</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad5333a">Bound Volume</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad533e2">
+                    <did id="c_5bad04ad5348a">
+                        <container type="box" id="c_5bad04ad53532"> 12</container>
+                        <unittitle id="c_5bad04ad535db">Great Southern Lumber Company: Annual Reports,
+				  1907-1923</unittitle>
+                        <physdesc id="c_5bad04ad53683">Bound Volume</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5372b">
+                    <did id="c_5bad04ad537d3">
+                        <container type="box-folder" id="c_5bad04ad5387f">12.1</container>
+                        <unittitle id="c_5bad04ad53927">Great Southern Lumber Company: Annual Reports, 
+				  <unitdate>1924-1929</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad539d4">
+                    <did id="c_5bad04ad53a80">
+                        <container type="box-folder" id="c_5bad04ad53b2b">12.2</container>
+                        <unittitle id="c_5bad04ad53bd7">Great Southern Lumber Company: Annual Reports, 
+				  <unitdate>1930-1938</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad53c82">
+                    <did id="c_5bad04ad53d2f">
+                        <container type="box" id="c_5bad04ad53dda"> 13</container>
+                        <unittitle id="c_5bad04ad53e85">Gulf, Mobile and Northern Railroad Company: Annual
+				  Reports, 
+				  <unitdate> 1928-1939</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad53f30">Bound Volume</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad53fdc">
+                    <did id="c_5bad04ad54087">
+                        <container type="box" id="c_5bad04ad54132"> 13</container>
+                        <unittitle id="c_5bad04ad541de">Gulf, Mobile and Northern Railroad Company, 
+				  <unitdate>1940-1946</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad5428c">Bound Volume</physdesc>
+                    </did>
+                    <scopecontent id="c_5bad04ad54337">
+                        <p id="c_5bad04ad543e2">Includes Annual Reports</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="c_5bad04ad5448d">
+                    <did id="c_5bad04ad54539">
+                        <container type="box" id="c_5bad04ad545e4"> 13</container>
+                        <unittitle id="c_5bad04ad5468f">Paramount Pictures Inc., 
+				  <unitdate>1936-1946</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad5473a">Bound Volume</physdesc>
+                    </did>
+                    <scopecontent id="c_5bad04ad547e5">
+                        <p id="c_5bad04ad54890">Includes Annual Reports,</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="c_5bad04ad5493c">
+                    <did id="c_5bad04ad549e7">
+                        <container type="box" id="c_5bad04ad54a98"> 13</container>
+                        <unittitle id="c_5bad04ad54b44">Gulf Pacific Lines and Redwood Lines, Inc., 
+				  <unitdate>1 October 1930 </unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad54bf0">Bound Volume</physdesc>
+                    </did>
+                    <scopecontent id="c_5bad04ad54c9f">
+                        <p id="c_5bad04ad54d4b">Includes Appraisal Report</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="c_5bad04ad54df6">
+                    <did id="c_5bad04ad54ea2">
+                        <container type="box" id="c_5bad04ad54f4d"> 14</container>
+                        <unittitle id="c_5bad04ad54ff8">Bogalusa Paper Company, Inc. and Robert Gaylord, Inc., 
+				  <unitdate>27 May 1937 </unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad550a3">[Bound Volume]</physdesc>
+                    </did>
+                    <scopecontent id="c_5bad04ad55154">
+                        <p id="c_5bad04ad551ff">Includes report</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="c_5bad04ad552ab">
+                    <did id="c_5bad04ad55357">
+                        <container type="box" id="c_5bad04ad55402"> 14</container>
+                        <unittitle id="c_5bad04ad554ac">Gaylord Container Corporation, 
+				  <unitdate>1937-1946</unitdate>; includes Annual
+				  Reports</unittitle>
+                        <physdesc id="c_5bad04ad55557">Bound Volume</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad55603">
+                    <did id="c_5bad04ad556b2">
+                        <container type="box" id="c_5bad04ad5575d"> 14</container>
+                        <unittitle id="c_5bad04ad55808">Gaylord Container Corporation, 
+				  <unitdate>1942 </unitdate>includes Annual reports regarding sale
+				  of 6,000,000 Fifteen-Year 3 &#xBD;% Sinking Fund Debenture Bonds, </unittitle>
+                        <physdesc id="c_5bad04ad558b5">Bound Volume</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad55961">
+                    <did id="c_5bad04ad55a0d">
+                        <container type="box" id="c_5bad04ad55ab9"> 14</container>
+                        <unittitle id="c_5bad04ad55b64">Eighth Annual Report of Swayne &amp; Hoyt, Ltd. and Gulf
+				  Pacific Main Line, Ltd. (for the fiscal year ended ) 
+				  <unitdate>31 December 1938 </unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad55c0f">Bound Volume</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad55cbc">
+                    <did id="c_5bad04ad55d67">
+                        <container type="box-folder" id="c_5bad04ad55e12">14.1</container>
+                        <unittitle id="c_5bad04ad55ebc">Reports, publications and other materials related to
+				  Anson Conger Goodyear business interests, 
+				  <unitdate>1922-1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04ad55f68">
+                <did id="c_5bad04ad56024">
+                    <unitid id="Series6">VI.</unitid>
+                    <unittitle id="c_5bad04ad56180">Fine Arts Activities, 
+				<unitdate normal="1923/1961" type="inclusive" id="c_5bad04ad5622b">1923-1961</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04ad562d7">
+                    <did id="c_5bad04ad56382">
+                        <container type="box-folder" id="c_5bad04ad5642d">15.1-15.3</container>
+                        <unittitle id="c_5bad04ad564d8">Souvenirs of dinner in honor of Anson Conger Goodyear in
+				  "appreciation for all that [he] has done for American art in this city during
+				  the past ten years," New York City, 
+				  <unitdate>13 June 1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad56583">
+                    <did id="c_5bad04ad5662e">
+                        <container type="box-folder" id="c_5bad04ad566d9">15.4</container>
+                        <unittitle id="c_5bad04ad56784">Correspondence concerning opening of Museum of Modern
+				  Art, 
+				  <unitdate>1939</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad56830">
+                    <did id="c_5bad04ad568db">
+                        <container type="box" id="c_5bad04ad56986"> 15</container>
+                        <unittitle id="c_5bad04ad56a31">
+                            <title type="book"> Museum of Modern Art - The First Ten
+					 Years</title>
+                            <unitdate>1943</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad56adf">Boxed Volume</physdesc>
+                    </did>
+                    <scopecontent id="c_5bad04ad56b90">
+                        <list id="c_5bad04ad56c45">
+                            <item>Part 1: A.C. Goodyear, The Museum of Modern Art The First
+					 Ten Years (book, privately printed, 1943) </item>
+                            <item>Part 2: Correspondence, 1943</item>
+                        </list>
+                    </scopecontent>
+                </c>
+                <c level="file" id="c_5bad04ad56cf1">
+                    <did id="c_5bad04ad56d9d">
+                        <container type="box-folder" id="c_5bad04ad56e48">16.1</container>
+                        <unittitle id="c_5bad04ad56ef3">Art publications with articles by Anson Conger Goodyear,
+				  
+				  <unitdate>1930-1944</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad56f9e">
+                    <did id="c_5bad04ad5704a">
+                        <container type="box-folder" id="c_5bad04ad570f5">16.2</container>
+                        <unittitle id="c_5bad04ad571a0">Art publications with articles by Anson Conger Goodyear,
+				  
+				  <unitdate>1949-1958</unitdate> and undated</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5724b">
+                    <did id="c_5bad04ad572f6">
+                        <container type="box-folder" id="c_5bad04ad573a2">16.3</container>
+                        <unittitle id="c_5bad04ad5744d">Catalogs of artworks collected by Anson Conger Goodyear,
+				  
+				  <unitdate>1923-1954</unitdate>
+                            <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad57507">
+                    <did id="c_5bad04ad575c1">
+                        <container type="box-folder" id="c_5bad04ad57675">16.4</container>
+                        <unittitle id="c_5bad04ad57721">Auction catalog: 
+				  <title type="book">Highly Important Impressionist and Modern
+					 Paintings and Drawings</title>, Sotheby &amp; Co., 
+				  <unitdate>25 November 1959 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad577cf">
+                    <did id="c_5bad04ad5787c">
+                        <container type="box-folder" id="c_5bad04ad57928">16.5</container>
+                        <unittitle id="c_5bad04ad579d5">Catalog: 
+				  <title type="book">Gifts to the Albright-Knox Art Gallery From A.
+					 Conger Goodyear, 1962-1963</title>
+                            <unitdate>1962-1963 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad57a81">
+                    <did id="c_5bad04ad57b2d">
+                        <container type="box-folder" id="c_5bad04ad57bdd">16.6</container>
+                        <unittitle id="c_5bad04ad57c89">Miscellaneous booklets and catalogs, 
+				  <unitdate>1925-1964</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad57d34">
+                    <did id="c_5bad04ad57de0">
+                        <container type="box-folder" id="c_5bad04ad57e8b">16.7</container>
+                        <unittitle id="c_5bad04ad57f36">University of Buffalo, Niagara Frontier Convocation:
+				  souvenir booklet, 
+				  <unitdate>1951 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad57fe2">
+                    <did id="c_5bad04ad58094">
+                        <container type="box" id="c_5bad04ad5813f"> 16</container>
+                        <unittitle id="c_5bad04ad581ea">Adolph Zukor, 
+				  <title type="book">The Public Is Never Wrong: The Autobiography
+					 of Adolph Zukor </title>(New York: G.P. Putnam's Sons, 1953) 
+				  <unitdate>1953</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad58295">Boxed Volume</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad58350">
+                    <did id="c_5bad04ad583ff">
+                        <container type="box" id="c_5bad04ad584ab"> 17</container>
+                        <unittitle id="c_5bad04ad58556">Inventory: Gifts to the Museum of Modern Art</unittitle>
+                        <physdesc id="c_5bad04ad58602">Bound Volume</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad586ad">
+                    <did id="c_5bad04ad5875a">
+                        <container type="box" id="c_5bad04ad58805"> 17</container>
+                        <unittitle id="c_5bad04ad588b2">Inventory: Gifts to the Albright Art Gallery</unittitle>
+                        <physdesc id="c_5bad04ad5895d">Bound Volume</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad58a09">
+                    <did id="c_5bad04ad58ab8">
+                        <container type="box" id="c_5bad04ad58b65"> 17</container>
+                        <unittitle id="c_5bad04ad58c10">Inventory: Works of Art Formerly Owned</unittitle>
+                        <physdesc id="c_5bad04ad58cbb">Bound Volume</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad58d67">
+                    <did id="c_5bad04ad58e12">
+                        <container type="box" id="c_5bad04ad58ebd"> 17</container>
+                        <unittitle id="c_5bad04ad58f68">Inventory: Works Owned by Anson Conger Goodyear, 
+				  <unitdate>February 1961</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad59013">Bound Volume</physdesc>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04ad590bf">
+                <did id="c_5bad04ad5916b">
+                    <unitid id="Series7">VII.</unitid>
+                    <unittitle id="c_5bad04ad592d4">Manuscript and Autograph Collecting, 
+				<unitdate normal="1926/1949" type="inclusive" id="c_5bad04ad59381">1926-1949</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04ad5942e">
+                    <did id="c_5bad04ad594da">
+                        <container type="box-folder" id="c_5bad04ad5958a">18.1</container>
+                        <unittitle id="c_5bad04ad59635">
+                            <title type="journal">Yale Alumni Weekly</title>, 
+				  <unitdate>9 April and 7 May 1926</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent id="c_5bad04ad596e0">
+                        <p id="c_5bad04ad5978c">Include articles about manuscript collection of Anson Conger
+				  Goodyear</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="c_5bad04ad59838">
+                    <did id="c_5bad04ad598e3">
+                        <container type="box-folder" id="c_5bad04ad5998e">18.2</container>
+                        <unittitle id="c_5bad04ad59a49">Clippings and memorandum concerning sale of Anson Conger
+				  Goodyear autograph collection, 
+				  <unitdate>1927</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad59aff">
+                    <did id="c_5bad04ad59bae">
+                        <container type="box" id="c_5bad04ad59c5a"> 18</container>
+                        <unittitle id="c_5bad04ad59d05">Auction catalog: 
+				  <title type="book">American and English Autograph Collection of
+					 A.C. Goodyear, Anderson Galleries</title>, 
+				  <unitdate>Feb 1-2, 1927 </unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad59db5">Bound Volume</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad59e61">
+                    <did id="c_5bad04ad59f0d">
+                        <container type="box-folder" id="c_5bad04ad59fbd">18.3</container>
+                        <unittitle id="c_5bad04ad5a068">
+                            <title type="journal">Yale University Library Gazette</title>, 
+				  <unitdate>January 1949</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent id="c_5bad04ad5a118">
+                        <p id="c_5bad04ad5a1cc">Includes article about donation of Yale letters from collection
+				  of Anson Conger Goodyear</p>
+                    </scopecontent>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04ad5a278">
+                <did id="c_5bad04ad5a324">
+                    <unitid id="Series8">VIII.</unitid>
+                    <unittitle id="c_5bad04ad5a47e">Norwich University, 
+				<unitdate normal="1950/1963" type="inclusive" id="c_5bad04ad5a52e">1950-1963</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04ad5a5da">
+                    <did id="c_5bad04ad5a685">
+                        <container type="box" id="c_5bad04ad5a730"> 18</container>
+                        <unittitle id="c_5bad04ad5a7db"> Norwich University War Whoop (yearbook), 
+				  <unitdate>1953</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad5a886">Bound Volume</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5a932">
+                    <did id="c_5bad04ad5a9dd">
+                        <container type="box-folder" id="c_5bad04ad5aa8e">18.4</container>
+                        <unittitle id="c_5bad04ad5ab36">Budget report, 
+				  <unitdate>1963-1964</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5abde">
+                    <did id="c_5bad04ad5ac86">
+                        <container type="box-folder" id="c_5bad04ad5ad2d">18.5</container>
+                        <unittitle id="c_5bad04ad5add4">Chronology (concerning E.N. Harmon and Norwich), 
+				  <unitdate>1950-1959</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5ae7b">
+                    <did id="c_5bad04ad5af26">
+                        <container type="box-folder" id="c_5bad04ad5afce">18.6</container>
+                        <unittitle id="c_5bad04ad5b075">E.N. Harmon correspondence, 
+				  <unitdate>1950-1951 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5b11d">
+                    <did id="c_5bad04ad5b1c4">
+                        <container type="box-folder" id="c_5bad04ad5b26c">18.7</container>
+                        <unittitle id="c_5bad04ad5b312">E.N. Harmon correspondence, 
+				  <unitdate>1952-1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5b3ba">
+                    <did id="c_5bad04ad5b463">
+                        <container type="box-folder" id="c_5bad04ad5b518">19.1</container>
+                        <unittitle id="c_5bad04ad5b5bf">E.N. Harmon correspondence, 
+				  <unitdate>1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5b667">
+                    <did id="c_5bad04ad5b70f">
+                        <container type="box-folder" id="c_5bad04ad5b7b7">19.2</container>
+                        <unittitle id="c_5bad04ad5b85e">E.N. Harmon correspondence, 
+				  <unitdate>1955-1956</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5b906">
+                    <did id="c_5bad04ad5b9ae">
+                        <container type="box-folder" id="c_5bad04ad5ba5b">19.3</container>
+                        <unittitle id="c_5bad04ad5bb06">E.N. Harmon correspondence, 
+				  <unitdate>1957</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5bbb0">
+                    <did id="c_5bad04ad5bc5a">
+                        <container type="box-folder" id="c_5bad04ad5bd03">19.4</container>
+                        <unittitle id="c_5bad04ad5bdac">E.N. Harmon correspondence, 
+				  <unitdate>1959-1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5be56">
+                    <did id="c_5bad04ad5bf00">
+                        <container type="box-folder" id="c_5bad04ad5bfad">19.5</container>
+                        <unittitle id="c_5bad04ad5c056">E.N. Harmon correspondence, 
+				  <unitdate>1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5c100">
+                    <did id="c_5bad04ad5c1aa">
+                        <container type="box-folder" id="c_5bad04ad5c253">19.6</container>
+                        <unittitle id="c_5bad04ad5c2fc">E.N. Harmon correspondence, 
+				  <unitdate>1962-1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04ad5c3a6">
+                <did id="c_5bad04ad5c450">
+                    <unitid id="Series9">IX.</unitid>
+                    <unittitle id="c_5bad04ad5c5a6">Degrees and Other Honors, 
+				<unitdate normal="1952/1962" type="inclusive" id="c_5bad04ad5c650">1952-1962</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04ad5c6fb">
+                    <did id="c_5bad04ad5c7a5">
+                        <container type="box-folder" id="c_5bad04ad5c84e">20.1</container>
+                        <unittitle id="c_5bad04ad5c8f8">Norwich University - honorary LL.D, 
+				  <unitdate>1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5c9a3">
+                    <did id="c_5bad04ad5ca50">
+                        <container type="box-folder" id="c_5bad04ad5cafa">20.2</container>
+                        <unittitle id="c_5bad04ad5cba8">University of Buffalo - Chancellor's Medal, 
+				  <unitdate>1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5cc53">
+                    <did id="c_5bad04ad5ccfc">
+                        <container type="box" id="c_5bad04ad5cda6"> 20</container>
+                        <unittitle id="c_5bad04ad5ce4f">Adelphi College - Honorary Doctor of Fine Arts, 
+				  <unitdate>1958</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad04ad5cef8">Bound volume</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5cfa2">
+                    <did id="c_5bad04ad5d04c">
+                        <container type="box" id="c_5bad04ad5d0f5"> 20</container>
+                        <unittitle id="c_5bad04ad5d19e">Crown Zellerbach Corporation - Resolution appointing
+				  ANSON CONGER GOODYEAR Director Emeritus, [1962?] </unittitle>
+                        <physdesc id="c_5bad04ad5d247">Bound volume</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5d2f0">
+                    <did id="c_5bad04ad5d39b">
+                        <container type="box-folder" id="c_5bad04ad5d447">20.3</container>
+                        <unittitle id="c_5bad04ad5d4f0">Other degrees and honors, 
+				  <unitdate>1952-1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04ad5d59b">
+                <did id="c_5bad04ad5d645">
+                    <unitid id="Series10">X.</unitid>
+                    <unittitle id="c_5bad04ad5d79b">Miscellaneous, 
+				<unitdate normal="1893/1964" type="inclusive" id="c_5bad04ad5d846">1893-1964</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04ad5d8f0">
+                    <did id="c_5bad04ad5d99a">
+                        <container type="box-folder" id="c_5bad04ad5da42">20.4</container>
+                        <unittitle id="c_5bad04ad5daea">Correspondence and clippings concerning donation of
+				  papers to Buffalo History Museum, 
+				  <unitdate>1963-1964</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent id="c_5bad04ad5db92">
+                        <p id="c_5bad04ad5dc51">Includes obituary, 
+				  <unitdate>24 April 1964</unitdate>
+                        </p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="c_5bad04ad5dd04">
+                    <did id="c_5bad04ad5ddaf">
+                        <container type="box-folder" id="c_5bad04ad5de58">20.5</container>
+                        <unittitle id="c_5bad04ad5df06">George F. Goodyear, 
+				  <title type="article"> The Red Heap </title>(description of a
+				  1952 trip to the western U.S.) </unittitle>
+                        <unitdate id="c_5bad04ad5dfae">1952</unitdate>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5e057">
+                    <did id="c_5bad04ad5e0ff">
+                        <container type="box-folder" id="c_5bad04ad5e1b1">20.6</container>
+                        <unittitle id="c_5bad04ad5e25d">Miscellaneous financial records, 
+				  <unitdate>1953-1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5e309">
+                    <did id="c_5bad04ad5e3b7">
+                        <container type="box-folder" id="c_5bad04ad5e462">20.7</container>
+                        <unittitle id="c_5bad04ad5e50d">Miscellaneous correspondence, 
+				  <unitdate>1897-1944</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5e5b9">
+                    <did id="c_5bad04ad5e664">
+                        <container type="box-folder" id="c_5bad04ad5e710">20.8</container>
+                        <unittitle id="c_5bad04ad5e7bb">Clipping of Nichols School football team photo, 
+				  <unitdate>1893</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5e867">
+                    <did id="c_5bad04ad5e918">
+                        <container type="box-folder" id="c_5bad04ad5e9c4">20.9</container>
+                        <unittitle id="c_5bad04ad5ea6f">Printing plate of Nichols School football team photo, 
+				  <unitdate>1893</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04ad5eb1b">
+                <did id="c_5bad04ad5ebc6">
+                    <unitid id="Series11">XI.</unitid>
+                    <unittitle id="c_5bad04ad5ed21">Grover Cleveland Papers and Notes, 
+				<unitdate normal="1881/1940" type="inclusive" id="c_5bad04ad5edcc">1881-1941</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04ad5ee7b">
+                    <did id="c_5bad04ad5ef26">
+                        <container type="box-folder" id="c_5bad04ad5efd2">20.10</container>
+                        <unittitle id="c_5bad04ad5f082">Published articles about Cleveland, 
+				  <unitdate>1909-1940</unitdate>, 
+				  <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5f131">
+                    <did id="c_5bad04ad5f1dc">
+                        <container type="box-folder" id="c_5bad04ad5f288">20.11</container>
+                        <unittitle id="c_5bad04ad5f334"> Notes, 
+				  <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5f3e3">
+                    <did id="c_5bad04ad5f490">
+                        <container type="box-folder" id="c_5bad04ad5f53c">20.12</container>
+                        <unittitle id="c_5bad04ad5f5e7">Index of newspaper references to Cleveland, 
+				  <unitdate>1881-1887</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad5f698">
+                    <did id="c_5bad04ad5f744">
+                        <container type="box-folder" id="c_5bad04ad5f7f5">20.13</container>
+                        <unittitle id="c_5bad04ad5f8a1">Photos, 
+				  <unitdate>1891-1892</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent id="c_5bad04ad5f94d">
+                        <p id="c_5bad04ad5f9f7">Includes photos of Allen house, Black Rock</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="c_5bad04ad5faa3">
+                    <did id="c_5bad04ad5fb4e">
+                        <container type="box-folder" id="c_5bad04ad5fbf9">20.14</container>
+                        <unittitle id="c_5bad04ad5fca4">Inaugural ball and reception commemorative placard, 
+				  <unitdate>4 March 1883</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04ad5fd4f">
+                <did id="c_5bad04ad5fdfd">
+                    <unitid id="Series12">XII.</unitid>
+                    <unittitle id="c_5bad04ad5ff57">Albums and Scrapbooks, 
+				<unitdate normal="1883/1963" type="inclusive" id="c_5bad04ad60002">
+				  1883-1963</unitdate>
+                    </unittitle>
+                </did>
+                <scopecontent id="c_5bad04ad600ad">
+                    <p id="c_5bad04ad60158">
+                        <emph render="italic" id="c_5bad04ad60203"> Unless specified in parentheses, the
+				contents of individual albums and scrapbooks are diverse, generally reflecting
+				the entire range of Goodyear's activities during the span of dates indicated
+				for each volume.</emph>
+                    </p>
+                </scopecontent>
+                <c level="file" id="c_5bad04ad602af">
+                    <did id="c_5bad04ad6035a">
+                        <container type="box" id="c_5bad04ad60405"> 20</container>
+                        <container type="volume" id="c_5bad04ad604b0"> 1</container>
+                        <unittitle id="c_5bad04ad6055b">Goodyear family records, 
+				  <unitdate>1684-1910</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad6060b">
+                    <did id="c_5bad04ad606bb">
+                        <container type="box" id="c_5bad04ad60767"> 20</container>
+                        <container type="volume" id="c_5bad04ad60813"> 2</container>
+                        <unittitle id="c_5bad04ad608c2">Goodyear family records (mostly concerning Anson Conger
+				  Goodyear), 
+				  <unitdate>1852-1930 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad6096e">
+                    <did id="c_5bad04ad60a19">
+                        <container type="box" id="c_5bad04ad60ac4"> 20</container>
+                        <container type="volume" id="c_5bad04ad60b6f"> 3</container>
+                        <unittitle id="c_5bad04ad60c1a">Charles W. Goodyear letters, 
+				  <unitdate>1884-1909</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent id="c_5bad04ad60cc6">
+                        <p id="c_5bad04ad60d71">Most from President and Mrs. Grover Cleveland; also includes
+				  invitations and souvenirs</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="c_5bad04ad60e1d">
+                    <did id="c_5bad04ad60ec8">
+                        <container type="box" id="c_5bad04ad60f73"> 21</container>
+                        <container type="volume" id="c_5bad04ad6101e"> 4</container>
+                        <unittitle id="c_5bad04ad610c9">Photo album (Plattsburgh, 
+				  <unitdate>1915</unitdate>; Europe, 
+				  <unitdate>1917-1918</unitdate>)</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad61175">
+                    <did id="c_5bad04ad61220">
+                        <container type="box" id="c_5bad04ad612cf"> 21</container>
+                        <container type="volume" id="c_5bad04ad61379"> 5</container>
+                        <unittitle id="c_5bad04ad61425">Photo album (France, coal mission, Upper Silesia), 
+				  <unitdate>1918</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad614d1">
+                    <did id="c_5bad04ad6157c">
+                        <container type="box" id="c_5bad04ad6162d"> 21</container>
+                        <container type="volume" id="c_5bad04ad616d8"> 6</container>
+                        <unittitle id="c_5bad04ad61783">Scrapbook, 
+				  <unitdate>1918-1939</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent id="c_5bad04ad61830">
+                        <p id="c_5bad04ad618dc">"all prepared under the direction of my mother"</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="c_5bad04ad61987">
+                    <did id="c_5bad04ad61a33">
+                        <container type="box" id="c_5bad04ad61ade"> 21</container>
+                        <container type="volume" id="c_5bad04ad61b89"> 7</container>
+                        <unittitle id="c_5bad04ad61c34">Scrapbook, 
+				  <unitdate>1920-1943</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad61ce2">
+                    <did id="c_5bad04ad61d8e">
+                        <container type="box" id="c_5bad04ad61e39"> 21</container>
+                        <container type="volume" id="c_5bad04ad61eeb"> 8</container>
+                        <unittitle id="c_5bad04ad61f96">Scrapbook, 
+				  <unitdate>1920-1951</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad62041">
+                    <did id="c_5bad04ad620ec">
+                        <container type="box" id="c_5bad04ad6219d"> 21</container>
+                        <container type="volume" id="c_5bad04ad62248"> 9</container>
+                        <unittitle id="c_5bad04ad622f3">Scrapbook, 
+				  <unitdate>1935-1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad6239e">
+                    <did id="c_5bad04ad6244a">
+                        <container type="box" id="c_5bad04ad624f5"> 21</container>
+                        <container type="volume" id="c_5bad04ad625a0"> 10</container>
+                        <unittitle id="c_5bad04ad6264b">Scrapbook (military - 17th Reg. NYG), 
+				  <unitdate>1940-1948</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad626fa">
+                    <did id="c_5bad04ad627a7">
+                        <container type="box" id="c_5bad04ad62852"> 21</container>
+                        <container type="volume" id="c_5bad04ad628fd"> 11</container>
+                        <unittitle id="c_5bad04ad629a8">Scrapbook (Museum of Modern Art; early photos of house
+				  at 30 Wheatley Rd., Old Westbury; New York Guard letters), 
+				  <unitdate>1939-1946 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad62a53">
+                    <did id="c_5bad04ad62afe">
+                        <container type="box" id="c_5bad04ad62ba9"> 22</container>
+                        <container type="volume" id="c_5bad04ad62c54"> 12</container>
+                        <unittitle id="c_5bad04ad62cff">Photo album (trip to Pacific as Red Cross liaison), 
+				  <unitdate>1944-1945</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad62daa">
+                    <did id="c_5bad04ad62e55">
+                        <container type="box" id="c_5bad04ad62f01"> 22</container>
+                        <container type="volume" id="c_5bad04ad62fab"> 13</container>
+                        <unittitle id="c_5bad04ad63056">Photo album (trip to Pacific as Red Cross liaison), 
+				  <unitdate>1944-1945</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad63105">
+                    <did id="c_5bad04ad631b0">
+                        <container type="box" id="c_5bad04ad6325c"> 23</container>
+                        <container type="volume" id="c_5bad04ad63307"> 14</container>
+                        <unittitle id="c_5bad04ad633b1"> Scrapbook, 
+				  <unitdate>1944-1950</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad6345d">
+                    <did id="c_5bad04ad6350c">
+                        <container type="box" id="c_5bad04ad6359b"> 23</container>
+                        <container type="volume" id="c_5bad04ad6364f"> 15</container>
+                        <unittitle id="c_5bad04ad636fd">Photo album (Germany), 
+				  <unitdate>1947</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad637ab">
+                    <did id="c_5bad04ad63858">
+                        <container type="box" id="c_5bad04ad63904"> 23</container>
+                        <container type="volume" id="c_5bad04ad639b0"> 16</container>
+                        <unittitle id="c_5bad04ad63a76">Scrapbook, 
+				  <unitdate>1950-1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad63b32">
+                    <did id="c_5bad04ad63be0">
+                        <container type="box" id="c_5bad04ad63c8d"> 24</container>
+                        <container type="volume" id="c_5bad04ad63d37"> 17</container>
+                        <unittitle id="c_5bad04ad63de2">Scrapbook, 
+				  <unitdate>1955-1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad63e8e">
+                    <did id="c_5bad04ad63f3a">
+                        <container type="box" id="c_5bad04ad63fe5"> 24</container>
+                        <container type="volume" id="c_5bad04ad64090"> 18</container>
+                        <unittitle id="c_5bad04ad6413b">Scrapbook, 
+				  <unitdate>1957-1963</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04ad641e7">
+                    <did id="c_5bad04ad64292">
+                        <container type="box" id="c_5bad04ad6433e"> 24</container>
+                        <container type="volume" id="c_5bad04ad643e9"> 19</container>
+                        <unittitle id="c_5bad04ad64494">Scrapbook, 
+				  <unitdate>1961</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+        <controlaccess>
+            <head>Search Terms</head>
+            <note>
+                <p>The following terms have been used to index the description of this
+			 collection in the Library's online catalog.</p>
+            </note>
+            <controlaccess>
+                <head>Contributors</head>
+                <persname source="lcnaf" encodinganalog="700">Donovan, William J.
+			 (William Joseph), 1883-1959</persname>
+                <persname source="lcnaf" encodinganalog="700">Roosevelt, Theodore,
+			 1887-1944</persname>
+                <persname source="lcnaf" encodinganalog="700">Wadsworth, James Wolcott,
+			 1877-1952</persname>
+                <persname source="lcnaf" encodinganalog="700">Cleveland, Frances
+			 Folsom, 1864-1947</persname>
+                <persname encodinganalog="700" rules="aacr2">Goodyear, Ella,
+			 1853-1940</persname>
+                <persname source="lcnaf" encodinganalog="700">Hoover, Herbert,
+			 1874-1964</persname>
+                <persname encodinganalog="700" rules="aacr2">Andrews, W.G. (Walter
+			 Gresham), 1889-1949</persname>
+                <persname source="lcnaf" encodinganalog="700">Harmon, Ernest Nason,
+			 1894-1979</persname>
+                <corpname source="lcnaf" encodinganalog="710">New Orleans Great
+			 Northern Railroad Company</corpname>
+                <corpname source="lcnaf" encodinganalog="710">Gulf, Mobile and Northern
+			 Railroad Company</corpname>
+                <corpname encodinganalog="710" rules="aacr2">Great Southern Lumber
+			 Company</corpname>
+                <corpname source="lcnaf" encodinganalog="710">Norwich
+			 University</corpname>
+                <corpname encodinganalog="710" rules="aacr2">Gaylord Container
+			 Corporation</corpname>
+                <corpname source="lcnaf" encodinganalog="710">Buffalo &amp; Susquehanna
+			 Railroad Company</corpname>
+                <corpname source="lcnaf" encodinganalog="710">Buffalo History
+			 Museum</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Subject Terms</head>
+                <persname encodinganalog="600" role="subject" rules="aacr2">Goodyear,
+			 Frank H. (Frank Henry), 1849-1907</persname>
+                <persname encodinganalog="600" role="subject" rules="aacr2">Milburn,
+			 George (John George), 1880-1932</persname>
+                <persname source="lcnaf" encodinganalog="600" role="subject">Cleveland,
+			 Grover, 1837-1908</persname>
+                <persname encodinganalog="600" role="subject" rules="aacr2">Conger,
+			 A.G. (Anson Griffith), 1812-1880</persname>
+                <persname encodinganalog="600" role="subject" rules="aacr2">Goodyear,
+			 Charles W. (Charles Waterhouse), 1846-1911</persname>
+                <famname source="lcnaf" encodinganalog="600" role="subject">Goodyear
+			 family</famname>
+                <persname source="lcnaf" encodinganalog="600" role="subject">Cornell,
+			 Katharine, 1893-1974</persname>
+                <persname source="lcnaf" encodinganalog="600" role="subject">Wood,
+			 Leonard, 1860-1927</persname>
+                <corpname source="lcnaf" encodinganalog="610" role="subject">Museum of
+			 Modern Art (New York, N.Y.)</corpname>
+                <corpname source="lcnaf" encodinganalog="610" role="subject">Albright
+			 Art Gallery (Buffalo, N.Y.)</corpname>
+                <subject source="lcsh" encodinganalog="650">World War,
+			 1914-1918</subject>
+                <subject source="lcsh" encodinganalog="650">World War,
+			 1939-1945</subject>
+                <subject source="lcsh" encodinganalog="650">Art--Collectors and
+			 collecting--New York (State)</subject>
+                <corpname encodinganalog="610" rules="aacr2" role="subject">New York
+			 (State). National Guard. Regiment, 17th</corpname>
+                <corpname encodinganalog="610" source="lcnaf" role="subject">New York
+			 (State). National Guard. Regiment, 71st</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Genre Terms</head>
+                <genreform source="aat" encodinganalog="655">Reminiscences</genreform>
+                <genreform source="aat" encodinganalog="655">Photographs</genreform>
+                <genreform source="aat" encodinganalog="655">Scrapbooks</genreform>
+            </controlaccess>
+        </controlaccess>
+    </archdesc>
+</ead>

@@ -1,0 +1,509 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" relatedencoding="DC" scriptencoding="iso15924">
+        <eadid countrycode="us" publicid="-//Buffalo History Museum::Research Library//TEXT (US::NBuHi::B75-3::Duane Lyman and Associates, Architects Records)//EN" url="bechs-B75-3.xml" mainagencycode="NBuHi" encodinganalog="identifier">nbuhi_tbhm_b75_3</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Finding Aid for the Duane Lyman and
+ Associates, Architects, Records, 
+ <date type="inclusive" normal="1923/1975" encodinganalog="date">1923-1975</date>
+                    <date type="bulk" normal="1952/1963" encodinganalog="date"> (bulk
+ 1952-1963)</date>
+                </titleproper>
+                <titleproper altrender="nodisplay" type="filing">Duane Lyman and
+ Associates, Architects, Records</titleproper>
+                <author encodinganalog="contributor">Finding aid prepared by Buffalo History Museum staff.</author>
+                <sponsor encodinganalog="contributor">Funding for the initial encoding
+ was provided through the Regional Bibliographic Databases Program administered
+ by the Western New York Library Resources Council.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Buffalo History Museum. Research Library</publisher>
+                <address>
+                    <addressline>1 Museum Court</addressline>
+                    <addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: library@buffalohistory.org</addressline>
+                    <addressline>URI: http://www.buffalohistory.org</addressline>
+                </address>
+                <p>&#xA9; 
+ <date encodinganalog="date" type="publication">2010</date>. Buffalo History Museum. All rights reserved.</p>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid encoded in EAD by Isidor Justeson, April
+ 2008.</creation>
+            <langusage altrender="nodisplay">Finding aid written in
+ <language langcode="eng" encodinganalog="language">English</language>.
+ </langusage>
+            <descrules>Finding aid prepared using local best practices. </descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+        <did>
+            <head>Collection Overview</head>
+            <unittitle encodinganalog="245$a" label="Title">Duane Lyman and
+ Associates, Architects, Records, 
+ <unitdate type="inclusive" encodinganalog="245$f" normal="1923/1975" datechar="creation">1923-1975</unitdate>
+            </unittitle>
+            <unitdate type="inclusive" encodinganalog="245$g" normal="1952/1963" datechar="creation">1952 - 1963</unitdate>
+            <unitid encodinganalog="099" label="Collection Number" repositorycode="NBuHi" countrycode="US">Mss. B75-3</unitid>
+            <origination label="Creator">
+                <corpname encodinganalog="110" role="creator" rules="aacr2">Duane Lyman
+ and Associates, Architects</corpname>
+            </origination>
+            <physdesc label="Extent">
+                <extent unit="box" encodinganalog="300">3
+ boxes</extent>
+                <extent unit="linear foot" encodinganalog="300">(1.5 linear
+ feet)</extent>
+            </physdesc>
+            <langmaterial label="Language of Material" encodinganalog="546">Collection material in
+ <language encodinganalog="041" langcode="eng">English</language>.</langmaterial>
+            
+            <abstract encodinganalog="520" label="Abstract">Chiefly reflects the
+ schools and other public buildings, office buildings, and church structures
+ which were designed by Duane Lyman for clients in Buffalo and Western New York
+ State.</abstract>
+        <repository>
+								<corpname>The Buffalo History Museum</corpname>
+							<address>
+								<addressline>1 Museum Court</addressline>
+							<addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: library@buffalohistory.org</addressline>
+                    <addressline>URI: http://www.buffalohistory.org</addressline>
+                </address>
+            </repository>
+        </did>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <prefercite encodinganalog="524">
+                <head>Preferred Citation</head>
+                <p>[Description and dates], Box/folder number, B75-3, Duane Lyman and
+ Associates, Architects, Records, 1923-1975 (bulk 1952-1963), Research Library,
+ Buffalo History Museum.</p>
+            </prefercite>
+            <accessrestrict encodinganalog="506">
+                <head>Terms of Access</head>
+                <p>Duane Lyman and Associates, Architects, Records, 1923-1975 (bulk
+ 1952-1963), are open for research.</p>
+            </accessrestrict>
+            <userestrict encodinganalog="540">
+                <head>Copyright</head>
+                <p>Copyright of papers in the collection may be held by their authors,
+ or the authors' heirs or assigns. Researchers must obtain the written
+ permission of the holder(s) of copyright and the Buffalo History Museum before publishing quotations from materials in the
+ collection.</p>
+            </userestrict>
+        </descgrp>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <acqinfo encodinganalog="541">
+                <head>Acquisition Information</head>
+                <p>Guy H. Baldwin, the donor of the collection, was an associate of Mr.
+ Lyman for many years at their offices at 505 Delaware Avenue; after Mr. Lyman's
+ death in 1966 he continued the practice for a short time under the name of
+ Lyman, Baldwin and Castle.</p>
+            </acqinfo>
+            <accruals encodinganalog="584">
+                <head>Accruals and Additions</head>
+                <p>No further accruals are expected to this collection.</p>
+            </accruals>
+            <processinfo encodinganalog="583">
+                <head>Processing Information</head>
+                <p>Collection processed by Research Library staff.</p>
+            </processinfo>
+        </descgrp>
+        <bioghist encodinganalog="545">
+            <head>Biographical Note / Historical Note</head>
+            <p>Duane Lyman was born in Lockport on September 9, 1886. He attended
+ Lafayette High School in Buffalo, graduating in 1904, and then went on to study
+ architecture and mechanical engineering at Yale University's Sheffield
+ Scientific School, where he earned his degree in 1908. He spent several years
+ studying in Europe before returning to Buffalo in 1913 to begin with the
+ architectural firm of Lansing &amp; Bley. After military service in World War
+ I, Mr. Lyman became a partner with Lawrence H. Bley in an association which
+ lasted approximately 20 years and resulted in the completion of many notable
+ buildings, such as the Saturn Club, Buffalo Country Club, and several academic
+ buildings at the State University of New York at Buffalo (Main Street
+ campus).</p>
+        </bioghist>
+        <bioghist encodinganalog="545">
+            <head>Chronology</head>
+            <chronlist>
+                <chronitem>
+                    <date>circa 1919</date>
+                    <event>Lansing and Bley</event>
+                </chronitem>
+                <chronitem>
+                    <date>circa 1919-1939</date>
+                    <event>Bley and Lyman</event>
+                </chronitem>
+                <chronitem>
+                    <date>1939-1967</date>
+                    <event>Duane Lyman and Associates</event>
+                </chronitem>
+                <chronitem>
+                    <date>1967-?</date>
+                    <event>Lyman, Baldwin and Castle</event>
+                </chronitem>
+            </chronlist>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content Note</head>
+            <p>This collection chiefly reflects the schools and other public
+ buildings, office buildings, and church structures which were designed by Duane
+ Lyman for clients in Buffalo and Western New York State. Included are
+ proposals, plans, job descriptions, budget estimates, and photographs.</p>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>Organized into three series: 
+ <list>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series1">I. Proposals and Job Description Booklets,
+ 1950-1963</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series2">II. Photographs</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series3">III. Miscellaneous, 1911-1975.</ref>
+                    </item>
+                </list>
+            </p>
+        </arrangement>
+        <dsc type="combined">
+            <head>Container List</head>
+            <c level="series" id="c_5bad0488bb812">
+                <did id="c_5bad0488bb8c7">
+                    <unitid id="series1">I.</unitid>
+                    <unittitle id="c_5bad0488bba1e">Booklets, 
+ <unitdate normal="1950/1963" type="inclusive" id="c_5bad0488bbac7">1950-1963</unitdate>
+                    </unittitle>
+                </did>
+                <scopecontent id="c_5bad0488bbb70">
+                    <p id="c_5bad0488bbc19">I is arranged chronologically. </p>
+                </scopecontent>
+                <c level="file" id="c_5bad0488bbcc4">
+                    <did id="c_5bad0488bbd7d">
+                        <unittitle id="c_5bad0488bbe27"> Record of present and proposed Junior High, Senior High
+ and Central High School Buildings, 
+ <unitdate>1950-1960</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad0488bbecf">(with duplicate)</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bbf77">
+                    <did id="c_5bad0488bc01f">
+                        <unittitle id="c_5bad0488bc0c6"> Junior High, Senior High and Central School Buildings, 
+ <unitdate>1950-1963</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad0488bc173">(with two duplicates)</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bc21c">
+                    <did id="c_5bad0488bc2c5">
+                        <unittitle id="c_5bad0488bc36c"> Record of Present Elementary Work, 
+ <unitdate>1955-1962</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad0488bc414">
+                <did id="c_5bad0488bc4bc">
+                    <unitid id="series2">II.</unitid>
+                    <unittitle id="c_5bad0488bc610">Proposals 
+ <unitdate normal="1951/1954" type="inclusive" id="c_5bad0488bc6ba">1951-1954</unitdate>,
+ 
+ <unitdate normal="1960" type="inclusive" id="c_5bad0488bc764">1960</unitdate>
+                    </unittitle>
+                </did>
+                <scopecontent id="c_5bad0488bc80e">
+                    <p id="c_5bad0488bc8b7">II is arranged alphabetically. </p>
+                </scopecontent>
+                <c level="file" id="c_5bad0488bc967">
+                    <did id="c_5bad0488bca11">
+                        <unittitle id="c_5bad0488bcabb"> Police Stations for City Police Department, Buffalo,
+ New York. 
+ <unitdate>June 6, 1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bcb64">
+                    <did id="c_5bad0488bcc0e">
+                        <unittitle id="c_5bad0488bccb7"> Watkins Glen Elementary School and Other School
+ Building Data, 
+ <unitdate>October 13, 1952</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad0488bcd61">(with 2 duplicates)</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bce0b">
+                    <did id="c_5bad0488bceb5">
+                        <unittitle id="c_5bad0488bcf5e"> Trumanburg Building Program, 
+ <unitdate>October 27, 1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bd008">
+                    <did id="c_5bad0488bd0b2">
+                        <unittitle id="c_5bad0488bd15c"> Fire Stations for Buffalo Fire Department, 
+ <unitdate>November 10, 1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bd206">
+                    <did id="c_5bad0488bd2b0">
+                        <unittitle id="c_5bad0488bd35a"> The Texas Company, Buffalo, New York, Administrative
+ Office Building, 
+ <unitdate>December 24, 1952</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bd409">
+                    <did id="c_5bad0488bd4b6">
+                        <unittitle id="c_5bad0488bd560"> Elementary School #26 for Benjamin C. Willis,
+ Superintendent of Schools, Board of Education, Buffalo, New York, 
+ <unitdate>1951-1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bd60a">
+                    <did id="c_5bad0488bd6b4">
+                        <unittitle id="c_5bad0488bd75d"> Proposed Cornell Aeronautical Office Building and
+ Laboratory, 
+ <unitdate>March 31, 1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bd807">
+                    <did id="c_5bad0488bd8b1">
+                        <unittitle id="c_5bad0488bd95a"> Police Station Modernization Program, Buffalo, New
+ York, 
+ <unitdate>1952-1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bda04">
+                    <did id="c_5bad0488bdaae">
+                        <unittitle id="c_5bad0488bdb57"> Proposed Senior High School, Canandaigua City School
+ District Canandaigua, New York, 
+ <unitdate>May 10, 1960</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad0488bdc01">
+                <did id="c_5bad0488bdcab">
+                    <unitid id="series3">III.</unitid>
+                    <unittitle id="c_5bad0488bde00">Job Description Booklets 
+ <unitdate normal="1923/1940" type="inclusive" id="c_5bad0488bdeae">1923-1940</unitdate>,
+ 
+ <unitdate normal="1954/1955" type="inclusive" id="c_5bad0488bdf57">1954-1955</unitdate>,
+ 
+ <unitdate normal="1974/1975" type="inclusive" id="c_5bad0488be001">1974-1975</unitdate>
+                    </unittitle>
+                </did>
+                <scopecontent id="c_5bad0488be0ab">
+                    <p id="c_5bad0488be155">III is arranged chronologically. </p>
+                </scopecontent>
+                <c level="file" id="c_5bad0488be200">
+                    <did id="c_5bad0488be2ad">
+                        <unittitle id="c_5bad0488be359"> Parish Hall, Trinity Evangelical Lutheran Church,
+ Wellsville, New York, 
+ <unitdate>August 10, 1953</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488be403">
+                    <did id="c_5bad0488be4af">
+                        <unittitle id="c_5bad0488be55c"> St. Paul's Evangelical Lutheran Church, North
+ Tonawanda, New York, 
+ <unitdate>March 30, 1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488be61d">
+                    <did id="c_5bad0488be6d3">
+                        <unittitle id="c_5bad0488be789"> Westminster Church, 
+ <unitdate>April 13, 1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488be839">
+                    <did id="c_5bad0488be8ea">
+                        <unittitle id="c_5bad0488be995"> Proposed Cornell Aeronautical Office Building and
+ Laboratory, 
+ <unitdate>April 22, 1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bea3f">
+                    <did id="c_5bad0488beae9">
+                        <unittitle id="c_5bad0488beb94"> Saint Matthias Episcopal, East Aurora, New York, 
+ <unitdate>April 22, 1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bec4e">
+                    <did id="c_5bad0488becfb">
+                        <unittitle id="c_5bad0488beda5"> Riverside Baptist Church, Buffalo, New York, 
+ <unitdate>May 14, 1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bee50">
+                    <did id="c_5bad0488bef11">
+                        <unittitle id="c_5bad0488befc5"> Board of Education, Newark, New York, 
+ <unitdate>June 15, 1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bf072">
+                    <did id="c_5bad0488bf11d">
+                        <unittitle id="c_5bad0488bf1c9"> Report to the Citizens Committee, Hammondsport Central
+ School Hammondsport, New York, 
+ <unitdate>October 27, 1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bf274">
+                    <did id="c_5bad0488bf324">
+                        <unittitle id="c_5bad0488bf3d0"> Fire Station Modernization Program, Buffalo, New York, 
+ <unitdate>November 18, 1954</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bf47b">
+                    <did id="c_5bad0488bf526">
+                        <unittitle id="c_5bad0488bf5d0"> Proposed Junior Senior High School, Alden, New York, 
+ <unitdate>January 12, 1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bf67a">
+                    <did id="c_5bad0488bf724">
+                        <unittitle id="c_5bad0488bf7ce"> Lutheran School for Lutheran Education Association of
+ the Tonawandas, 
+ <unitdate>February 15, 1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bf879">
+                    <did id="c_5bad0488bf923">
+                        <unittitle id="c_5bad0488bf9cd"> Macalpine Presbyterian Church, Buffalo, New York, 
+ <unitdate>May 13, 1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bfa77">
+                    <did id="c_5bad0488bfb21">
+                        <unittitle id="c_5bad0488bfbcb"> Salem Evangelical and Reformed Church, Tonawanda, New
+ York, 
+ <unitdate>October 14, 1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bfc75">
+                    <did id="c_5bad0488bfd23">
+                        <unittitle id="c_5bad0488bfdcd"> Saint Matthews Evangelical Lutheran Church, Tonawanda,
+ New York, 
+ <unitdate>November 9, 1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488bfe77">
+                    <did id="c_5bad0488bff21">
+                        <unittitle id="c_5bad0488bffcb"> Report on Modernization Program for the Home for the
+ Friendless, 1500 Main Street Buffalo, New York, 
+ <unitdate>December 5, 1955</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488c0075">
+                    <did id="c_5bad0488c0120">
+                        <unittitle id="c_5bad0488c01ca"> Immanuel Lutheran Church, Tonawanda, New York, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488c0275">
+                    <did id="c_5bad0488c031f">
+                        <unittitle id="c_5bad0488c03cb"> Fire Station Modernization Program, Buffalo, New York, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad0488c0475">(with duplicate)</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488c0520">
+                    <did id="c_5bad0488c05ca">
+                        <unittitle id="c_5bad0488c0674"> State of New York Standard School Plan Type B-1, One
+ Story Junior High School 800 Expandable to 1000 Students, Report, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad0488c0721">(with duplicate)</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488c07cb">
+                    <did id="c_5bad0488c0878">
+                        <unittitle id="c_5bad0488c0925"> Alphabetical Job Listings, Guy H. Baldwin, Architect, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad0488c09cf">(70 pages)</physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488c0a7a">
+                    <did id="c_5bad0488c0b24">
+                        <unittitle id="c_5bad0488c0bce"> Job Cost Record, 
+ <unitdate>circa 1923-1940</unitdate>
+                        </unittitle>
+                        <physdesc id="c_5bad0488c0c78">(oversized, in flat file) </physdesc>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad0488c0d22">
+                    <did id="c_5bad0488c0dcc">
+                        <unittitle id="c_5bad0488c0e7b"> Semi-Annual Schools Cost Report and Statistical Data, 
+ <unitdate>September 1974 to March 1975</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent id="c_5bad0488c0f25">
+                        <p id="c_5bad0488c0fcf">Includes Summary of Costs per Square Foot, 
+ <unitdate>March 1975, 3 pages</unitdate>
+                        </p>
+                    </scopecontent>
+                </c>
+            </c>
+        </dsc>
+        <controlaccess>
+            <head>Search Terms</head>
+            <note>
+                <p>The following terms have been used to index the description of this
+ collection in the Library's online catalog.</p>
+            </note>
+            <controlaccess>
+                <head>Contributors</head>
+                <persname encodinganalog="700" rules="aacr2">Lyman, Duane S.,
+ 1886-1966</persname>
+                <corpname source="lcnaf" encodinganalog="710">Buffalo History Museum </corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Subject Terms</head>
+                <persname encodinganalog="600" source="lcnaf" role="subject">Lyman,
+ Duane S., 1886-1966--Archives</persname>
+                <subject source="lcsh" encodinganalog="650">Architects--New York
+ (State)--Buffalo</subject>
+                <subject source="lcsh" encodinganalog="650">Architecture--New York
+ (State)--Buffalo</subject>
+                <corpname source="lcnaf" encodinganalog="610" role="subject">Buffalo History Museum--Archives</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Genre Terms</head>
+                <genreform source="aat" encodinganalog="655">Photographs</genreform>
+            </controlaccess>
+        </controlaccess>
+    </archdesc>
+</ead>

@@ -1,0 +1,551 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" relatedencoding="DC" scriptencoding="iso15924">
+        <eadid countrycode="us" publicid="-//Buffalo History Museum::Research Library//TEXT (US::NBuHi::B80-3::James, Meadows and Howard Architectural Records: Airport Renovation and County Stadium Projects)//EN" mainagencycode="NBuHi" encodinganalog="identifier">nbuhi_tbhm_b80_3</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Finding Aid for the James, Meadows
+ and Howard, Architectural Records: Airport Renovation and County Stadium
+ Projects, 
+ <date type="inclusive" normal="1963/1978" encodinganalog="date">1963-1978</date>
+                    <date type="bulk" normal="1968/1974" encodinganalog="date">(bulk
+ 1968-1974)</date>
+                </titleproper>
+                <titleproper altrender="nodisplay" type="filing">James, Meadows and
+ Howard, Architectural Records: Airport Renovation and County Stadium
+ Projects</titleproper>
+                <author encodinganalog="contributor">Finding aid prepared by Buffalo History Museum staff.</author>
+                <sponsor encodinganalog="contributor">Funding for the initial encoding
+ was provided through the Regional Bibliographic Databases Program administered
+ by the Western New York Library Resources Council.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Buffalo History Museum. Research Library</publisher>
+                <address>
+                    <addressline>1 Museum Court</addressline>
+                    <addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: library@buffalohistory.org</addressline>
+                    <addressline>URI: http://www.buffalohistory.org</addressline>
+                </address>
+                <p>&#xA9; 
+ <date encodinganalog="date" type="publication">2010</date>. Buffalo History Museum. All rights reserved.</p>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid encoded in EAD by Kuniko Simon, July
+ 2008.</creation>
+            <langusage altrender="nodisplay">Finding aid written in
+ <language langcode="eng" encodinganalog="language">English</language>.
+ </langusage>
+            <descrules>Finding aid prepared using local best practices. </descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+        <did>
+            <head>Collection Overview</head>
+            <unittitle encodinganalog="245$a" label="Title"> James, Meadows and Howard, Records: Airport Renovation and County Stadium Projects</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" normal="1963/1978" datechar="creation">1963 - 1978</unitdate>
+            <date type="bulk" normal="1968/1974" encodinganalog="245$g">(bulk
+ 1968-1974)</date>
+            <unitid encodinganalog="099" label="Collection Number" repositorycode="NBuHi" countrycode="US">Mss. B80-3</unitid>
+            <origination label="Creator">
+                <corpname encodinganalog="110" role="creator" rules="aacr2">James,
+ Meadows and Howard</corpname>
+            </origination>
+            <physdesc label="Extent">
+                <extent unit="box" encodinganalog="300">5
+ boxes</extent>
+                <extent unit="linear foot" encodinganalog="300">(2.5 linear
+ feet)</extent>
+            </physdesc>
+            <langmaterial label="Language of Material" encodinganalog="546">Collection material in
+ <language encodinganalog="041" langcode="eng">English</language>.
+ </langmaterial>
+            
+            <abstract encodinganalog="520" label="Abstract"> Correspondence,
+ specifications, notes, contracts and architectural plans for the renovation of
+ the East Terminal building of the Greater Buffalo International Airport and for
+ the construction of Erie County Stadium (Rich Stadium) in Orchard Park,
+ N.Y.</abstract>
+        <repository>
+								<corpname>The Buffalo History Museum</corpname>
+							<address>
+								<addressline>1 Museum Court</addressline>
+							<addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: library@buffalohistory.org</addressline>
+                    <addressline>URI: http://www.buffalohistory.org</addressline>
+                </address>
+            </repository>
+        </did>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <prefercite encodinganalog="524">
+                <head>Preferred Citation</head>
+                <p>[Description and dates], Box/folder number, Mss. B80-3, James,
+ Meadows &amp; Howard, Airport Renovation and County Stadium Project Records,
+ 1963-1978 (bulk 1968-1974), Research Library, Buffalo History Museum.</p>
+            </prefercite>
+            <accessrestrict encodinganalog="506">
+                <head>Terms of Access</head>
+                <p>James, Meadows and Howard, Records: Airport Renovation and County
+ Stadium Projects, 1963-1978 are open for research.</p>
+            </accessrestrict>
+            <userestrict encodinganalog="540">
+                <head>Copyright</head>
+                <p>Copyright of papers in the collection may be held by their authors,
+ or the authors' heirs or assigns. Researchers must obtain the written
+ permission of the holder(s) of copyright and the Buffalo History Museum before publishing quotations from materials in the
+ collection.</p>
+            </userestrict>
+        </descgrp>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <acqinfo encodinganalog="541">
+                <head>Acquisition Information</head>
+                <p> Meadows, Rufus W.; gift; 1980/01/17; 80-22 </p>
+            </acqinfo>
+            <accruals encodinganalog="584">
+                <head>Accruals and Additions</head>
+                <p>No further accruals are expected to this collection.</p>
+            </accruals>
+            <processinfo encodinganalog="583">
+                <head>Processing Information</head>
+                <p>Collection reprocessed by Peter Nelson, 19 February 1992.</p>
+            </processinfo>
+        </descgrp>
+        <bioghist encodinganalog="545">
+            <head>Historical Note</head>
+            <p>James, Meadows, &amp; Howard worked as Associate Architects for both
+ projects documented in this collection. In the airport project, James, Meadows
+ &amp; Howard was an associate of Howard, Needles, Tammen &amp; Bergendoff; in
+ the stadium project, it was an associate of Finch-Heery. </p>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content Note</head>
+            <p>Correspondence, specifications, notes, contracts and architectural
+ plans for the renovation of the East Terminal building of the Greater Buffalo
+ International Airport and for the construction of Erie County Stadium (Rich
+ Stadium) in Orchard Park, N.Y.</p>
+            <p>See also C77-5.</p>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>This collection is arranged in two series: 
+ <list>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series1">I. Greater Buffalo International Airport, East Terminal
+ Renovation Project</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series2">II. Erie County Stadium (Rich Stadium) Project, Orchard Park,
+ New York.</ref>
+                    </item>
+                </list>
+            </p>
+        </arrangement>
+        <dsc type="combined">
+            <head>Container List</head>
+            <c level="series" id="c_5bad049b34dc9">
+                <did id="c_5bad049b34e7c">
+                    <unitid id="series1">I.</unitid>
+                    <unittitle id="c_5bad049b3500b">Greater Buffalo International Airport, East Terminal
+ Renovation Project, 
+ <unitdate type="inclusive" normal="1968/1971" id="c_5bad049b350b5">1968-1971</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad049b3515e">
+                    <did id="c_5bad049b35206">
+                        <container type="box-folder" id="c_5bad049b352ad">1.1</container>
+                        <unittitle id="c_5bad049b35355">East Terminal description and specifications, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b353fc">
+                    <did id="c_5bad049b354a3">
+                        <container type="box-folder" id="c_5bad049b3554a">1.2</container>
+                        <unittitle id="c_5bad049b355f5">Field measures, surveys, notes, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b356a4">
+                    <did id="c_5bad049b3574c">
+                        <container type="box-folder" id="c_5bad049b357f2">1.3</container>
+                        <unittitle id="c_5bad049b358ad">Preliminary estimates, architectural, 
+ <unitdate>1968-1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b35956">
+                    <did id="c_5bad049b359fe">
+                        <container type="box-folder" id="c_5bad049b35aa4">1.4</container>
+                        <unittitle id="c_5bad049b35b4b">Contract, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b35bf2">
+                    <did id="c_5bad049b35c99">
+                        <container type="box-folder" id="c_5bad049b35d3f">1.5</container>
+                        <unittitle id="c_5bad049b35de6">Miscellaneous file, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b35e8c">
+                    <did id="c_5bad049b35f32">
+                        <container type="box-folder" id="c_5bad049b35fd9">1.6</container>
+                        <unittitle id="c_5bad049b3607f">McKaig, Rupley &amp; Bahler, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b3612d">
+                    <did id="c_5bad049b361d3">
+                        <container type="box-folder" id="c_5bad049b36283">1.7</container>
+                        <unittitle id="c_5bad049b36328">Specifications-N.F.T.A, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b363cd">
+                    <did id="c_5bad049b36474">
+                        <container type="box-folder" id="c_5bad049b3651a">1.8</container>
+                        <unittitle id="c_5bad049b365cd">Requests for payment,, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b36673">
+                    <did id="c_5bad049b36718">
+                        <container type="box-folder" id="c_5bad049b367ca">1.9</container>
+                        <unittitle id="c_5bad049b36886">Contract-I, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b36931">
+                    <did id="c_5bad049b369dd">
+                        <container type="box-folder" id="c_5bad049b36a85">1.10</container>
+                        <unittitle id="c_5bad049b36b2b">Contract-II, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b36bd3">
+                    <did id="c_5bad049b36c7a">
+                        <container type="box-folder" id="c_5bad049b36d22">1.11</container>
+                        <unittitle id="c_5bad049b36dce">Contract: James, Meadows &amp; Howard, 
+ <unitdate>1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b36e96">
+                    <did id="c_5bad049b36f3e">
+                        <container type="box-folder" id="c_5bad049b36ff8">2.1</container>
+                        <unittitle id="c_5bad049b370be">John W. Cowper Company, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b37185">
+                    <did id="c_5bad049b37238">
+                        <container type="box-folder" id="c_5bad049b372f2">2.2</container>
+                        <unittitle id="c_5bad049b373af">Wilson, Klaes, Brucker and Worden, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b3746e">
+                    <did id="c_5bad049b3752b">
+                        <container type="box-folder" id="c_5bad049b375eb">2.3</container>
+                        <unittitle id="c_5bad049b376a9">Wilson, Klaes, Bruker Associates, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b37751">
+                    <did id="c_5bad049b3780a">
+                        <container type="box-folder" id="c_5bad049b378c7">2.4</container>
+                        <unittitle id="c_5bad049b37982">Conveyor details, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b37a2e">
+                    <did id="c_5bad049b37ad4">
+                        <container type="box-folder" id="c_5bad049b37b97">2.5</container>
+                        <unittitle id="c_5bad049b37c4b">Estimating information, 
+ <unitdate>Spring 1971</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b37d15">
+                    <did id="c_5bad049b37dc1">
+                        <container type="box-folder" id="c_5bad049b37e6b">2.6</container>
+                        <unittitle id="c_5bad049b37f14">Howard, Needles, Tammen and Bergendoff, 
+ <unitdate>1970</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad049b37fbf">
+                <did id="c_5bad049b3806b">
+                    <unitid id="series2">II. </unitid>
+                    <unittitle id="c_5bad049b381d6">Erie County Stadium (Rich Stadium) Project, Orchard Park,
+ New York, 
+ <unitdate type="bulk" normal="1972/1974" id="c_5bad049b3827e">1972-1974</unitdate>,
+ undated</unittitle>
+                </did>
+                <scopecontent id="c_5bad049b3833c">
+                    <p id="c_5bad049b383f6">See also C77-5 addition.</p>
+                </scopecontent>
+                <c level="file" id="c_5bad049b384a1">
+                    <did id="c_5bad049b38550">
+                        <container type="box-folder" id="c_5bad049b38607">2.7</container>
+                        <unittitle id="c_5bad049b386b6">Stadium Ticket and Seating Information, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b38775">
+                    <did id="c_5bad049b3883e">
+                        <container type="box-folder" id="c_5bad049b388f4">2.8</container>
+                        <unittitle id="c_5bad049b389a0">Stadium Sketch Tracings, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b38a4c">
+                    <did id="c_5bad049b38af6">
+                        <container type="box-folder" id="c_5bad049b38ba0">2.9</container>
+                        <unittitle id="c_5bad049b38c4a">David M. Berg, Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b38cf4">
+                    <did id="c_5bad049b38d9e">
+                        <container type="box-folder" id="c_5bad049b38e47">2.10</container>
+                        <unittitle id="c_5bad049b38ef0">Site Work (plans), 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b38f9a">
+                    <did id="c_5bad049b39044">
+                        <container type="box-folder" id="c_5bad049b390f4">3.1</container>
+                        <unittitle id="c_5bad049b3919e">Stadium Leaks, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b39249">
+                    <did id="c_5bad049b392f2">
+                        <container type="box-folder" id="c_5bad049b3939c">3.2</container>
+                        <unittitle id="c_5bad049b39445">Preliminary Investigations, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b394ef">
+                    <did id="c_5bad049b395ab">
+                        <container type="box-folder" id="c_5bad049b39655">3.4</container>
+                        <unittitle id="c_5bad049b396fe">Empire Soils Investigations, Inc.</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b397ab">
+                    <did id="c_5bad049b39855">
+                        <container type="box-folder" id="c_5bad049b398ff">3.5</container>
+                        <unittitle id="c_5bad049b399a8">Agreements for Joint Venture, Heery and Heery, Finch
+ Alexander Barnes Rothschild and Paschal, and James Meadows and Howard, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b39a52">
+                    <did id="c_5bad049b39b0a">
+                        <container type="box-folder" id="c_5bad049b39bbf">3.6</container>
+                        <unittitle id="c_5bad049b39c68">Expansion Joint, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b39d12">
+                    <did id="c_5bad049b39dba">
+                        <container type="box-folder" id="c_5bad049b39e63">3.7</container>
+                        <unittitle id="c_5bad049b39f0c">Buffalo Bills/Robert Lusting, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b39fb5">
+                    <did id="c_5bad049b3a05e">
+                        <container type="box-folder" id="c_5bad049b3a107">3.8</container>
+                        <unittitle id="c_5bad049b3a1af">Blakeley-Daniels, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b3a259">
+                    <did id="c_5bad049b3a302">
+                        <container type="box-folder" id="c_5bad049b3a3ab">3.9</container>
+                        <unittitle id="c_5bad049b3a454">Erie County Department of Public Works, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b3a504">
+                    <did id="c_5bad049b3a5ad">
+                        <container type="box-folder" id="c_5bad049b3a65c">3.10</container>
+                        <unittitle id="c_5bad049b3a70b">John W. Cowper Company I, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b3a7b6">
+                    <did id="c_5bad049b3a85f">
+                        <container type="box-folder" id="c_5bad049b3a908">4.1</container>
+                        <unittitle id="c_5bad049b3a9b1">John W. Cowper Company II, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b3aa6c">
+                    <did id="c_5bad049b3ab2c">
+                        <container type="box-folder" id="c_5bad049b3abeb">4.2</container>
+                        <unittitle id="c_5bad049b3aca7">Job Meetings, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b3ad4f">
+                    <did id="c_5bad049b3adf7">
+                        <container type="box-folder" id="c_5bad049b3ae9f">4.3</container>
+                        <unittitle id="c_5bad049b3af4a">General Correspondence, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b3b00d">
+                    <did id="c_5bad049b3b0d2">
+                        <container type="box-folder" id="c_5bad049b3b188">4.4</container>
+                        <unittitle id="c_5bad049b3b230">Wheelchair Access Plans, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b3b2da">
+                    <did id="c_5bad049b3b396">
+                        <container type="box" id="c_5bad049b3b456">4</container>
+                        <container type="volume" id="c_5bad049b3b513">1</container>
+                        <unittitle id="c_5bad049b3b5bb">Bid Documents for Erie County Stadium, Concession for
+ Vending Foods, Beverages and Tobacco, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b3b662">
+                    <did id="c_5bad049b3b70a">
+                        <container type="box" id="c_5bad049b3b7b7">4</container>
+                        <container type="volume" id="c_5bad049b3b86a">2</container>
+                        <unittitle id="c_5bad049b3b910">Buffalo Bills Facilities, Erie County Stadium, Kivett
+ and Myers, Architects and Planners, 
+ <unitdate>October 1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b3b9c7">
+                    <did id="c_5bad049b3ba82">
+                        <container type="box" id="c_5bad049b3bb3c">4</container>
+                        <container type="volume" id="c_5bad049b3bbe8">3</container>
+                        <unittitle id="c_5bad049b3bc99">Revision of Volume 2, 
+ <unitdate>December 1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b3bd46">
+                    <did id="c_5bad049b3bdfd">
+                        <container type="box" id="c_5bad049b3beb9">4</container>
+                        <container type="volume" id="c_5bad049b3bf73">4</container>
+                        <unittitle id="c_5bad049b3c03d">Specifications for Erie County Stadium, Finch-Heery and
+ James, Meadows and Howard, 
+ <unitdate>February 1972</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b3c0ff">
+                    <did id="c_5bad049b3c1ba">
+                        <container type="box" id="c_5bad049b3c264">5</container>
+                        <container type="volume" id="c_5bad049b3c30e">1</container>
+                        <unittitle id="c_5bad049b3c3b7">Stadium Originals, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b3c46f">
+                    <did id="c_5bad049b3c52a">
+                        <container type="box" id="c_5bad049b3c5f2">5</container>
+                        <container type="volume" id="c_5bad049b3c6b2">2</container>
+                        <unittitle id="c_5bad049b3c75f">Stadium Addendum, Office Copy, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b3c808">
+                    <did id="c_5bad049b3c8b0">
+                        <container type="box" id="c_5bad049b3c96b">1-4</container>
+                        <container type="volume" id="c_5bad049b3ca20">1</container>
+                        <unittitle id="c_5bad049b3cad5">Engineer's Project Diary/Erie County Stadium Project, 
+ <unitdate>March 29, 1972-November 20, 1973</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad049b3cb7e">
+                    <did id="c_5bad049b3cc28">
+                        <container type="box" id="c_5bad049b3ccd1">1-4</container>
+                        <container type="volume" id="c_5bad049b3cd85">2</container>
+                        <unittitle id="c_5bad049b3ce2f">Engineer's Project Diary/Erie County Stadium Project, 
+ <unitdate>September 15, 1972-April 26,
+ 1974</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+        <controlaccess>
+            <head>Search Terms</head>
+            <note>
+                <p>The following terms have been used to index the description of this
+ collection in the Library's online catalog.</p>
+            </note>
+            <controlaccess>
+                <head>Contributors</head>
+                <corpname source="lcnaf" encodinganalog="710">Buffalo History Museum</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Subject Terms</head>
+                <corpname encodinganalog="610" rules="aacr" role="subject">Finch-Heery
+ (Firm)</corpname>
+                <corpname source="lcnaf" encodinganalog="610" role="subject">Greater
+ Buffalo International Airport</corpname>
+                <corpname rules="aacr2" encodinganalog="610" role="subject">Rich
+ Stadium (Orchard Park, N.Y.)</corpname>
+                <subject source="lcsh" encodinganalog="650">Stadiums--New York
+ (State)--Erie County</subject>
+                <subject source="lcsh" encodinganalog="650">Architects--New York
+ (State)--Buffalo</subject>
+                <corpname encodinganalog="610" source="lcnaf" role="subject">Howard,
+ Needles, Tammen &amp; Bergendoff </corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Genre Terms</head>
+                <genreform source="aat" encodinganalog="655">Architectural drawings
+ (visual works)</genreform>
+            </controlaccess>
+        </controlaccess>
+    </archdesc>
+</ead>

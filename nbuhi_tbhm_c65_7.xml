@@ -1,0 +1,1093 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" relatedencoding="DC" scriptencoding="iso15924">
+        <eadid countrycode="us" publicid="-//Buffalo History Museum::Research Library//TEXT (US::NBuHi::C65-7::Pan-American Exposition Company Records)//EN" mainagencycode="NBuHi" encodinganalog="identifier">nbuhi_tbhm_c65_7</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Finding Aid for the Pan-American
+ Exposition Company Records, 
+ <date type="inclusive" normal="1899/1908" encodinganalog="date">1899-1908</date>
+                    <date type="bulk" normal="1899/1902" encodinganalog="date">(bulk
+ 1899-1902)</date>
+                </titleproper>
+                <titleproper altrender="nodisplay" type="filing">Pan-American
+ Exposition Company Records</titleproper>
+                <author encodinganalog="contributor">Finding aid prepared by Patricia
+ M. Virgil.</author>
+                <sponsor encodinganalog="contributor">Funding for the initial encoding
+ was provided through the Regional Bibliographic Databases Program administered
+ by the Western New York Library Resources Council.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Buffalo History Museum. Research Library</publisher>
+                <address>
+                    <addressline>1 Museum Court</addressline>
+                    <addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: library@buffalohistory.org</addressline>
+                    <addressline>URI: http://www.buffalohistory.org</addressline>
+                </address>
+                <p>&#xA9; 
+ <date encodinganalog="date" type="publication">2010</date>. Buffalo History Museum. All rights reserved.</p>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid encoded in EAD by Kuniko Simon, March
+ 2008.</creation>
+            <langusage altrender="nodisplay">Finding aid written in
+ <language langcode="eng" encodinganalog="language">English</language>.
+ </langusage>
+            <descrules>Finding aid prepared using local best practices. </descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+        <did>
+            <head>Collection Overview</head>
+            <unittitle encodinganalog="245$a" label="Title">Pan-American Exposition Company Records</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" normal="1899/1908">1899 - 1908</unitdate>
+            <unitdate type="bulk" normal="1899/1902" encodinganalog="245$g">1899 - 1902</unitdate>
+            <unitid encodinganalog="099" label="Collection Number" repositorycode="NBuHi" countrycode="US">Mss. C65-7</unitid>
+            <origination label="Creator">
+                <corpname encodinganalog="110" role="creator" rules="aacr2">Pan-American Exposition Company (Buffalo, N.Y.)</corpname>
+            </origination>
+            <physdesc label="Extent">
+                <extent unit="box" encodinganalog="300">5
+ boxes</extent>, <extent encodinganalog="300" unit="volume">36 oversize
+ volumes</extent>
+                <extent unit="linear foot" encodinganalog="300">(14.5 linear
+ feet)</extent>
+            </physdesc>
+            <langmaterial label="Language of Material" encodinganalog="546">Collection material in
+ <language encodinganalog="041" langcode="eng">English</language>.
+ </langmaterial>
+            <abstract encodinganalog="520" label="Abstract">The records of
+ Pan-American Exposition Company consist primary of the company's activities
+ between 1899 and 1908.</abstract>
+            <repository>
+                <corpname>The Buffalo History Museum</corpname>
+                <address>
+                    <addressline>1 Museum Court</addressline>
+                    <addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: library@buffalohistory.org</addressline>
+                    <addressline>URI: http://www.buffalohistory.org</addressline>
+                </address>
+            </repository>
+        </did>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <prefercite encodinganalog="524">
+                <head>Preferred Citation</head>
+                <p> [Description and dates], Box/folder number, Mss. C65-7,
+ Pan-American Exposition Company Records, 1899-1908, Research Library, Buffalo History Museum.</p>
+            </prefercite>
+            <accessrestrict encodinganalog="506">
+                <head>Terms of Access</head>
+                <p>The Pan-American Exposition Company Records, 1899-1908, are open for
+ research.</p>
+            </accessrestrict>
+            <userestrict encodinganalog="540">
+                <head>Copyright</head>
+                <p>Copyright of papers in the collection may be held by their authors,
+ or the authors' heirs or assigns. Researchers must obtain the written
+ permission of the holder(s) of copyright and the Buffalo History Museum before publishing quotations from materials in the
+ collection.</p>
+            </userestrict>
+        </descgrp>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <acqinfo encodinganalog="541">
+                <head>Acquisition Information</head>
+                <p>Division of Ethnology and Archaeology exhibit records unknown;
+ unknown; 0000/00/00; none</p>
+                <p>U.S. Government Building guard orders and list unknown; unknown;
+ 0000/00/00; none</p>
+                <p>Women's Administration Building visitor register unknown - found in
+ newspaper room; unknown; 0000/00/00; 65-114</p>
+                <p>Director-General's report Fleming, Edwin; gift; 1920/12/00;
+ 28018</p>
+                <p>Board of Director's minutes, v. 1, 2, 4 Fleming, Edwin; gift;
+ 1920/10/00; 27928-30</p>
+            </acqinfo>
+            <accruals encodinganalog="584">
+                <head>Accruals and Additions</head>
+                <p>No further accruals are expected to this collection.</p>
+            </accruals>
+            <processinfo encodinganalog="583">
+                <head>Processing Information</head>
+                <p>Collection processed by Patricia M. Virgil, May 1997.</p>
+            </processinfo>
+        </descgrp>
+        <bioghist encodinganalog="545">
+            <head> Historical Note</head>
+            <p>The Pan-American Exposition Company was incorporated under the
+ Pan-American bill signed by Governor Theodore Roosevelt on Jan. 20, 1899. The
+ bill became Chapter 2 of the New York State laws of 1899.</p>
+            <p>Twenty-five of the more than 300 incorporators were elected to serve
+ three-year terms as members of the board of directors. The board was charged
+ with making and amending Exposition by-laws, electing a president, ten or more
+ vice-presidents, a secretary, a treasurer, creating committees as needed, and
+ filling all vacant positions. The board also formed an executive committee, and
+ appointed a director general, an auditor, and a board of women managers.</p>
+            <p>The board of directors elected John G. Milburn president, and
+ appointed William Buchanan director-general. The following committees were
+ created: finance; concessions and exhibits; transportation; publicity; law and
+ insurance; foreign relations; and printing and supplies.</p>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content Note</head>
+            <p>Minutes of the Board of Directors, 1899-1909; financial records,
+ including cash books, ledgers, a record of insurance, and auditors' memoranda;
+ site selection records; an index to exhibits; construction field books; Board
+ of Women Managers' minutes and visitor register; correspondence, reports, and
+ memoranda of the Director-General; also budgets, estimates, and contracts of
+ the Director-General; a letter to Roswell Park concerning the operation on
+ President McKinley; Press Dept. and Bureau of Information reports; Division of
+ Ethnology and Archaeology visitor registers and exhibit records; New York State
+ Building visitor registers; and U.S. Government Building guard orders and
+ personnel lists.</p>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>This collection is arranged in eleven series: 
+ <list>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series1">I. Board of Directors</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series2">II. Joint Committee of Architects and Engineers</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series3">III. Committee on Exhibits</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series4">IV. Board of Women Managers</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series5">V. Director-General</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series6">VI. Medical Director</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series7">VII. Committee of Audit</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series8">VIII. Dept. of Works</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series9">IX. Division of Ethnology and Archaeology</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series10">X. New York State Building</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series11">XI. U.S. Government Building</ref>.</item>
+                </list>
+            </p>
+        </arrangement>
+        <dsc type="combined">
+            <head>Container List </head>
+            <c01 level="series">
+                <did>
+                    <unitid id="series1">I.</unitid>
+                    <unittitle>Board of Directors 
+ <unitdate normal="1899/1909" type="inclusive">1899-1909</unitdate>
+                    </unittitle>
+                </did>
+                <arrangement>
+                    <p>Arranged in chronologically with two subseries 
+ <ref actuate="onrequest" role="text/html" show="replace" target="series1a">Treasurer, 1899-1908</ref> and 
+ <ref actuate="onrequest" role="text/html" show="replace" target="series1b">Secretary, undated</ref> .</p>
+                </arrangement>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="volume">1</container>
+                        <unittitle>Minutes 
+ <unitdate type="inclusive">March 6-December 5,
+ 1899</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="volume">2</container>
+                        <unittitle>Minutes 
+ <unitdate type="inclusive">January 2-September 20,
+ 1900</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="volume">3</container>
+                        <unittitle>Minutes 
+ <unitdate type="inclusive">April 2-August 27,
+ 1901</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="volume">4</container>
+                        <unittitle>Minutes 
+ <unitdate type="inclusive">September 3, 1901-October 22,
+ 1909</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">1</container>
+                        <unittitle>Agreement with Bronson C. Rumsey, re excavations on
+ leased land, 
+ <unitdate>1900</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="subseries">
+                    <did>
+                        <unitid id="series1a">I.A.</unitid>
+                        <unittitle>Treasurer</unittitle>
+                        <unitdate normal="1899/1908" type="inclusive">1899-1908</unitdate>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="folder">2</container>
+                            <unittitle>Mortgage bond resolutions, memoranda, 
+ <unitdate>1900-1902</unitdate>
+                            </unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="volume">5</container>
+                            <unittitle>Cash book, 
+ <unitdate> November. 2, 1901-November. 29, 1906
+ </unitdate>
+                            </unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="volume">6</container>
+                            <unittitle>Journal, 
+ <unitdate>April. 30. 1901-January. 1902 </unitdate>
+                            </unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="volume">7</container>
+                            <unittitle>
+                                <title type="journal">Books of the Pan-American Exposition
+ Company as per balance sheet at Nov. 2, 1901</title>, journal, 
+ <unitdate>November 2, 1901-October 1908</unitdate>
+                            </unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="volume">8</container>
+                            <unittitle>Construction ledger, 
+ <unitdate> June 20, 1899-June 30, 1903</unitdate>
+                            </unittitle>
+                        </did>
+                        <scopecontent>
+                            <p>Lists date, voucher no., what for, total, and includes the
+ buildings, canals, docks, bridges, horses, wagons, plumbing, architectural
+ services, railroads, etc. </p>
+                        </scopecontent>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="volume">9</container>
+                            <unittitle>Department ledger 1, 
+ <unitdate>April 27, 1899-April 30, 1901</unitdate>
+                            </unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="volume">10</container>
+                            <unittitle>Department ledger 2, 
+ <unitdate>July 12, 1901-February 20,
+ 1902</unitdate>
+                            </unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="volume">11</container>
+                            <unittitle>Department ledger 3, 
+ <unitdate> June 1, 1901 - October 20, 1902</unitdate>
+                            </unittitle>
+                        </did>
+                        <scopecontent>
+                            <p>Include disbursements for salaries, advertising, carriage
+ hire, entertainment, freight, express, laundry, publications, etc., for the
+ various departments, bureaus and committees. They do not list exhibitors. </p>
+                        </scopecontent>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="volume">12</container>
+                            <unittitle>Ledger A , 
+ <unitdate> 1899-1900 </unitdate>
+                            </unittitle>
+                        </did>
+                        <scopecontent>
+                            <p>Includes exhibitors and the buildings in which they exhibited.
+ </p>
+                        </scopecontent>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="volume">13</container>
+                            <unittitle>Sub ledger, 
+ <unitdate>1901-1902</unitdate>
+                            </unittitle>
+                        </did>
+                        <scopecontent>
+                            <p>Includes alphabetical index. </p>
+                        </scopecontent>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="volume">14</container>
+                            <unittitle>Voucher record no. 1, 
+ <unitdate> January 30, 1899 - January
+ 1902</unitdate>
+                            </unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="volume">15</container>
+                            <unittitle>Voucher record no. 2, 
+ <unitdate>October 3, 1901 - October 22, 1908
+ </unitdate>
+                            </unittitle>
+                        </did>
+                        <scopecontent>
+                            <p>List date, no., in whose favor, what for, total, and figures
+ for officers' salaries, general expenses, office furniture &amp; equipment,
+ plant, and the various departments, bureaus, and committees. </p>
+                        </scopecontent>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="volume">16</container>
+                            <unittitle>Check register no. 1, 
+ <unitdate> March 10, 1899 - September 27, 1901
+ </unitdate>
+                            </unittitle>
+                        </did>
+                        <scopecontent>
+                            <p>Includes date, no., order of, for, charge, amount.
+ Alphabetical by name. </p>
+                        </scopecontent>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="volume">17</container>
+                            <unittitle>Bond interest coupon book - 1st mortgage bond, nos.
+ 1-5001</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="volume">18</container>
+                            <unittitle>Bond interest coupon book - 1st mortgage bond, nos.
+ 5001-5825, and 2nd mortgage bond</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 level="subseries" id="Series1B">
+                    <did>
+                        <unitid id="series1b">I.B.</unitid>
+                        <unittitle>Secretary</unittitle>
+                        <unitdate type="inclusive">undated</unitdate>
+                    </did>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="volume">19</container>
+                            <unittitle>Stock book and subscribers' ledger no. 1,
+ A-E</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="volume">20</container>
+                            <unittitle>Stock book and subscribers' ledger no. 2,
+ F-K</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="volume">21</container>
+                            <unittitle>Stock book and subscribers' ledger no. 3,
+ L-R</unittitle>
+                        </did>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="volume">22</container>
+                            <unittitle>Stock book and subscribers' ledger no. 4, S-Z 1st call
+ to 10th call</unittitle>
+                        </did>
+                        <scopecontent>
+                            <p>Includes subscriber's name, date payment, balance.
+ Alphabetical by name of subscriber.</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 level="file">
+                        <did>
+                            <container type="box">1</container>
+                            <container type="volume">23</container>
+                            <unittitle>Committee on Law and Insurance: record of insurance, 
+ <unitdate>1899-1901 </unitdate>
+                            </unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unitid id="series2">II.</unitid>
+                    <unittitle>Joint Committee of Architects and Engineers, 
+ <unitdate normal="1873/1899" type="inclusive">1873-1899</unitdate>
+                    </unittitle>
+                </did>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="volume">24</container>
+                        <unittitle>Minutes, 
+ <unitdate>March 26 - April 4, 1899</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>Includes evaluation of potential Exposition sites. </p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="folder">3</container>
+                        <unittitle>Memorandum to Executive Committee re selection of site
+ and adoption of plot plans, 
+ <unitdate>March 31, 1899</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>Report on sites, Apr. 5, 1899. Information on suggested sites.
+ Cost of buildings, etc., at Chicago World's Columbian Exposition,1893.
+ Statistics of various Expositions, 1873-1893. Plan of [Riverside] site. </p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">1</container>
+                        <container type="volume">25</container>
+                        <unittitle>Scrapbook, 
+ <unitdate>March 21 - May 13, 1899 </unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>Clippings re Joint Committee and site search. </p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unitid id="series3">III.</unitid>
+                    <unittitle>Committee on Exhibits, 
+ <unitdate type="inclusive">undated</unitdate>
+                    </unittitle>
+                </did>
+                <c02 level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="volume">26</container>
+                        <unittitle>Index to exhibits</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unitid id="series4">IV.</unitid>
+                    <unittitle>Board of Women Managers, 
+ <unitdate normal="1900/1901" type="inclusive">1900-1901</unitdate>
+                    </unittitle>
+                </did>
+                <c02 level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="volume">27</container>
+                        <unittitle>Minutes, 
+ <unitdate> 1900-1901 </unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>Includes list of Applied Arts Section exhibitors and awards.
+ </p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="volume">28</container>
+                        <unittitle>Minutes, Women's Administration Building visitor
+ register, 
+ <unitdate>1901</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unitid id="series5">V.</unitid>
+                    <unittitle>Director-General</unittitle>
+                    <unitdate normal="1899/1901" type="inclusive">1899-1901</unitdate>
+                </did>
+                <c02 level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="folder">1</container>
+                        <unittitle>Correspondence, 
+ <unitdate> 1899-1901</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>Includes well rashes from heads of state. </p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">2</container>
+                        <container type="volume">29</container>
+                        <unittitle>Report, parts 1-4 (copy 1)</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">3</container>
+                        <container type="volume">29</container>
+                        <unittitle>Report, parts 5-7 </unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>Includes sections on finances, construction, opening month,
+ dedication, officers and committees, state and federal legislation, by-laws,
+ juries and awards; also reports of exhibit divisions, and administrative
+ bureaus and departments. </p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">3</container>
+                        <container type="volume">29</container>
+                        <unittitle> Report (copy 2); first part missing </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="volume">30</container>
+                        <unittitle>Memoranda to Dept. of Works, 
+ <unitdate>1899-1900 </unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>Addressed to Newcomb Carlton, Director of Works; most regard
+ actions of the Executive Committee</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="volume">31</container>
+                        <unittitle>Budgets, estimates and contracts, 
+ <unitdate>1900-1901</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unitid id="series6">VI.</unitid>
+                    <unittitle>Medical Director, 
+ <unitdate normal="1901" type="inclusive">1901</unitdate>
+                    </unittitle>
+                </did>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="folder">1</container>
+                        <unittitle>Letter, Acting Deputy Nelson W. Wilson, to Roswell Park,
+ re reception of, and operation on, President McKinley, 
+ <unitdate> September 6, 1901.</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unitid id="series7">VII.</unitid>
+                    <unittitle>Committee of Audit, 
+ <unitdate normal="19020723/19021112" type="inclusive">July
+ 23-November 12, 1902</unitdate>
+                    </unittitle>
+                </did>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="volume">32</container>
+                        <unittitle>Memoranda of action, 
+ <unitdate>July 23-November 12, 1902</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unitid id="series8">VIII.</unitid>
+                    <unittitle>Department of Works</unittitle>
+                    <unitdate normal="1900/1901" type="inclusive">1900-1901</unitdate>
+                </did>
+                <scopecontent>
+                    <p>Contains construction field books.</p>
+                </scopecontent>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="volume">33</container>
+                        <unittitle>Electricity Building, 
+ <unitdate> September 24, 1900 - April 25,
+ 1901</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="volume">34</container>
+                        <unittitle>Restaurant, propylaea, and stadium, 
+ <unitdate> June 25, 1900 - November 30,
+ 1900</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="volume">35</container>
+                        <unittitle>Stadium, restaurant, propylaea and pergolas, 
+ <unitdate> December. 1, 1900 - May 31,
+ 1901</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">4</container>
+                        <container type="volume">36</container>
+                        <unittitle>Electric Tower, 
+ <unitdate>September 22, 1900 - May 30,
+ 1901</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="volume">37</container>
+                        <unittitle>Electric Tower lumber, 
+ <unitdate>September 18 - November 5, 1900</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>Field books inscribed, 
+ <title type="journal">"H.C. Parsons, Supt." </title>
+                        </p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="volume">38</container>
+                        <unittitle>Ledger, 
+ <unitdate>1901 </unitdate>Lists services such as sewer
+ connections, cleaning, garbage collection, fire service, lighting, etc.,
+ performed for exhibitors and businesses by the Works Dept. </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">1</container>
+                        <unittitle>Bureau of Information report on accomplishments;
+ includes expenses, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">2</container>
+                        <unittitle>Press Dept. (Bureau of Publicity) reports, 
+ <unitdate>1901</unitdate> Reports of Mark Bennett and Stephen W.
+ Bolles, Superintendents. </unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unitid id="series9">IX.</unitid>
+                    <unittitle>Division of Ethnology and Archaeology</unittitle>
+                    <unitdate normal="1991/1992" type="inclusive">1991-1992</unitdate>
+                </did>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">3</container>
+                        <unittitle>Description of Ethnology Building, 
+ <unitdate>1902</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>Includes report on mounds, office rules, inventory of office
+ furniture and supplies, report re visitor registers, report to
+ Director-General, and list of miscellaneous items. </p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">4</container>
+                        <unittitle>Payroll, 
+ <unitdate>1901</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">5</container>
+                        <unittitle>Exhibits</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">6</container>
+                        <unittitle>Exhibit labels</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">7</container>
+                        <unittitle>Admissions</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">8</container>
+                        <unittitle>Visitors' cards, A-K</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">9</container>
+                        <unittitle>Visitors' cards, L-Z</unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="volume">39</container>
+                        <unittitle>Application for exhibit space book </unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>Includes description of articles (number, kind), space desired
+ inside building (floor space, wall space, wall space in art room, table cases,
+ didactic cases), space desired outside building (length, width)</p>
+                    </scopecontent>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="volume">40</container>
+                        <unittitle>Visitor register, 
+ <unitdate>May 1 - June 23, 1901</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="volume">41</container>
+                        <unittitle>Visitor register, 
+ <unitdate>June 23 - July 25, 1901</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="volume">42</container>
+                        <unittitle>Visitor register, 
+ <unitdate>July 25 - August 22, 1901</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="volume">43</container>
+                        <unittitle>Visitor register, 
+ <unitdate>August 22 - September 17, 1901</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="volume">44</container>
+                        <unittitle>Visitor register, 
+ <unitdate>September 17-November 19, 1901</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent>
+                        <p>These include some brief comments</p>
+                    </scopecontent>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unitid id="series10">X.</unitid>
+                    <unittitle>New York State Building </unittitle>
+                    <unitdate normal="1991" type="inclusive">1991</unitdate>
+                </did>
+                <scopecontent>
+                    <p>Comments not included.</p>
+                </scopecontent>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="volume">45</container>
+                        <unittitle>Visitor register, 
+ <unitdate>May 20 - July 25, 1901</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="volume">46</container>
+                        <unittitle>Visitor register, 
+ <unitdate>July 25 - August 14, 1901</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="volume">47</container>
+                        <unittitle>Visitor register, 
+ <unitdate>August 15 - August 30, 1901</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="volume">48</container>
+                        <unittitle> Visitor register, 
+ <unitdate>August 30 - September 17, 1901</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="volume">49</container>
+                        <unittitle>Visitor register, 
+ <unitdate>September 17 - October 4, 1901</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="volume">50</container>
+                        <unittitle>Visitor register, 
+ <unitdate>October 5 - October 19, 1901</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="volume">51</container>
+                        <unittitle>Visitor register, 
+ <unitdate>October 19 - November 2, 1901</unitdate>
+                        </unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 level="series">
+                <did>
+                    <unitid id="series11">XI.</unitid>
+                    <unittitle>U.S. Government Building, 
+ <unitdate type="inclusive">undated</unitdate>
+                    </unittitle>
+                </did>
+                <c02 level="file">
+                    <did>
+                        <container type="box">5</container>
+                        <container type="folder">10</container>
+                        <unittitle>Guard orders and department personnel lists.</unittitle>
+                    </did>
+                </c02>
+            </c01>
+        <c id="c_9b9ea0890a9d1ee5cd8ffed04222b5fd" level="series">
+    <did>
+        <unittitle>Series I: Board of Directors</unittitle>
+        
+    </did>
+<c id="c_c0747ba2580f9e8c76fc6c72b84ad3e9" level="subseries">
+    <did>
+        <unittitle>Subseries A: Treasurer</unittitle>
+        
+    </did>
+</c>
+                <c id="c_1f8755712ba47759e122af8b99b4ba96" level="subseries">
+    <did>
+        <unittitle>Subseries B: Secretary</unittitle>
+        
+    </did>
+</c>
+            </c>
+            <c id="c_b93c6e89016627baa3c1d784d1451417" level="series">
+    <did>
+        <unittitle>Series II: Joint Committee of Architects and Engineers</unittitle>
+        
+    </did>
+</c>
+            <c id="c_297645fbc6f6b81b0e99624dfb228607" level="series">
+    <did>
+        <unittitle>Series III: Committee on Exhibits</unittitle>
+        
+    </did>
+</c>
+            <c id="c_ce8c252b4ab5aac7ed91668dca48640f" level="series">
+    <did>
+        <unittitle>Series IV: Board of Woman Managers</unittitle>
+        
+    </did>
+</c>
+            <c id="c_4b386868cd96c576c118483b9dae4326" level="series">
+    <did>
+        <unittitle>Series V: Director-General</unittitle>
+        
+    </did>
+</c>
+            <c id="c_0b824ccf9b14ea596c20e2fbbd0ed1b8" level="series">
+    <did>
+        <unittitle>Series VI: Medical Director</unittitle>
+        
+    </did>
+</c>
+            <c id="c_fefa5abd62543ad73aa18c371ba32d15" level="series">
+    <did>
+        <unittitle>Series VII: Committee of Audit</unittitle>
+        
+    </did>
+</c>
+            <c id="c_4e574b514bed3fdcfeecb0801c68498a" level="series">
+    <did>
+        <unittitle>Series VIII: Dept. of Works</unittitle>
+        
+    </did>
+</c>
+            <c id="c_51d6995222ef47691b6c8cf048c8244a" level="series">
+    <did>
+        <unittitle>Series IX: Division of Ethnology and Archaeology</unittitle>
+        
+    </did>
+</c>
+            <c id="c_58b92dd8b8a94c16da2676a7cc076fdf" level="series">
+    <did>
+        <unittitle>Series X: New York State Building</unittitle>
+        
+    </did>
+</c>
+            <c id="c_d7a1bcea4642f73166d029e1f8cbaead" level="series">
+    <did>
+        <unittitle>Series XI: U.S. Government Building</unittitle>
+        
+    </did>
+</c>
+        </dsc>
+        <controlaccess>
+            <head>Search Terms</head>
+            <note>
+                <p>The following terms have been used to index the description of this
+ collection in the Library's online catalog.</p>
+            </note>
+            <controlaccess>
+                <head>Contributors</head>
+                <persname source="lcnaf" encodinganalog="700">Park, Roswell,
+ 1852-1914</persname>
+                <corpname source="lcnaf" encodinganalog="710">Buffalo History Museum</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Subject Terms</head>
+                <persname source="lcnaf" encodinganalog="600" role="subject">McKinley,
+ William, 1843-1901--Assassination</persname>
+                <corpname source="lcnaf" encodinganalog="610" role="subject">Pan-American Exposition (1901 : Buffalo, N.Y.)</corpname>
+                <subject source="lcsh" encodinganalog="650">Exhibitions--New York
+ (State)--Buffalo</subject>
+            </controlaccess>
+            <controlaccess>
+                <head>Genre Terms</head>
+                <genreform source="aat" encodinganalog="655">Ledgers (account
+ books)</genreform>
+                <genreform source="aat" encodinganalog="655">Visitors'
+ books</genreform>
+            </controlaccess>
+        </controlaccess>
+    
+    </archdesc>
+</ead>

@@ -1,0 +1,862 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" relatedencoding="DC" scriptencoding="iso15924">
+        <eadid countrycode="us" publicid="-//Buffalo History Museum::Research Library//TEXT (US::NBuHi::B76-1::Darwin D. Martin Papers and Larkin Company Inc. Records)//EN" url="B76-1.xml" mainagencycode="NBuHi" encodinganalog="identifier">nbuhi_tbhm_b76_01</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Finding Aid for the Darwin D.
+ Martin Papers and Larkin Company Inc. Records, 
+ <date type="inclusive" normal="1854/1960" encodinganalog="date">1857-1960</date>
+                    <date type="bulk" normal="1892/1925" encodinganalog="date">(bulk
+ 1892-1925)</date>
+                </titleproper>
+                <titleproper altrender="nodisplay" type="filing"> Martin (Darwin D.)
+ Papers and Larkin Company Inc. Records</titleproper>
+                <author encodinganalog="contributor">This finding aid was prepared by
+ Buffalo History Museum staff.</author>
+                <sponsor encodinganalog="contributor">Funding for the initial encoding
+ was provided through the Regional Bibliographic Databases Program administered
+ by the Western New York Library Resources Council.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Buffalo History Museum. Research Library</publisher>
+                <address>
+                    <addressline>1 Museum Court</addressline>
+                    <addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: library@buffalohistory.org</addressline>
+                    <addressline>URI: http://www.buffalohistory.org</addressline>
+                </address>
+                <p>&#xA9; 
+ <date encodinganalog="date" type="publication">2010</date>. Buffalo History Museum. All rights reserved.</p>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid encoded in EAD by Kuniko Simon, March
+ 2008.</creation>
+            <langusage altrender="nodisplay">Finding aid written in
+ <language langcode="eng" encodinganalog="language">English</language>.
+ </langusage>
+            <descrules>Finding aid prepared using local best practices. </descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+        <did>
+            <head>Collection Overview</head>
+            <unittitle encodinganalog="245$a" label="Title">Darwin D. Martin Papers
+ and Larkin Company Inc. Records, 
+ <unitdate type="inclusive" encodinganalog="245$f" normal="1854/1960" datechar="creation">1857-1960</unitdate>
+            </unittitle>
+            <unitdate type="bulk" encodinganalog="245$g" normal="1892/1925" datechar="creation">1892 - 1925</unitdate>
+            <unitid encodinganalog="099" label="Collection Number" repositorycode="NBuHi" countrycode="US">Mss. B76-1</unitid>
+            <origination label="Creator">
+                <persname encodinganalog="100" source="lcnaf" role="creator">Martin, D.
+ D. (Darwin D.), 1865-1935</persname>
+            </origination>
+            <physdesc label="Extent">
+                <extent unit="linear foot" encodinganalog="300">2.5 linear feet </extent>
+                <extent unit="box" encodinganalog="300"> (5 boxes)</extent>
+            </physdesc>
+            <langmaterial label="Language of Material" encodinganalog="546">Collection material in
+ <language encodinganalog="041" langcode="eng">English</language>.
+ </langmaterial>
+            
+            <abstract encodinganalog="520" label="Abstract">The records of Darwin D.
+ Martin Papers and Larkin Company Inc. consist of Martin's personal papers and
+ the company's activities between 1892 and 1960.</abstract>
+        <repository>
+								<corpname>The Buffalo History Museum</corpname>
+							<address>
+								<addressline>1 Museum Court</addressline>
+							<addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 176-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: library@buffalohistory.org</addressline>
+                    <addressline>URI: http://www.buffalohistory.org</addressline>
+                </address>
+            </repository>
+        </did>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <prefercite encodinganalog="524">
+                <head>Preferred Citation</head>
+                <p>[Description and dates], Box/folder number, Mss. B76-1, Darwin D.
+ Martin Personal Papers and Larkin Company Records, 1857-1960 (bulk 1892-1925),
+ Research Library, Buffalo History Museum.</p>
+            </prefercite>
+            <accessrestrict encodinganalog="506">
+                <head>Terms of Access</head>
+                <p>Darwin D. Martin Papers and Larkin Company Inc. Records, 1892-1960,
+ are open for research.</p>
+            </accessrestrict>
+            <userestrict encodinganalog="540">
+                <head>Copyright</head>
+                <p>Copyright of papers in the collection may be held by their authors,
+ or the authors' heirs or assigns. Researchers must obtain the written
+ permission of the holder(s) of copyright and the Buffalo History Museum before publishing quotations from materials in the
+ collection.</p>
+            </userestrict>
+        </descgrp>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <acqinfo encodinganalog="541">
+                <head>Acquisition Information</head>
+                <p> Martin, Darwin R. (deceased); gift; 1976/10/20; 76-40</p>
+            </acqinfo>
+            <accruals encodinganalog="584">
+                <head>Accruals and Additions</head>
+                <p>No further accruals are expected to this collection.</p>
+            </accruals>
+            <processinfo encodinganalog="583">
+                <head>Processing Information</head>
+                <p>Collection processed by Buffalo History Museum
+ staff.</p>
+            </processinfo>
+        </descgrp>
+        <bioghist encodinganalog="545">
+            <head>Biographical and Historical Note</head>
+            <bioghist encodinganalog="545">
+                <head>J.D. Larkin and the Larkin Soap Company</head>
+                <p>J. D. Larkin and Company was incorporated May 1, 1875 in Buffalo,
+ N.Y. Its founder was born John Durrant Larkin on 29 September 1845, to English
+ immigrant parents, in Buffalo. Eleven years later, Elbert Hubbard was born. In
+ the 1870's, Hubbard was to join Larkin as his first salesman, rising in later
+ years to become head of the Sales department and, later, Secretary and
+ Treasurer of the company's board of directors and a partner in the firm. J. D.
+ Larkin also married Hubbard's sister Hannah.</p>
+                <p>In the 1870's young J. D. Larkin entered into a Chicago soap firm
+ that in 1871 branched out for him in the firm's partnership. Eventually he set
+ out on his own to found a soap empire. His main office and first factory were
+ situated in Buffalo; branch operations were soon established in New York,
+ Peoria (Ill.), Philadelphia, Boston, Chicago, Pittsburgh, Cleveland and Memphis
+ (although branch factories such as those in Memphis were short lived due to
+ improving freight and mail transportation). Larkin began as a soap producer and
+ manufacturer (read also: chemist, refiner, and perfumer), forming a board of
+ directors which, after the turn of the century, produced some of western New
+ York's most prominent families. </p>
+                <p>W. H. and D. J. Coss joined the firm in 1875 as Superintendent and
+ Assistant Superintendent, respectively, of the Larkin factories until their
+ retirements in 1909. In 1876, a three-story plant was constructed for soap
+ production at 663 Seneca St. Darwin D. Martin joined the firm in 1878 and in
+ that same year; Elbert Hubbard became a partner in the firm. The first Larkin
+ product was a yellow laundry soap whose price and effectiveness made the firm
+ famous. By 1881 the J. D. Larkin &amp; Co. organization was marketing soap
+ powder. Inside their soap boxes they enclosed a buying incentive: paper
+ premiums that could be redeemed for free gifts. This idea has since been
+ applied by several cereal and detergent companies, in addition to the famous S
+ &amp; H Green Stamps and Brand Names Treasure Chest promotions. </p>
+                <p>In 1883 Larkin and Company began to manufacture toilet soap; from
+ then on the Larkin letterhead would read, "Producers of Soap of every
+ description and kind, Boraxine, Modjeska, toilet preparations, and chemically
+ pure Glycerine." Two years later, Larkin's enterprises occupied over one acre
+ in the city of Buffalo.</p>
+                <p>Elbert Hubbard became the company's troubleshooter and innovator,
+ and it was mainly through his creativity that J. D. Larkin decided to initiate
+ a mail order business. Hubbard was also responsible for the diversification of
+ the factory-to-family idea, which reduced overhead from retailers, wholesalers,
+ and distributors -- and increased profits. Larkin products were also sold
+ door-to-door (much like modern-day Avon products) by housewives and school
+ children. By 1886, Hubbard had convinced the firm to market a Larkin
+ "Combination Box." which contained l00 bars of soap along with premiums and
+ enclosed gifts that couldn't be bought in other stores for the original price
+ of the soap ($6). A thirty-day period was allowed to pay for the purchase; this
+ policy was considered outrageous in these days before installment spending and
+ customer credit. Combination Box sales continued until 19l0. Sales of the boxes
+ were so brisk that the traditional bound ledgers became out-moded and a system
+ using index cards was introduced. The card ledger system, since copied by
+ countless other companies, was a Larkin creation; Darwin D. Martin even
+ published a booklet, 
+ <title type="book">Making A Card Ledger</title>, about the genesis of
+ the idea. After being paid, all cards (bills) were not thrown away but rather
+ retained to become the nucleus for a customer mailing list. This last was an
+ idea of Elbert Hubbard's. </p>
+                <p>The 1892 Board of Directors consisted of J. D. Larkin, St.
+ (President); Elbert Hubbard (Secretary and Treasurer); and Charles H. Larkin
+ (Vice-President). On 22 February 1892 the Larkin Soap Manufacturing Company was
+ organized with a capitalization of $500,000. In 1893 the first catalog was
+ published, listing free premiums; soon to be published annually by 1909, the
+ catalog became so large that it eventually had to come out semi-annually.</p>
+                <p>At the age of 35, Elbert Hubbard sold his interest in the Larkin
+ Company for $75,000 in 1893. He retired to become a noted author and art
+ appreciator. In 1895 he established the Roycrofters, an old-world community of
+ artisans and craftsmen in East Aurora (now the Roycroft Inn). Hubbard and his
+ wife died in 1915 when a German U-boat torpedoed the ship they were sailing on
+ --the Lusitania.</p>
+                <p>With the retirement of Elbert Hubbard in 1893, several corporate
+ changes were made. J. D. Larkin Sr. became Treasurer; his son, J. D. Larkin
+ Jr., became Assistant Treasurer; and L. T. Mudge was eventually made corporate
+ attorney. Business records of the period also frequently mention H. H. Larkin,
+ H. H. Heath, H. M. Esty, W. R. Heath, D. D. Martin (made corporation
+ Secretary), and department bosses E. A. Becket, G. C. Boulton, Mr. Wing, and
+ Mr. Heckman. The company was reorganized in 1899 and took the official name of
+ the Larkin Soap Company.</p>
+                <p>In 1894 the Combination Box costing $6 was phased out in favor of a
+ $10 version that proved more efficient and profitable to both the customer and
+ the producer; it featured freight payments pre-paid by Larkin. About this time,
+ the mail order business was considerably expanded: the company encouraged the
+ proliferation of "Larkin Clubs" of ten housewives, each contributing one dollar
+ each month to result in the purchase of one Combination Box and a prize lottery
+ (thus increasing the acceptability of buying on an installment plan). Premium
+ lists by this time included lamps, desks, chairs, stoves, furnishings for
+ bedrooms, dining rooms and libraries. </p>
+                <p>By 1900 the Larkin Soap Company was credited as one of the largest
+ of its kind in the world. In 1900-1901 fittingly sponsored the construction of
+ a building at the Pan-American Exposition in Buffalo. </p>
+                <p>1901 also saw the establishment of a noted Larkin subsidiary,
+ Buffalo Pottery, with an initial capitalization of $50,000. Filling
+ institutional pottery orders, editions for the Larkin premiums and special runs
+ of commemorative china, Buffalo Pottery is still a viable industry in western
+ New York today.</p>
+                <p>By 1901 the Larkin Soap Company enterprises occupied some 16 acres.
+ In 1904 it was reorganized and renamed the Larkin Company. At the company's
+ height in 1904, it opened its noted Administration Building at 680 Seneca St.,
+ designed (in both structure and interior furnishings) by Frank Lloyd Wright in
+ his first commercial venture. The building's offices housed over 1,800 clerks
+ and typists. Larkin real estate holdings grew from 29 acres in 1904 to 50 acres
+ in 1907 to 64 acres in 1914. </p>
+                <p>The Larkin Company is perhaps best noted for its innovations in
+ personnel management. It offered employees a company gymnasium and a choral
+ society; it purchased a $90,000 pipe organ to play background music for its
+ workers in the Administration Building; it sponsored concerts; and it gave an
+ annual company picnic at the J. D. Larkin St. homestead in Evans Center, N.Y.
+ (The estate later became a retreat for nuns, named D'Youville on the Lake,
+ though some Larkin family members still live on it or adjacent to it on Evans
+ Center Road.) </p>
+                <p>Besides publishing an employee magazine called 
+ <title type="journal">Ourselves</title>, which contained company
+ notices, announcements of awards, news and local events, the company in 1919
+ instituted a cooperative employee ownership plan which allowed employees to
+ share in company profits according to salary, service, and war record.
+ Employees were also given discounts on Larkin products.</p>
+                <p>In 1921, the company was reorganized to become the Larkin Company,
+ Incorporated. In 1926, J. D. Larkin Sr. died and his son J. D. Larkin Jr.
+ assumed the company's directorship. Around this time, the listed number of
+ Larkin premiums and offers continued to rise but Larkin sales began to drop.
+ Some described the quality of Larkin premium goods as questionable and inferior
+ for gift-giving. (Nevertheless, premium products today show exceptionally high
+ quality and are of great value.) The Larkin Company declined gradually until
+ the majority of the business was sold in 1942. The new owners kept the Larkin
+ mail order business alive in the Larkin Warehouse on Seneca St. until 1962.</p>
+                <p>In 1950 the acclaimed Larkin Administration Building, having been
+ un-occupied for eight years and severely vandalized as a result, was razed. In
+ 1967 the Larkin Warehouse -- the very last of the Larkin empire that had been
+ comparable to those of Montgomery Ward and Sears Roebuck -- was liquidated.
+ (The warehouse is currently the property of an interest known as Graphic
+ Controls.)</p>
+                <p>The importance of the Larkin Company to the industrial and economic
+ development of western New York cannot be overestimated; providing thousands of
+ local jobs and making, a special effort to buy their raw materials and other
+ supplies from Buffalo businesses, the Larkin Company is gone but not forgotten.
+ Few native Buffalonians haven't known a friend or relative who once worked for
+ the Larkin's, or haven't come across a now familiar heirloom: a (once) free
+ premium for a soap purchase.</p>
+            </bioghist>
+            <bioghist encodinganalog="545">
+                <head>Darwin D. Martin</head>
+                <p>Darwin D. Martin worked at the Larkin Company from 1878 to 1925,
+ serving as secretary of the corporation and member of the board of directors.
+ He is noted for his invention of the card ledger system. The Larkin Co.
+ manufactured soap and other household products; it was the first firm to give
+ premiums and was an early user of mail order door-to-door sales, and the
+ installment system. Elbert Hubbard was a partner until 1893. </p>
+            </bioghist>
+            <bioghist encodinganalog="545">
+                <head>Chronology </head>
+                <chronlist>
+                    <chronitem>
+                        <date>1875-1878:</date>
+                        <event>John D. Larkin</event>
+                    </chronitem>
+                    <chronitem>
+                        <date>1878-1892:</date>
+                        <event>J. D. Larkin &amp; Co. (E. Hubbard was partner)</event>
+                    </chronitem>
+                    <chronitem>
+                        <date>1892-1899:</date>
+                        <event>The Larkin Soap Manufacturing Company, Inc.</event>
+                    </chronitem>
+                    <chronitem>
+                        <date>1899-1904:</date>
+                        <event>The Larkin Soap Company, Inc.</event>
+                    </chronitem>
+                    <chronitem>
+                        <date>1904-1921:</date>
+                        <event>The Larkin Company (incorporated in West Virginia)</event>
+                    </chronitem>
+                    <chronitem>
+                        <date>1921-</date>
+                        <event>The Larkin Company, Inc. (Incorporated in New York
+ State)</event>
+                    </chronitem>
+                </chronlist>
+            </bioghist>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content Note</head>
+            <p> Includes incorporation records, correspondence, financial records,
+ sales summaries, advertisements and catalogs, employee guides, publications and
+ inventories of the Larkin Company, Inc. of Buffalo, N.Y.; and a scrapbook
+ documenting the Pan-American Exposition of 1901.</p>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>This collection is arranged in eight series: 
+ <list>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series1">I. Darwin D. Martin Correspondence</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series2">II. Stocks</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series3">III. Sales Reports and Financial Data</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series4">IV. Personnel</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series5">V. Advertising</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series6">VI. Administrative Procedures</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series7">VII. Larkin Company Publications</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="Series8">VII. Darwin D. Martin - Personal.</ref>
+                    </item>
+                </list>
+            </p>
+        </arrangement>
+        <dsc type="combined">
+            <head>Container List </head>
+            <c level="series" id="c_5bad048f61e85">
+                <did id="c_5bad048f61f39">
+                    <unitid id="Series1">I.</unitid>
+                    <unittitle id="c_5bad048f6208f">Darwin D. Martin Correspondence, 
+ <unitdate normal="1892/1925" certainty="approximate" type="inclusive" id="c_5bad048f62137"> circa 1892-1925</unitdate>
+                        <unitdate type="inclusive" id="c_5bad048f621df">undated</unitdate>
+                    </unittitle>
+                </did>
+                <arrangement id="c_5bad048f62287">
+                    <p id="c_5bad048f6232e">Arranged chronologically.</p>
+                </arrangement>
+                <c level="file" id="c_5bad048f623d6">
+                    <did id="c_5bad048f6247d">
+                        <container type="box-folder" id="c_5bad048f62524">1.1</container>
+                        <unittitle id="c_5bad048f625cb"> Correspondence, 
+ <unitdate>1892-1910</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f62673">
+                    <did id="c_5bad048f6271a">
+                        <container type="box-folder" id="c_5bad048f627c4">1.2</container>
+                        <unittitle id="c_5bad048f6286d"> Correspondence, 
+ <unitdate>1911-1915</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f62915">
+                    <did id="c_5bad048f629bc">
+                        <container type="box-folder" id="c_5bad048f62a63">1.3</container>
+                        <unittitle id="c_5bad048f62b0a"> Correspondence, 
+ <unitdate>1916-1919</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f62bb1">
+                    <did id="c_5bad048f62c58">
+                        <container type="box-folder" id="c_5bad048f62cff">1.4</container>
+                        <unittitle id="c_5bad048f62da6"> Correspondence, 
+ <unitdate>1919-1920</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f62e4d">
+                    <did id="c_5bad048f62ef3">
+                        <container type="box-folder" id="c_5bad048f62f99">1.5</container>
+                        <unittitle id="c_5bad048f6304c"> Correspondence, 
+ <unitdate>1921-1924</unitdate> and undated</unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad048f630f3">
+                <did id="c_5bad048f6319a">
+                    <unitid id="Series2">II.</unitid>
+                    <unittitle id="c_5bad048f632f0">Stocks</unittitle>
+                    <unitdate normal="1905/1925" type="inclusive" id="c_5bad048f63399">1905 - 1925</unitdate>
+                </did>
+                <arrangement id="c_5bad048f63441">
+                    <p id="c_5bad048f634e8">Arranged by subjects then, chronologically.</p>
+                </arrangement>
+                <c level="file" id="c_5bad048f6358f">
+                    <did id="c_5bad048f63635">
+                        <container type="box-folder" id="c_5bad048f636db">1.6</container>
+                        <unittitle id="c_5bad048f6379c"> Minutes, Stockholder Meetings, 
+ <unitdate>1905</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f6384b">
+                    <did id="c_5bad048f638f5">
+                        <container type="box-folder" id="c_5bad048f6399f">1.7</container>
+                        <unittitle id="c_5bad048f63a4a"> Incorporation Papers, 
+ <unitdate>bulk 1919-1920</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent id="c_5bad048f63af4">
+                        <p id="c_5bad048f63b9f">(includes employee profit-sharing proposal) </p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="c_5bad048f63c4a">
+                    <did id="c_5bad048f63cf6">
+                        <container type="box-folder" id="c_5bad048f63da0">1.8</container>
+                        <unittitle id="c_5bad048f63e4b"> Plan for Co-operative Ownership </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f63ef5">
+                    <did id="c_5bad048f63fa0">
+                        <container type="box-folder" id="c_5bad048f6404a">1.9</container>
+                        <unittitle id="c_5bad048f640f4"> Valuation of Branch and Subsidiaries' Stock, 
+ <unitdate>1909-1917 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f641a3">
+                    <did id="c_5bad048f6424d">
+                        <container type="box-folder" id="c_5bad048f642f7">1.10</container>
+                        <unittitle id="c_5bad048f643a2"> Stock Value 
+ <unitdate>1917</unitdate>, 
+ <unitdate>1925</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad048f6444d">
+                <did id="c_5bad048f644f6">
+                    <unitid id="Series3">III.</unitid>
+                    <unittitle id="c_5bad048f64659">Sales Reports and Financial Data</unittitle>
+                    <unitdate normal="1892/1925" type="inclusive" id="c_5bad048f64705">1892 - 1925</unitdate>
+                </did>
+                <arrangement id="c_5bad048f647b2">
+                    <p id="c_5bad048f64868">Arranged by subjects then, chronologically.</p>
+                </arrangement>
+                <c level="file" id="c_5bad048f6491f">
+                    <did id="c_5bad048f649c9">
+                        <container type="box-folder" id="c_5bad048f64a74">1.11</container>
+                        <unittitle id="c_5bad048f64b1e"> Working Capital Data, 
+ <unitdate>1913-1915</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f64bc9">
+                    <did id="c_5bad048f64c73">
+                        <container type="box-folder" id="c_5bad048f64d21">1.12</container>
+                        <unittitle id="c_5bad048f64dcb"> Sales Records - Premiums in Stock, 
+ <unitdate>1901-1903</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f64e76">
+                    <did id="c_5bad048f64f21">
+                        <container type="box-folder" id="c_5bad048f64fcb">1.13</container>
+                        <unittitle id="c_5bad048f65075">Sales Records - Premiums in Stock, 
+ <unitdate>1903-1904</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f65120">
+                    <did id="c_5bad048f651ca">
+                        <container type="box-folder" id="c_5bad048f65275">2.1</container>
+                        <unittitle id="c_5bad048f65320">Sales Records - Index Cards and Cards from Card Ledger,
+ undated</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f653cb">
+                    <did id="c_5bad048f65475">
+                        <container type="box-folder" id="c_5bad048f65520">2.2</container>
+                        <unittitle id="c_5bad048f655cb"> Sales Summaries By State and City, 
+ <unitdate>1896-1925</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f65676">
+                    <did id="c_5bad048f65724">
+                        <container type="box-folder" id="c_5bad048f657cf">2.3</container>
+                        <unittitle id="c_5bad048f65879">Sales Records, 
+ <unitdate>1892-1906</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f65924">
+                    <did id="c_5bad048f659cf">
+                        <container type="box-folder" id="c_5bad048f65a7a">2.4</container>
+                        <unittitle id="c_5bad048f65b24">Sales Records, 
+ <unitdate>1906-1907</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f65bcf">
+                    <did id="c_5bad048f65c79">
+                        <container type="box-folder" id="c_5bad048f65d29">2.5</container>
+                        <unittitle id="c_5bad048f65dd4">Sales Records , 
+ <unitdate>1908-1913</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f65e7f">
+                    <did id="c_5bad048f65f29">
+                        <container type="box-folder" id="c_5bad048f65fd4">2.6</container>
+                        <unittitle id="c_5bad048f6607e">Popularity and Sales, 
+ <unitdate>1906-1914</unitdate>, 
+ <unitdate>1924</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f6612b">
+                    <did id="c_5bad048f661d5">
+                        <container type="box-folder" id="c_5bad048f66280">2.7</container>
+                        <unittitle id="c_5bad048f6632b">General Buffalo Cost and Expense Statement, 
+ <unitdate>1907</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f663d5">
+                    <did id="c_5bad048f66480">
+                        <container type="box-folder" id="c_5bad048f6652b">2.8</container>
+                        <unittitle id="c_5bad048f665d6">General Buffalo Cost and Expense Statement, 
+ <unitdate>1909</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f66680">
+                    <did id="c_5bad048f6672b">
+                        <container type="box-folder" id="c_5bad048f667d6">2.9</container>
+                        <unittitle id="c_5bad048f66880">General Buffalo Cost and Expense Statement, 
+ <unitdate>1910</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f6692a">
+                    <did id="c_5bad048f669d4">
+                        <container type="box-folder" id="c_5bad048f66a7f">2.10</container>
+                        <unittitle id="c_5bad048f66b2d">General Buffalo Cost and Expense Statement, 
+ <unitdate>1911</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f66be0">
+                    <did id="c_5bad048f66c89">
+                        <container type="box-folder" id="c_5bad048f66d3f">3.1</container>
+                        <unittitle id="c_5bad048f66de9">General Buffalo Cost and Expense Statement, 
+ <unitdate>1912</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f66e94">
+                    <did id="c_5bad048f66f4b">
+                        <container type="box-folder" id="c_5bad048f66ff5">3.2</container>
+                        <unittitle id="c_5bad048f6709f">Ledger, 
+ <unitdate>1913</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f67149">
+                    <did id="c_5bad048f671f1">
+                        <container type="box-folder" id="c_5bad048f6729c">3.3</container>
+                        <unittitle id="c_5bad048f67350">General Buffalo Cost and Expense Statement, 
+ <unitdate>1913</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f673fa">
+                    <did id="c_5bad048f674ac">
+                        <container type="box-folder" id="c_5bad048f67559">3.4</container>
+                        <unittitle id="c_5bad048f67607">General Buffalo Cost and Expense Statement, 
+ <unitdate>1914</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f676b2">
+                    <did id="c_5bad048f6775b">
+                        <container type="box-folder" id="c_5bad048f67803">3.5</container>
+                        <unittitle id="c_5bad048f678af"> Financial Statistics, 
+ <unitdate>circa 1914</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f67959">
+                    <did id="c_5bad048f67a04">
+                        <container type="box-folder" id="c_5bad048f67aae">3.6</container>
+                        <unittitle id="c_5bad048f67b59">Comparisons of Assets and Liabilities, 
+ <unitdate>1909-1914 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f67c03">
+                    <did id="c_5bad048f67cb8">
+                        <container type="box-folder" id="c_5bad048f67d62">3.7</container>
+                        <unittitle id="c_5bad048f67e0d">Financial Statistics, 
+ <unitdate>1904-1915</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f67eb7">
+                    <did id="c_5bad048f67f65">
+                        <container type="box-folder" id="c_5bad048f6800f">3.8</container>
+                        <unittitle id="c_5bad048f680ba">Miscellaneous Financial Records, 
+ <unitdate>1915-1916</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f68164">
+                    <did id="c_5bad048f6820f">
+                        <container type="box-folder" id="c_5bad048f682ba">3.9</container>
+                        <unittitle id="c_5bad048f68364">Financial Statements, 
+ <unitdate>1911</unitdate>, 
+ <unitdate>1914</unitdate>, 
+ <unitdate>1917</unitdate>, 
+ <unitdate>1923</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f6840f">
+                    <did id="c_5bad048f684ba">
+                        <container type="box-folder" id="c_5bad048f68565">3.10</container>
+                        <unittitle id="c_5bad048f6860c">Miscellaneous Financial Statistics. 
+ <unitdate>circa 1919-1925</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad048f686b4">
+                <did id="c_5bad048f6875b">
+                    <unitid id="Series4">IV.</unitid>
+                    <unittitle id="c_5bad048f688ba">Personnel 
+ <unitdate normal="1857" type="bulk" id="c_5bad048f6896b">1857</unitdate>, 
+ <unitdate normal="1901/1925" type="bulk" id="c_5bad048f68a15">1901-1925</unitdate>
+                    </unittitle>
+                </did>
+                <scopecontent id="c_5bad048f68abc">
+                    <p id="c_5bad048f68b63">See also 
+ <ref actuate="onrequest" role="text/html" show="replace" target="Series1" id="c_5bad048f68c0a">I. Darwin D. Martin Correspondence</ref>
+                    </p>
+                </scopecontent>
+                <c level="file" id="c_5bad048f68cbb">
+                    <did id="c_5bad048f68d62">
+                        <container type="box-folder" id="c_5bad048f68e09">4.1</container>
+                        <unittitle id="c_5bad048f68eaf">Employee Records (file cards)</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f68f56">
+                    <did id="c_5bad048f68ffd">
+                        <container type="box-folder" id="c_5bad048f690a5">4.2</container>
+                        <unittitle id="c_5bad048f69157">Employee Records - Notes, Evaluations etc.</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f691ff">
+                    <did id="c_5bad048f692a5">
+                        <container type="box-folder" id="c_5bad048f6934c">4.3</container>
+                        <unittitle id="c_5bad048f693f6">Employees - Statistical Analyses, 
+ <unitdate> circa 1915-1919</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f694a6">
+                    <did id="c_5bad048f6954a">
+                        <container type="box-folder" id="c_5bad048f695f5">4.4</container>
+                        <unittitle id="c_5bad048f6969e"> Employee Management, Policies 
+ <unitdate>1901 </unitdate>, 
+ <unitdate>1914</unitdate>, undated</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f69747">
+                    <did id="c_5bad048f697f0">
+                        <container type="box-folder" id="c_5bad048f69899">4.5</container>
+                        <unittitle id="c_5bad048f69941">"Ourselves" 
+ <unitdate>1919</unitdate>, 
+ <unitdate>1925</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f699eb">
+                    <did id="c_5bad048f69a94">
+                        <container type="box-folder" id="c_5bad048f69b3c">4.6</container>
+                        <unittitle id="c_5bad048f69be4">Certificate of Philip Cottle (employee?) from The
+ American Legal Association, 
+ <unitdate>1857 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad048f69c8d">
+                <did id="c_5bad048f69d36">
+                    <unitid id="Series5">V.</unitid>
+                    <unittitle id="c_5bad048f69e8d">Advertising, 
+ <unitdate type="inclusive" id="c_5bad048f69f36">undated</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad048f69feb">
+                    <did id="c_5bad048f6a094">
+                        <container type="box-folder" id="c_5bad048f6a13e">4.7</container>
+                        <unittitle id="c_5bad048f6a1e7"> Advertising and Form Letters</unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad048f6a290">
+                <did id="c_5bad048f6a339">
+                    <unitid id="Series6">VI.</unitid>
+                    <unittitle id="c_5bad048f6a48b">Administrative Procedures</unittitle>
+                </did>
+                <scopecontent id="c_5bad048f6a534">
+                    <p id="c_5bad048f6a5dc">Includes forms, manuals, etc.</p>
+                </scopecontent>
+                <c level="file" id="c_5bad048f6a683">
+                    <did id="c_5bad048f6a72b">
+                        <container type="box-folder" id="c_5bad048f6a7d3">4.8</container>
+                        <unittitle id="c_5bad048f6a879">Form Letters to Customers </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f6a924">
+                    <did id="c_5bad048f6a9cb">
+                        <container type="box-folder" id="c_5bad048f6aa73">4.9</container>
+                        <unittitle id="c_5bad048f6ab1a">Manuals, Forms, Procedures </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f6abc2">
+                    <did id="c_5bad048f6ac69">
+                        <container type="box-folder" id="c_5bad048f6ad11">4.10</container>
+                        <unittitle id="c_5bad048f6adef"> Clippings: Mail Order </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad048f6ae7b">
+                <did id="c_5bad048f6af31">
+                    <unitid id="Series7">VII.</unitid>
+                    <unittitle id="c_5bad048f6b09f">Larkin Publications, 
+ <unitdate normal="1913/1932" type="inclusive" id="c_5bad048f6b14a">1913-1932</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad048f6b1f5">
+                    <did id="c_5bad048f6b2a5">
+                        <container type="box-folder" id="c_5bad048f6b350">4.11</container>
+                        <unittitle id="c_5bad048f6b3fe">Publications and clippings, 
+ <unitdate>1913-1925</unitdate>
+                        </unittitle>
+                    </did>
+                    <scopecontent id="c_5bad048f6b4aa">
+                        <p id="c_5bad048f6b554">Includes 
+ <title type="book">Larkin Club of Ten</title> , 
+ <title type="book">Premium Catalog</title>, and 50th Anniversary
+ Feature in Buffalo Sunday Times.</p>
+                    </scopecontent>
+                </c>
+                <c level="file" id="c_5bad048f6b5ff">
+                    <did id="c_5bad048f6b6a9">
+                        <container type="box-folder" id="c_5bad048f6b753">4.12</container>
+                        <unittitle id="c_5bad048f6b7fe">
+                            <title type="book">"The First to Make a Card Ledger,"</title>
+                            <name>Darwin D. Martin </name>
+                            <unitdate>1932</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad048f6b8a9">
+                <did id="c_5bad048f6b953">
+                    <unitid id="Series8">VIII.</unitid>
+                    <unittitle id="c_5bad048f6baaa">Darwin D. Martin - Personal, 
+ <unitdate normal="1899/1960" type="inclusive" id="c_5bad048f6bb55">1899-1960</unitdate>,
+ undated</unittitle>
+                </did>
+                <c level="file" id="c_5bad048f6bbff">
+                    <did id="c_5bad048f6bcaa">
+                        <container type="box-folder" id="c_5bad048f6bd54">5.1</container>
+                        <unittitle id="c_5bad048f6bdfe"> Mr. Martin's Clippings </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f6beac">
+                    <did id="c_5bad048f6bf56">
+                        <container type="box-folder" id="c_5bad048f6c001">5.2</container>
+                        <unittitle id="c_5bad048f6c0ab">Formulas</unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f6c156">
+                    <did id="c_5bad048f6c201">
+                        <container type="box-folder" id="c_5bad048f6c2ac">5.3</container>
+                        <unittitle id="c_5bad048f6c356">Martin's Larkin Co. Manual, 
+ <unitdate>1900;</unitdate> Buyers Form; YMCA Stationery and
+ Envelope </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f6c403">
+                    <did id="c_5bad048f6c4ad">
+                        <container type="box-folder" id="c_5bad048f6c558">5.4</container>
+                        <unittitle id="c_5bad048f6c602"> Pan-American Exposition, Publicity Committee - Planning
+ Document, 
+ <unitdate>1899 </unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f6c6ad">
+                    <did id="c_5bad048f6c758">
+                        <container type="item" id="c_5bad048f6c802">Scrapbook</container>
+                        <unittitle id="c_5bad048f6c8c1"> Pan-American Exposition, 
+ <unitdate> 1901</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad048f6c978">
+                    <did id="c_5bad048f6ca26">
+                        <container type="box-folder" id="c_5bad048f6cad2">5.5</container>
+                        <unittitle id="c_5bad048f6cb7d"> Retrospective Note Written by DDM, 
+ <unitdate>circa 1960</unitdate>
+                        </unittitle>
+                    </did>
+                    <note id="c_5bad048f6cc2a">
+                        <p id="c_5bad048f6ccd7">About Larkin Premiums and Sales Policies.</p>
+                    </note>
+                </c>
+            </c>
+        </dsc>
+        <controlaccess>
+            <head>Search Terms</head>
+            <note>
+                <p>The following terms have been used to index the description of this
+ collection in the Library's online catalog.</p>
+            </note>
+            <controlaccess>
+                <head>Contributors</head>
+                <persname source="lcnaf" encodinganalog="700">Larkin, John D.,
+ 1845-1926</persname>
+                <corpname source="lcnaf" encodinganalog="710">Larkin Soap
+ Company</corpname>
+                <corpname source="lcnaf" encodinganalog="710">Buffalo History Museum</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Subject Terms</head>
+                <corpname source="lcnaf" encodinganalog="610" role="subject">Larkin
+ Soap Company</corpname>
+                <corpname encodinganalog="610" role="subject" rules="aacr2">J.D. Larkin
+ &amp; Company</corpname>
+                <corpname source="lcnaf" encodinganalog="611" role="subject">Pan-American Exposition (1901: Buffalo, N.Y.)</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Genre Terms</head>
+                <genreform source="aat" encodinganalog="655">Scrapbooks</genreform>
+            </controlaccess>
+        </controlaccess>
+        <descgrp type="add">
+            <head>Associated Material</head>
+            <relatedmaterial encodinganalog="544 1">
+                <head>Related Resources</head>
+                <list type="simple">
+                    <item> Mss. C85-1, Larkin Company Records, 1875-1974</item>
+                </list>
+            </relatedmaterial>
+        </descgrp>
+    </archdesc>
+</ead>

@@ -1,0 +1,584 @@
+<?xml version="1.0"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader audience="external" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511" relatedencoding="DC" scriptencoding="iso15924">
+        <eadid countrycode="us" publicid="-//Buffalo History Museum::Research Library//TEXT (US::NBuHi::B86-6::William J. Donovan Papers)//EN" mainagencycode="NBuHi" encodinganalog="identifier">nbuhi_tbhm_b86_6</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper encodinganalog="title">Finding Aid for the William J.
+ Donovan Papers, 
+ <date type="inclusive" normal="1913/1920" encodinganalog="date">1913-1920</date>
+                </titleproper>
+                <titleproper altrender="nodisplay" type="filing">Donovan (William J.)
+ Papers</titleproper>
+                <author encodinganalog="contributor">Finding aid prepared by Buffalo History Museum staff.</author>
+                <sponsor encodinganalog="contributor">Funding for the initial encoding
+ was provided through the Regional Bibliographic Databases Program administered
+ by the Western New York Library Resources Council.</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher encodinganalog="publisher">Buffalo History Museum. Research Library</publisher>
+                <address>
+                    <addressline>1 Museum Court</addressline>
+                    <addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: library@buffalohistory.org</addressline>
+                    <addressline>URI: http://www.buffalohistory.org</addressline>
+                </address>
+                <p>&#xA9; 
+ <date encodinganalog="date" type="publication">2010</date>. Buffalo History Museum. All rights reserved.</p>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid encoded in EAD by Kuniko Simon, April
+ 2008.</creation>
+            <langusage altrender="nodisplay">Finding aid written in
+ <language langcode="eng" encodinganalog="language">English</language>.
+ </langusage>
+            <descrules>Finding aid prepared using local best practices. </descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+        <did>
+            <head>Collection Overview</head>
+            <unittitle encodinganalog="245$a" label="Title">William J. Donovan Papers</unittitle>
+            <unitdate type="inclusive" encodinganalog="245$f" normal="1913/1920">1913 - 1920</unitdate>
+            <unitid encodinganalog="099" label="Collection Number" repositorycode="NBuHi" countrycode="US">Mss. B86-6</unitid>
+            <origination label="Creator">
+                <persname encodinganalog="100" source="lcnaf" role="creator">Donovan,
+ William J. (William Joseph), 1883-1959</persname>
+            </origination>
+            <physdesc label="Extent">
+                <extent unit="box" encodinganalog="300">3
+ boxes</extent>
+                <extent unit="linear foot" encodinganalog="300">(1.5 linear
+ feet)</extent>
+            </physdesc>
+            <langmaterial label="Language of Material" encodinganalog="546">Collection material in
+ <language encodinganalog="041" langcode="eng">English</language>.</langmaterial>
+            
+            <abstract encodinganalog="520" label="Abstract">The correspondence and
+ printed material relating to Captain (later Colonel) William J. Donovan's
+ military service, his legal career in Buffalo with O' Brian, Hamlin, Donovan
+ &amp; Goodyear, and his involvement with the American Legion and Theodore
+ Roosevelt Memorial Association. </abstract>
+        <repository>
+								<corpname>The Buffalo History Museum</corpname>
+							<address>
+								<addressline>1 Museum Court</addressline>
+							<addressline>Buffalo, NY 14216</addressline>
+                    <addressline>Phone: 716-873-9644 ext. 306</addressline>
+                    <addressline>Fax: 716-873-8754</addressline>
+                    <addressline>Email: library@buffalohistory.org</addressline>
+                    <addressline>URI: http://www.buffalohistory.org</addressline>
+                </address>
+            </repository>
+        </did>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <prefercite encodinganalog="524">
+                <head>Preferred Citation</head>
+                <p>[Description and dates], Box/folder number, Mss. B86-6, William J.
+ Donovan Papers, 1913-1920, Research Library, Buffalo History Museum.</p>
+            </prefercite>
+            <accessrestrict encodinganalog="506">
+                <head>Terms of Access</head>
+                <p>The William J. Donovan Papers, 1913-1920, are open for research.</p>
+            </accessrestrict>
+            <userestrict encodinganalog="540">
+                <head>Copyright</head>
+                <p>Copyright of papers in the collection may be held by their authors,
+ or the authors' heirs or assigns. Researchers must obtain the written
+ permission of the holder(s) of copyright and the Buffalo History Museum before publishing quotations from materials in the
+ collection.</p>
+            </userestrict>
+        </descgrp>
+        <descgrp type="admininfo">
+            <head>Administrative Information</head>
+            <acqinfo encodinganalog="541">
+                <head>Acquisition Information</head>
+                <p>Smyton, James W.; gift; 1984/12/05; unknown</p>
+            </acqinfo>
+            <accruals encodinganalog="584">
+                <head>Accruals and Additions</head>
+                <p>No further accruals are expected to this collection.</p>
+            </accruals>
+            <processinfo encodinganalog="583">
+                <head>Processing Information</head>
+                <p>Collection was reprocessed and retroconverted by Peter Nelson, 23
+ December 1991.</p>
+            </processinfo>
+        </descgrp>
+        <bioghist encodinganalog="545">
+            <head>Biographical Note </head>
+            <p>William J. Donovan was raised in Buffalo, educated at Miss Nardin's
+ Private School and St. Joseph's Collegiate Institute; he attended Niagara
+ University for two years before transferring to Columbia, where he earned his
+ A.B. in 1905 and LL.B. in 1907.</p>
+            <p>Donovan began his legal career in Buffalo with Love &amp; Keating. In
+ 1912, he formed a partnership that was to become the firm of O'Brian, Hamlin,
+ Donovan &amp; Goodyear (dissolved 1920).</p>
+            <p>Concurrently he actively pursued a military career, becoming one of
+ the founders of Troop I, 1st Cavalry of the New York National Guard, elected as
+ captain in 1912. In 1915, he visited Europe for the War Relief Commission; he
+ returned to serve on the Mexican border with Troop I, then underwent training
+ in a number of military camps, convinced that the United States' entry into
+ World War I was inevitable. He sailed for Europe with the Rainbow Division, one
+ of the first to mobilize, and soon became a battalion major in the "Fighting
+ 69th" New York Infantry (known in France as 165th). Donovan was rapidly
+ promoted to lt. colonel, then colonel. </p>
+            <p>During World War I, he was highly decorated for his leadership and
+ heroism, receiving the Croix de Guerre, Distinguished Service Cross, the Legion
+ of Honor medal and the Italian War Cross. After being discharged in May 1919,
+ he sailed for Asia to investigate the White Russian government of Aleksandr
+ Kolchak in Siberia, who was then struggling against the Bolsheviks. </p>
+            <p>In 1922, Donovan ran unsuccessfully for lt. governor of New York; in
+ 1932 he was defeated in his bid for New York's governorship. President Harding
+ appointed him U.S. attorney for the western district of New York in 1922; he
+ met with considerable success prosecuting major crime rings until 1924.</p>
+            <p>Donovan resumed his law practice in Buffalo until special duties
+ during World War II forced him to abandon it. Franklin Roosevelt assigned him
+ to coordinate information for the Joint Chiefs, and promoted him to brigadier
+ general and later to major general.</p>
+            <p>Donovan was also instrumental in helping to establish the Office of
+ Strategic Services, later the Central Intelligence Agency.</p>
+        </bioghist>
+        <scopecontent encodinganalog="520">
+            <head>Scope and Content Note</head>
+            <p>Correspondence and printed material relating to Captain (later
+ Colonel) Donovan's military service with the 1st Cavalry, New York National
+ Guard, and then with the "Fighting 69th" New York Infantry in World War I; his
+ legal career in Buffalo with O'Brian, Hamlin, Donovan &amp; Goodyear; and his
+ involvement with the American Legion, Theodore Roosevelt Memorial Association,
+ and Columbia University, circa 1915-1920. Correspondents include Douglas
+ MacArthur.</p>
+        </scopecontent>
+        <arrangement encodinganalog="351">
+            <head>Arrangement</head>
+            <p>This collection is arranged in ten series: 
+ <list>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series1">I. Correspondence</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series2">II. Siberia Trip</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series3">III. Post World War I: Europe and Asia</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series4">IV. Theodore Roosevelt Memorial Association</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series5">V. Columbia University Alumni Activities</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series6">VI. Purchases</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series7">VII. Cards and Announcements</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series8">VIII. American Legion</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series9">IX. Printed Material</ref>
+                    </item>
+                    <item>
+                        <ref actuate="onrequest" role="text/html" show="replace" target="series10">X. Miscellaneous Manuscripts</ref>.</item>
+                </list>
+            </p>
+        </arrangement>
+        <dsc type="combined">
+            <head>Container List </head>
+            <c level="series" id="c_5bad04a292aaa">
+                <did id="c_5bad04a292b5c">
+                    <unitid id="series1">I.</unitid>
+                    <unittitle id="c_5bad04a292cdb">Correspondence, 
+ <unitdate normal="1914/1920" type="inclusive" id="c_5bad04a292d98">1914-1920</unitdate>
+                    </unittitle>
+                </did>
+                <c level="subseries" id="c_5bad04a292e45">
+                    <did id="c_5bad04a292eeb">
+                        <unitid id="series1a">I.A.</unitid>
+                        <unittitle id="c_5bad04a29305a">Legal, 
+ <unitdate normal="1914/1915" type="inclusive">1914-1915</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad04a293102">
+                        <did id="c_5bad04a2931b0">
+                            <container type="box-folder"> 1.1</container>
+                            <unittitle>1914 </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04a293259">
+                        <did id="c_5bad04a2932ff">
+                            <container type="box-folder"> 1.2</container>
+                            <unittitle>1915</unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad04a2933b6">
+                    <did id="c_5bad04a293471">
+                        <unitid id="series1b">I.B.</unitid>
+                        <unittitle id="c_5bad04a293607">Personal, 
+ <unitdate normal="1913/1920" type="inclusive">1913-1920</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad04a2936ae">
+                        <did id="c_5bad04a293754">
+                            <container type="box-folder"> 1.3</container>
+                            <unittitle>
+                                <unitdate>1913-1914</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04a29380a">
+                        <did id="c_5bad04a2938bd">
+                            <container type="box-folder"> 1.4</container>
+                            <unittitle>
+                                <unitdate>January-August 1915</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04a293964">
+                        <did id="c_5bad04a293a17">
+                            <container type="box-folder"> 1.5</container>
+                            <unittitle>
+                                <unitdate>September-December 1915</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04a293ac9">
+                        <did id="c_5bad04a293b70">
+                            <container type="box-folder"> 1.6</container>
+                            <unittitle>
+                                <unitdate>January-February 1916</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04a293c18">
+                        <did id="c_5bad04a293cbf">
+                            <container type="box-folder"> 1.7</container>
+                            <unittitle>
+                                <unitdate>March-December 1916</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04a293d66">
+                        <did id="c_5bad04a293e0c">
+                            <container type="box-folder"> 1.8</container>
+                            <unittitle>
+                                <unitdate>January-December 1917</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04a293eb6">
+                        <did id="c_5bad04a293f5e">
+                            <container type="box-folder"> 1.9</container>
+                            <unittitle>
+                                <unitdate>1918</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04a294011">
+                        <did id="c_5bad04a2940b9">
+                            <container type="box-folder"> 1.10</container>
+                            <unittitle>
+                                <unitdate>February-May 1919</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04a294161">
+                        <did id="c_5bad04a294208">
+                            <container type="box-folder"> 1.11</container>
+                            <unittitle>
+                                <unitdate>June-September 1919</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04a2942b3">
+                        <did id="c_5bad04a29435e">
+                            <container type="box-folder"> 2.1-2.2</container>
+                            <unittitle>
+                                <unitdate>October 1919</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04a294416">
+                        <did id="c_5bad04a2944ef">
+                            <container type="box-folder"> 2.3</container>
+                            <unittitle>
+                                <unitdate>November 1919</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04a2945bd">
+                        <did id="c_5bad04a29466c">
+                            <container type="box-folder"> 2.4</container>
+                            <unittitle>
+                                <unitdate>January-May 1920</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04a294727">
+                        <did id="c_5bad04a2947e8">
+                            <container type="box-folder"> 2.5</container>
+                            <unittitle>
+                                <unitdate>June 1920</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04a2948a8">
+                        <did id="c_5bad04a29496c">
+                            <container type="box-folder"> 2.6</container>
+                            <unittitle>
+                                <unitdate>July-October 1920</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad04a294a16">
+                    <did id="c_5bad04a294ade">
+                        <unitid id="series1c">I.C.</unitid>
+                        <unittitle id="c_5bad04a294c48">Military,</unittitle>
+                        <unitdate normal="1917/1920" type="inclusive" id="c_5bad04a294d05">1917-1920</unitdate>
+                    </did>
+                    <c level="file" id="c_5bad04a294dbd">
+                        <did id="c_5bad04a294e67">
+                            <container type="box-folder">2.7</container>
+                            <unittitle>
+                                <unitdate>1917</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04a294f11">
+                        <did id="c_5bad04a294fc6">
+                            <container type="box-folder">2.8</container>
+                            <unittitle>
+                                <unitdate>1919</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                    <c level="file" id="c_5bad04a295070">
+                        <did id="c_5bad04a29512c">
+                            <container type="box-folder">2.9</container>
+                            <unittitle>
+                                <unitdate>1920</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+                <c level="subseries" id="c_5bad04a2951d5">
+                    <did id="c_5bad04a295281">
+                        <unitid id="series1d">I.D.</unitid>
+                        <unittitle id="c_5bad04a295415">Telegrams, 
+ <unitdate normal="1915/1920" type="bulk">1915-1920</unitdate>
+                        </unittitle>
+                    </did>
+                    <c level="file" id="c_5bad04a2954c0">
+                        <did id="c_5bad04a295569">
+                            <container type="box-folder">3.1</container>
+                            <unittitle>
+                                <unitdate>1915-1916</unitdate>, 
+ <unitdate>1919-1920</unitdate>
+                            </unittitle>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04a295612">
+                <did id="c_5bad04a2956bf">
+                    <unitid id="series2">II.</unitid>
+                    <unittitle id="c_5bad04a295822">Siberia trip, 
+ <unitdate normal="1919" type="inclusive" id="c_5bad04a2958cc">1919</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04a295976">
+                    <did id="c_5bad04a295a20">
+                        <container type="box-folder" id="c_5bad04a295ac8">3.2</container>
+                        <unittitle id="c_5bad04a295b71">Siberia Trip, 
+ <unitdate normal="1919">1919</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04a295c1b">
+                <did id="c_5bad04a295cc5">
+                    <unitid id="series3">III.</unitid>
+                    <unittitle id="c_5bad04a295e1e">Post World War I: Europe and Asia , 
+ <unitdate normal="1919" type="inclusive" id="c_5bad04a295ec8">1919</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04a295f72">
+                    <did id="c_5bad04a29601c">
+                        <container type="box-folder" id="c_5bad04a2960d1">3.3</container>
+                        <unittitle id="c_5bad04a296196">Post World War I: Europe and Asia, 1919</unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04a296240">
+                <did id="c_5bad04a2962ea">
+                    <unitid id="series4">IV.</unitid>
+                    <unittitle id="c_5bad04a296458">Theodore Roosevelt Memorial Association, 
+ <unitdate normal="1919/1920" type="inclusive" id="c_5bad04a296501">1919-1920</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04a2965ac">
+                    <did id="c_5bad04a296667">
+                        <container type="box-folder" id="c_5bad04a296727">3.4</container>
+                        <unittitle id="c_5bad04a2967e8">Theodore Roosevelt Memorial Association, 
+ <unitdate>1919-1920</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04a29689d">
+                <did id="c_5bad04a29697f">
+                    <unitid id="series5">V.</unitid>
+                    <unittitle id="c_5bad04a296ad5">Columbia University Alumni Activities, 
+ <unitdate type="bulk" id="c_5bad04a296b7e">undated</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04a296c28">
+                    <did id="c_5bad04a296ce1">
+                        <container type="box-folder" id="c_5bad04a296d8d">3.5</container>
+                        <unittitle id="c_5bad04a296e36">Columbia University Alumni Activities, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04a296ee0">
+                <did id="c_5bad04a296f89">
+                    <unitid id="series6">VI.</unitid>
+                    <unittitle id="c_5bad04a29710c">Purchases, 
+ <unitdate normal="1915/1920" type="inclusive" id="c_5bad04a2971d2">1915-1920</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04a297294">
+                    <did id="c_5bad04a297357">
+                        <container type="box-folder" id="c_5bad04a29740e">3.6</container>
+                        <unittitle id="c_5bad04a2974c3">General, 
+ <unitdate>1915-1919</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+                <c level="file" id="c_5bad04a29757b">
+                    <did id="c_5bad04a297625">
+                        <container type="box-folder" id="c_5bad04a2976ce">3.7</container>
+                        <unittitle id="c_5bad04a297778">Books, 
+ <unitdate>1915</unitdate>, 
+ <unitdate>1919-1920</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04a297822">
+                <did id="c_5bad04a2978ca">
+                    <unitid id="series7">VII.</unitid>
+                    <unittitle id="c_5bad04a297a39">Cards and Announcements, 
+ <unitdate type="bulk" id="c_5bad04a297af5">undated</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04a297bb5">
+                    <did id="c_5bad04a297c87">
+                        <container type="box-folder" id="c_5bad04a297d30">3.8</container>
+                        <unittitle id="c_5bad04a297deb">Cards and Announcements, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04a297ead">
+                <did id="c_5bad04a297f6c">
+                    <unitid id="series8">VIII.</unitid>
+                    <unittitle id="c_5bad04a2980e3">American Legion, 
+ <unitdate type="bulk" normal="1919/1920" id="c_5bad04a2981a7">1919-1920</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04a298268">
+                    <did id="c_5bad04a29832a">
+                        <container type="box-folder" id="c_5bad04a2983ea">3.9</container>
+                        <unittitle id="c_5bad04a2984a9">American Legion, 
+ <unitdate>1919-1920</unitdate>, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04a298558">
+                <did id="c_5bad04a298613">
+                    <unitid id="series9">IX.</unitid>
+                    <unittitle id="c_5bad04a298796">Printed Material, 
+ <unitdate type="bulk" id="c_5bad04a298844">undated</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04a298902">
+                    <did id="c_5bad04a2989c2">
+                        <container type="box-folder" id="c_5bad04a298a81">3.10-3.11</container>
+                        <unittitle id="c_5bad04a298b2f">Printed Material, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+            <c level="series" id="c_5bad04a298bde">
+                <did id="c_5bad04a298c88">
+                    <unitid id="series10">X.</unitid>
+                    <unittitle id="c_5bad04a298de0">Miscellaneous Manuscripts, 
+ <unitdate type="inclusive" id="c_5bad04a298e95">undated</unitdate>
+                    </unittitle>
+                </did>
+                <c level="file" id="c_5bad04a298f5d">
+                    <did id="c_5bad04a299006">
+                        <container type="box-folder" id="c_5bad04a2990af">3.12</container>
+                        <unittitle id="c_5bad04a299159"> Miscellaneous Manuscripts, 
+ <unitdate>undated</unitdate>
+                        </unittitle>
+                    </did>
+                </c>
+            </c>
+        </dsc>
+        <controlaccess>
+            <head>Search Terms</head>
+            <note>
+                <p>The following terms have been used to index the description of this
+ collection in the Library's online catalog.</p>
+            </note>
+            <controlaccess>
+                <head>Contributors</head>
+                <persname source="lcnaf" encodinganalog="700">MacArthur, Douglas,
+ 1880-1964</persname>
+                <corpname encodinganalog="710" rules="aacr2">O'Brian, Hamlin, Donovan
+ &amp; Goodyear (Buffalo, N.Y.)</corpname>
+                <corpname source="lcnaf" encodinganalog="710">Roosevelt Memorial
+ Association</corpname>
+                <corpname source="lcnaf" encodinganalog="710">Buffalo History Museum</corpname>
+            </controlaccess>
+            <controlaccess>
+                <head>Subject Terms</head>
+                <persname source="lcnaf" encodinganalog="600" role="subject">Roosevelt,
+ Theodore, 1858-1919</persname>
+                <corpname source="lcnaf" encodinganalog="610" role="subject">Columbia
+ University--Alumni and alumnae</corpname>
+                <subject source="lcsh" encodinganalog="650">World War,
+ 1914-1918--Campaigns</subject>
+                <corpname source="lcnaf" encodinganalog="650" role="subject">United
+ States. Army. New York Infantry Regiment, 69th (1861-1865)</corpname>
+                <subject source="lcsh" encodinganalog="650">Law offices--New York
+ (State)--Buffalo</subject>
+                <geogname encodinganalog="651" source="lcsh">Siberia--History--Revolution, 1917-1921</geogname>
+            </controlaccess>
+            <controlaccess>
+                <head>Genre Terms</head>
+                <genreform source="aat" encodinganalog="655">Correspondence</genreform>
+            </controlaccess>
+        </controlaccess>
+    <otherfindaid type="eaditor_upload">
+					<bibref>
+						<extptr xlink:type="simple" xlink:href="a431f1_William_J._Donovan.pdf" xlink:role="application/pdf"/>
+					</bibref>
+				</otherfindaid>
+    </archdesc>
+</ead>
