@@ -44,7 +44,7 @@
         <did>
             <head>Collection Overview</head>
             <unittitle encodinganalog="245$a" label="Title">Niagara County Records</unittitle>
-            <unitdate type="inclusive" encodinganalog="245$f" datechar="creation" normal="">1808-1830</unitdate>
+            <unitdate type="inclusive" encodinganalog="245$f" datechar="creation" normal="1808/1830">1808-1830</unitdate>
             <unitdate normal="1808/1820" type="bulk" datechar="creation" encodinganalog="245$g">1808 - 1820</unitdate>
             <unitid encodinganalog="099" label="Collection Number" repositorycode="NBuHi" countrycode="US">Mss. B00-10</unitid>
             <origination label="Creator">
